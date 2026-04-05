@@ -1,0 +1,331 @@
+{
+  "page_model": "A",
+  "slug": "reticlear-us",
+  "language": "en",
+  "theme": "theme.css",
+  "product_name": "RetiClear",
+  "meta_title": "RetiClear — Restore Sharp, Clear Vision Naturally",
+  "meta_description": "RetiClear targets the root cause of age-related vision decline. Clinically studied ingredients. 60-day money-back guarantee. Free shipping.",
+  "cta_text": "Order Now",
+  "cta_url": "https://checkout.example.com/reticlear-us",
+  "year": "2026",
+  "alert_badges": [
+    {
+      "icon": "fa-solid fa-fire",
+      "text": "Limited Offer: Save $300 — Today Only"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "text": "60-Day Money-Back Guarantee"
+    },
+    {
+      "icon": "fa-solid fa-truck-fast",
+      "text": "Free Shipping on All Orders"
+    }
+  ],
+  "nav_links": [
+    {
+      "href": "#benefits",
+      "label": "Benefits"
+    },
+    {
+      "href": "#features",
+      "label": "Ingredients"
+    },
+    {
+      "href": "#reviews",
+      "label": "Reviews"
+    },
+    {
+      "href": "#faq",
+      "label": "FAQ"
+    }
+  ],
+  "hero_badge": "Trusted by 127,000+ Americans",
+  "headline": "Don't Let Age Steal Your ",
+  "headline_highlight": "Sharp, Clear Vision",
+  "hero_subtext_1": "If you're over 40 and noticing blurry vision, eye strain, or difficulty reading — you're not alone. And you don't have to accept it as \"just getting older.\"",
+  "hero_subtext_2": "RetiClear is a breakthrough natural formula designed to target the root cause of age-related vision decline — restoring crisp, comfortable eyesight from the inside out.",
+  "hero_tags": [
+    {
+      "icon": "fa-solid fa-eye",
+      "text": "2 Capsules Daily"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "text": "100% Natural"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "text": "No Side Effects"
+    }
+  ],
+  "hero_cta_text": "Claim Your Discount — Save $300",
+  "hero_guarantee_text": "Risk-free — full refund if not satisfied. No questions asked.",
+  "hero_image": "https://placehold.co/480x480/1e3a8a/60a5fa?text=RetiClear",
+  "trust_badges": [
+    {
+      "icon": "fa-solid fa-certificate",
+      "title": "GMP Certified",
+      "subtitle": "Production standards"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "FDA Registered",
+      "subtitle": "Facility inspected"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "100% Natural",
+      "subtitle": "No artificial additives"
+    },
+    {
+      "icon": "fa-solid fa-flag-usa",
+      "title": "Made in USA",
+      "subtitle": "Quality manufacturing"
+    },
+    {
+      "icon": "fa-solid fa-ban",
+      "title": "Non-GMO",
+      "subtitle": "Pure ingredients"
+    }
+  ],
+  "stats": [
+    {
+      "value": "127,000+",
+      "label": "Happy Customers"
+    },
+    {
+      "value": "4.98★",
+      "label": "Average Rating"
+    },
+    {
+      "value": "97%",
+      "label": "Would Recommend"
+    }
+  ],
+  "benefits_label": "The Vision Crisis",
+  "benefits_headline": "Why Most People Over 40 Struggle With Their Eyesight",
+  "benefits_paragraphs": [
+    "After 40, the protective layer inside your eyes begins to thin. Oxidative stress, blue light exposure, and nutrient deficiencies accelerate the damage — causing blurry vision, eye strain, and difficulty focusing.",
+    "Reading menus, driving at night, seeing your phone clearly — things you once took for granted become daily struggles. And standard glasses only mask the symptoms.",
+    "<strong>RetiClear changes this.</strong> Our formula combines 8 clinically studied nutrients that target the root cause of vision decline — not just correcting your sight, but protecting and restoring it from the inside out."
+  ],
+  "urgency_text": "Save $300 today — but stock is running low. Don't wait.",
+  "benefits_cta_text": "Restore Your Vision — Save $300",
+  "benefits_image": "https://placehold.co/480x480/f8fafc/2563eb?text=Lab+Research",
+  "features_label": "The RetiClear Difference",
+  "features_headline": "8 Natural Nutrients. One Vision-Saving Formula.",
+  "features_subheadline": "Each ingredient chosen for maximum impact on eye health — backed by science, not hype.",
+  "features_cta_text": "Order Now — Save $300",
+  "features": [
+    {
+      "icon": "fa-solid fa-eye",
+      "title": "Lutein (20mg)",
+      "description": "The #1 nutrient for macular health. Filters harmful blue light and protects the retina from oxidative damage — keeping your central vision sharp."
+    },
+    {
+      "icon": "fa-solid fa-shield-heart",
+      "title": "Zeaxanthin (4mg)",
+      "description": "Works alongside Lutein to form a protective shield over your macula. Reduces glare sensitivity and improves contrast vision."
+    },
+    {
+      "icon": "fa-solid fa-carrot",
+      "title": "Vitamin A (900mcg)",
+      "description": "Essential for night vision and tear production. Prevents dry eyes and helps your retina convert light into clear images."
+    },
+    {
+      "icon": "fa-solid fa-bolt",
+      "title": "Bilberry Extract",
+      "description": "Improves blood flow to the retina and strengthens capillaries. Used by pilots in WWII for sharper night vision."
+    },
+    {
+      "icon": "fa-solid fa-seedling",
+      "title": "Zinc (11mg)",
+      "description": "Transports Vitamin A from liver to retina. Critical for maintaining the health of your eye's light-sensitive cells."
+    },
+    {
+      "icon": "fa-solid fa-flask",
+      "title": "Omega-3 DHA",
+      "description": "Makes up 60% of your retina's fatty acids. Reduces inflammation and supports the fluid layer that keeps eyes comfortable."
+    }
+  ],
+  "science_label": "The Science Behind RetiClear",
+  "science_headline": "How It Works: The 3-Step Vision Restoration",
+  "science_subheadline": "RetiClear doesn't just mask symptoms — it targets the root causes of vision decline.",
+  "science_image": "https://placehold.co/600x600/f8fafc/2563eb?text=Science",
+  "science_title": "The 3 Pillars of Restored Vision",
+  "science_steps": [
+    {
+      "step": "1. Shields the Macula:",
+      "text": "Lutein and Zeaxanthin form a protective pigment layer over your macula — filtering blue light and blocking oxidative damage before it starts."
+    },
+    {
+      "step": "2. Restores Blood Flow:",
+      "text": "Bilberry Extract and Omega-3 improve microcirculation to the retina, delivering oxygen and nutrients to starving eye cells."
+    },
+    {
+      "step": "3. Rebuilds Eye Tissue:",
+      "text": "Vitamin A and Zinc work together to regenerate photoreceptor cells — the light-sensitive neurons that create sharp, detailed vision."
+    }
+  ],
+  "science_result": "The result: You notice clearer vision within weeks. The improvement compounds over months.",
+  "science_cta_text": "Start Your Vision Recovery",
+  "reviews_label": "Real People. Real Results.",
+  "reviews_headline": "What Happens When You Take RetiClear",
+  "reviews_subheadline": "These are verified reviews from people just like you — who refused to accept vision decline as inevitable.",
+  "reviews": [
+    {
+      "body": "I was told I'd need stronger glasses every year. After 3 months of RetiClear, my optometrist was shocked — my vision actually improved. I can read menus again without squinting. This stuff is real.",
+      "name": "Patricia M., Phoenix, AZ",
+      "verified_text": "Verified Customer"
+    },
+    {
+      "body": "Night driving was terrifying. Headlights blurred into halos. After 6 weeks on RetiClear, the difference is night and day — literally. I feel safe behind the wheel again.",
+      "name": "Robert J., Dallas, TX",
+      "verified_text": "Verified Customer"
+    },
+    {
+      "body": "I'm 62 and I was starting to lose hope. My doctor said macular degeneration was just part of aging. RetiClear gave me back my confidence. I can see my grandchildren's faces clearly. Worth every penny.",
+      "name": "Linda S., Tampa, FL",
+      "verified_text": "Verified Customer"
+    }
+  ],
+  "review_stats": [
+    {
+      "value": "4.98★",
+      "label": "Average Rating"
+    },
+    {
+      "value": "127,000+",
+      "label": "Verified Customers"
+    },
+    {
+      "value": "97%",
+      "label": "Would Recommend"
+    }
+  ],
+  "faq_label": "Questions? We've Got Answers.",
+  "faq_headline": "Everything You Need to Know Before You Order",
+  "faq_items": [
+    {
+      "question": "Will this actually improve my vision?",
+      "answer": "RetiClear contains clinically studied nutrients (Lutein, Zeaxanthin, Bilberry, Omega-3 DHA) that have been shown in peer-reviewed studies to support macular health and improve visual acuity. Over 127,000 customers have reported noticeable improvements. While individual results vary, the science is clear — these nutrients protect and restore eye health. Give it 4-6 weeks of consistent use."
+    },
+    {
+      "question": "Is it safe? Are there any side effects?",
+      "answer": "RetiClear is 100% natural, stimulant-free, and made in an FDA-registered, GMP-certified facility in the USA. The ingredients are well-studied vitamins and plant extracts with excellent safety profiles. No prescription needed. If you have an eye condition or take medications, consult your doctor first."
+    },
+    {
+      "question": "How do I take it?",
+      "answer": "Just 2 capsules daily with a meal. Most people notice initial improvements in eye comfort and reduced strain within the first 2 weeks. For full vision restoration benefits, consistent use for 3-6 months is recommended."
+    },
+    {
+      "question": "What if it doesn't work for me?",
+      "answer": "We have a 60-day unconditional money-back guarantee. If you don't notice a meaningful improvement in your vision within 60 days, contact us for a full refund — no questions asked. You can even keep the bottles."
+    },
+    {
+      "question": "Is this a subscription?",
+      "answer": "No. One-time purchase only. No hidden charges, no auto-shipments, no surprises. Many customers reorder because they love the results — but that's entirely your choice."
+    },
+    {
+      "question": "Why do most customers choose the 6-bottle kit?",
+      "answer": "Two reasons: First, vision restoration is not overnight — it takes consistent daily nutrition over 3-6 months for the ingredients to fully rebuild and protect your eye tissue. Second, the 6-bottle kit offers the biggest discount (save $300) and includes free shipping."
+    }
+  ],
+  "footer_description": "RetiClear is the #1 natural formula for age-related vision support. Made in the USA with premium, clinically studied ingredients.",
+  "support_email": "support@reticlear.com",
+  "footer_nav_title": "Navigate",
+  "footer_legal_title": "Legal",
+  "legal_links": [
+    {
+      "modal": "privacy",
+      "label": "Privacy Policy"
+    },
+    {
+      "modal": "terms",
+      "label": "Terms of Service"
+    },
+    {
+      "modal": "returns",
+      "label": "Returns & Refunds"
+    },
+    {
+      "modal": "contact",
+      "label": "Contact Us"
+    }
+  ],
+  "distributor_notice": "<strong>Distributor Notice:</strong> This website is operated by an independent authorized distributor of RetiClear. We are not the manufacturer or brand owner. All trademarks, product names, and logos are the property of their respective owners. Individual results may vary.",
+  "disclaimer": "* These statements have not been evaluated by the FDA. RetiClear is not intended to diagnose, treat, cure, or prevent any disease. Results shown reflect individual experiences and are not guaranteed.",
+  "copyright_text": "All rights reserved.",
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Privacy Policy",
+      "intro": "Last updated: 2026. RetiClear and its authorized distributors are committed to protecting your personal information.",
+      "sections": [
+        {
+          "heading": "Information We Collect",
+          "content": "We collect information you provide directly (name, email, shipping address, payment information) when you place an order. We also collect usage data automatically through cookies and analytics tools."
+        },
+        {
+          "heading": "How We Use Your Information",
+          "content": "Your information is used exclusively to process your order, provide customer support, send order updates, and (with your consent) inform you of promotions. We do not sell or rent your personal data."
+        },
+        {
+          "heading": "Data Security",
+          "content": "All payment transactions are encrypted using SSL technology. We maintain physical, electronic, and procedural safeguards to protect your information."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Terms of Service",
+      "intro": "By purchasing from this website, you agree to the following terms and conditions.",
+      "sections": [
+        {
+          "heading": "Independent Distributor",
+          "content": "This website is operated by an independent authorized distributor. Purchases are fulfilled through the official fulfillment network."
+        },
+        {
+          "heading": "Product Use",
+          "content": "RetiClear is a dietary supplement designed for adults. Do not exceed the recommended dosage. Consult with a healthcare professional before use if you have any medical conditions."
+        },
+        {
+          "heading": "Limitation of Liability",
+          "content": "Our liability is limited to the purchase price of the product. Individual results may vary and are not guaranteed."
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Returns & Refunds",
+      "intro": "We stand behind RetiClear with a full 60-day money-back guarantee on all orders.",
+      "sections": [
+        {
+          "heading": "60-Day Money-Back Guarantee",
+          "content": "If you are not completely satisfied within 60 days of delivery, we will issue a full refund — no questions asked."
+        },
+        {
+          "heading": "How to Request a Refund",
+          "content": "Email us at support@reticlear.com with your order number. Refunds are processed within 5-10 business days."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Us",
+      "intro": "Our customer support team is available Monday-Friday, 9am-5pm EST.",
+      "sections": [
+        {
+          "heading": "Email Support",
+          "content": "For order inquiries, returns, or general questions: support@reticlear.com"
+        },
+        {
+          "heading": "Response Time",
+          "content": "We aim to respond within 1-2 business days. Include your order number for faster processing."
+        }
+      ]
+    }
+  ]
+}

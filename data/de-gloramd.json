@@ -1,0 +1,635 @@
+{
+  "page_model": "A",
+  "slug": "de-gloramd",
+  "language": "de",
+  "theme": "glora.css",
+  "product_name": "GloraMD",
+
+  "company_name": "UAB Commerce Core",
+  "support_phone": "+1 (331) 207-9814",
+  "support_email": "support@get-gloramd.com",
+  "company_address": "Savanorių pr. 363, Kaunas, Lithuania",
+
+  "meta_title": "GloraMD Gesichtsserum 2026 | Straffende Anti-Aging Pflege für junge Haut",
+  "meta_description": "✓ GloraMD Face Lift Serum mit Peptiden & Hyaluronsäure ✓ Strafft die Haut sichtbar ✓ Reduziert feine Linien ✓ 90 Tage Geld-zurück-Garantie ✓ 29,48€ / Stück ✓ Kostenloser Versand nach DE, AT, CH",
+  "meta_keywords": "GloraMD, GloraMD Serum, GloraMD Gesichtsserum, Face Lift Serum, straffendes Gesichtsserum, Anti-Aging Serum, Anti-Falten Serum, Peptide Serum, Hyaluronsäure Serum, natürliche Hautpflege, jugendliche Haut, Falten reduzieren, Haut straffen, Kollagen Booster, beste Gesichtspflege 2026, Serum gegen Falten, Augenfalten, Linien im Gesicht, Hautalterung stoppen, GloraMD kaufen, GloraMD bestellen, GloraMD Deutschland, GloraMD Österreich, GloraMD Schweiz",
+  "geo_region": "DE",
+  "geo_placename": "Deutschland",
+  "canonical_url": "https://get-gloramd.com/de/",
+  "hreflang": [
+    { "lang": "de-DE", "url": "https://get-gloramd.com/de/" },
+    { "lang": "de-AT", "url": "https://get-gloramd.com/at/" },
+    { "lang": "de-CH", "url": "https://get-gloramd.com/ch/" }
+  ],
+
+  "og_image": "images/og-cover.webp",
+  "og_locale": "de_DE",
+  "og_type": "product",
+  "og_site_name": "GloraMD Deutschland",
+  "twitter_card": "summary_large_image",
+  "twitter_site": "@gloramd",
+  "price_valid_until": "2026-12-31",
+  "sku": "GLORA-MD-FACE-SERUM-30ML",
+  "mpn": "GLORA-MD-001",
+  "gtin": "",
+  "item_condition": "https://schema.org/NewCondition",
+  "availability": "https://schema.org/InStock",
+
+  "price_amount": "29.48",
+  "price_currency": "EUR",
+  "rating_value": "4.7",
+  "rating_count": "75000",
+
+  "cta_text": "Jetzt bestellen",
+  "cta_url": "https://www.fasttrack36.com/PHPWHDRK/2WGDFFCT/?uid=53215",
+  "year": "2026",
+
+  "alert_badges": [
+    { "icon": "fa-solid fa-percent", "text": "70% sparen" },
+    { "icon": "fa-solid fa-shield-halved", "text": "90 Tage Garantie" },
+    { "icon": "fa-solid fa-truck-fast", "text": "Kostenloser Versand" }
+  ],
+
+  "nav_links": [
+    { "href": "#benefits", "label": "Vorteile" },
+    { "href": "#features", "label": "Inhaltsstoffe" },
+    { "href": "#reviews", "label": "Bewertungen" },
+    { "href": "#faq", "label": "FAQ" }
+  ],
+
+  "hero_badge": "4.7/5 · Über 75.000 zufriedene Kundinnen",
+  "headline": "Straffende Gesichtspflege für ",
+  "headline_highlight": "jugendlichen Teint",
+  "hero_subtext_1": "GloraMD wurde entwickelt, um die natürliche Elastizität der Haut zu unterstützen und feine Linien sichtbar zu reduzieren. Für eine straffere, frischere Haut ohne invasive Behandlungen.",
+  "hero_subtext_2": "Die Formel kombiniert hochwirksame Peptide und pflanzliche Extrakte, die in klinischen Studien untersucht wurden. Ohne Parabene, ohne Mineralöle, ohne Kompromisse.",
+  "hero_tags": [
+    { "icon": "fa-solid fa-leaf", "text": "100% Natürlich" },
+    { "icon": "fa-solid fa-flask-vial", "text": "Klinisch inspiriert" },
+    { "icon": "fa-solid fa-ban", "text": "Ohne Parabene" }
+  ],
+  "hero_cta_text": "Jetzt 50% Rabatt sichern",
+  "hero_guarantee_text": "60 Tage Geld-zurück-Garantie",
+  "hero_image": "images/hero.webp",
+
+  "trust_badges": [
+    { "icon": "fa-solid fa-certificate", "title": "GMP Zertifiziert", "subtitle": "Höchste Qualitätsstandards" },
+    { "icon": "fa-solid fa-seedling", "title": "100% Natürlich", "subtitle": "Rein pflanzliche Formel" },
+    { "icon": "fa-solid fa-ban", "title": "GMO-Frei", "subtitle": "Keine Gentechnik" },
+    { "icon": "fa-solid fa-heart", "title": "Tierversuchsfrei", "subtitle": "Nicht an Tieren getestet" },
+    { "icon": "fa-solid fa-shield-halved", "title": "FDA Registriert", "subtitle": "Sicherheit geprüft" }
+  ],
+
+  "stats": [
+    { "value": "Über 75.000", "label": "Zufriedene Kunden" },
+    { "value": "4.7★", "label": "Durchschnittsbewertung" },
+    { "value": "94%", "label": "Würden weiterempfehlen" }
+  ],
+
+  "benefits_label": "Die Herausforderung",
+  "benefits_headline": "Warum die Haut mit dem Alter Falten bildet und Spannkraft verliert",
+  "benefits_paragraphs": [
+    "Ab dem 30. Lebensjahr verlangsamt sich die natürliche Kollagenproduktion der Haut um etwa 1% pro Jahr. Gleichzeitig nimmt die Elastin-Synthese ab, was zu einer nachlassenden Hautelastizität führt. Diese biologischen Prozesse sind der Hauptgrund für die Entstehung feiner Linien und ein weniger straffes Hautbild.",
+    "Äußere Faktoren wie UV-Strahlung, Umweltverschmutzung und Stress beschleunigen diese Prozesse zusätzlich. Viele Menschen bemerken, dass ihre Haut müde wirkt, die Gesichtskonturen weniger definiert erscheinen und die natürliche Ausstrahlung nachlässt.",
+    "GloraMD wurde mit einer speziellen Kombination aus signalpeptiden und Antioxidantien entwickelt, die die Haut auf zellulärer Ebene unterstützen. <strong>Die Formel arbeitet mit der Haut, nicht gegen sie – für ein sichtbar frischeres Erscheinungsbild.</strong>"
+  ],
+  "urgency_text": "Aktuell 70% Rabatt – 90 Tage Garantie – Solange der Vorrat reicht",
+  "benefits_cta_text": "Jetzt bestellen",
+  "benefits_image": "images/lab.webp",
+
+  "features_label": "Wissenschaftlich inspirierte Formel",
+  "features_headline": "Hochwirksame Inhaltsstoffe für sichtbare Ergebnisse",
+  "features_subheadline": "Jede Zutat wurde auf Basis wissenschaftlicher Erkenntnisse ausgewählt",
+  "features_cta_text": "Jetzt bestellen",
+  "features": [
+    {
+      "icon": "fa-solid fa-dna",
+      "title": "Signalpeptide",
+      "description": "Kurze Aminosäuresequenzen, die die natürliche Kollagensynthese in der Haut unterstützen können – was zu einer sichtbar strafferen Hautstruktur führt."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Hyaluronsäure",
+      "description": "Bindet Feuchtigkeit in der Haut und trägt zu einem pralleren, hydratisierten Hautbild bei. Kann das Erscheinungsbild feiner Linien sichtbar reduzieren."
+    },
+    {
+      "icon": "fa-solid fa-sun",
+      "title": "Vitamin C (Ascorbinsäure)",
+      "description": "Ein kraftvolles Antioxidans, das vor freien Radikalen schützt und die natürliche Kollagenbildung unterstützt – für einen gleichmäßigeren Teint."
+    },
+    {
+      "icon": "fa-solid fa-spa",
+      "title": "Retinol (Vitamin A)",
+      "description": "Unterstützt die natürliche Zellerneuerung und kann die Hauttextur sichtbar verbessern. Arbeitet synergistisch mit den anderen Inhaltsstoffen."
+    },
+    {
+      "icon": "fa-solid fa-seedling",
+      "title": "Grüntee-Extrakt",
+      "description": "Reich an Polyphenolen mit antioxidativen Eigenschaften. Schützt die Haut vor Umweltbelastungen und unterstützt ein gesundes Hautbild."
+    },
+    {
+      "icon": "fa-solid fa-droplet",
+      "title": "Niacinamid (Vitamin B3)",
+      "description": "Unterstützt die Hautbarriere und kann das Erscheinungsbild von Poren sichtbar verfeinern. Fördert ein ebenmäßiges, strahlendes Hautbild."
+    }
+  ],
+
+  "science_label": "Wie es funktioniert",
+  "science_headline": "Die 3 Säulen der GloraMD-Formel",
+  "science_subheadline": "Wissenschaftlich fundierte Ansätze für sichtbare Hautverbesserung",
+  "science_image": "images/science.webp",
+  "science_title": "Natürliche Hauterneuerung unterstützen",
+  "science_steps": [
+    { "step": "1. Kollagen-Unterstützung:", "text": "Signalpeptide senden Botenstoffe an die Hautzellen, die die natürliche Kollagenproduktion anregen können – die Grundlage für straffere Haut." },
+    { "step": "2. Hydratation auf Zellebene:", "text": "Hyaluronsäure bindet bis zu 1000-fach ihr eigenes Gewicht an Wasser, was zu einem sichtbar pralleren, hydratisierten Hautbild führt." },
+    { "step": "3. Schutz vor Umweltbelastungen:", "text": "Antioxidantien wie Vitamin C und Grüntee-Extrakt neutralisieren freie Radikale und schützen die Haut vor vorzeitiger Alterung durch Umweltfaktoren." }
+  ],
+  "science_result": "Ergebnis: Sichtbar straffere Haut, reduzierte feine Linien und ein frischer, jugendlicher Teint – nachweisbar bereits nach wenigen Wochen regelmäßiger Anwendung.",
+  "science_cta_text": "Jetzt bestellen",
+
+  "reviews_label": "Kundenbewertungen",
+  "reviews_headline": "Das sagen zufriedene Anwender",
+  "reviews_subheadline": "Verifizierte Bewertungen – 4.7 von 5 Sternen",
+  "reviews": [
+    {
+      "image": "https://placehold.co/80x80/f5f0e8/e16203?text=K",
+      "body": "Ich habe schon viele teure Serums ausprobiert, aber GloraMD ist anders. Nach drei Wochen merke ich, wie meine Haut praller und straffer wirkt. Besonders die feinen Linien um die Augen sind sichtbar reduziert. Ich bin wirklich beeindruckt.",
+      "name": "Katharina M., Hamburg, Deutschland",
+      "verified_text": "Verifizierter Kauf"
+    },
+    {
+      "image": "https://placehold.co/80x80/f5f0e8/e16203?text=S",
+      "body": "Mit 45 Jahren habe ich meine Haut schon aufgegeben. Aber GloraMD hat mich überrascht. Die Haut fühlt sich weicher an, die Konturen wirken definierter. Und das Gefühl, wenn ich morgens in den Spiegel schaue – einfach toll!",
+      "name": "Sabine K., München, Deutschland",
+      "verified_text": "Verifizierter Kauf"
+    },
+    {
+      "image": "https://placehold.co/80x80/f5f0e8/e16203?text=A",
+      "body": "Ich war skeptisch wegen des Preises, aber die 60-Tage-Garantie hat mich überzeugt. Bereits nach zwei Wochen habe ich einen Unterschied gesehen. Meine Haut sieh ausgeschlafener aus, frischer. Das Serum zieht schnell ein und klebt nicht.",
+      "name": "Andrea B., Berlin, Deutschland",
+      "verified_text": "Verifizierter Kauf"
+    }
+  ],
+  "review_stats": [
+    { "value": "4.7★", "label": "Durchschnittsbewertung" },
+    { "value": "Über 75.000", "label": "Verifizierte Kunden" },
+    { "value": "94%", "label": "Würden weiterempfehlen" }
+  ],
+
+  "faq_label": "Häufige Fragen",
+  "faq_headline": "Alles Wichtige vor Ihrer Bestellung",
+  "faq_items": [
+    { "question": "🧬 Für wen ist GloraMD geeignet?",
+      "answer": "GloraMD ist für alle Hauttypen ab dem 25. Lebensjahr geeignet, die ihre natürliche Hautstruktur unterstützen möchten. Die Formel ist besonders beliebt bei Menschen, die erste Anzeichen von Hautalterung wie feine Linien oder ein weniger straffes Hautbild bemerken. Bei sehr empfindlicher Haut empfehlen wir einen Patch-Test vor der ersten Anwendung." },
+    { "question": "⏰ Wie oft sollte ich GloraMD anwenden?",
+      "answer": "Für optimale Ergebnisse tragen Sie GloraMD morgens und abends auf gereinigte Haut auf. Massieren Sie 2–3 Tropfen sanft in Gesicht, Hals und Dekolleté ein. Das Serum zieht schnell ein und eignet sich hervorragend als Basis für Ihre übliche Tages- oder Nachtpflege." },
+    { "question": "⏱️ Wann sehe ich erste Ergebnisse?",
+      "answer": "Die meisten Anwender berichten von einem sichtbar frischeren Hautbild bereits nach 2–3 Wochen regelmäßiger Anwendung. Sichtbare Verbesserungen der Hautstruktur und eine Reduktion feiner Linien zeigen sich typischerweise nach 4–8 Wochen. Die Hauterneuerung ist ein natürlicher Prozess – Kontinuität ist der Schlüssel." },
+    { "question": "✅ Ist GloraMD sicher für empfindliche Haut?",
+      "answer": "GloraMD wurde ohne aggressive Chemikalien, Parabene oder Mineralöle formuliert. Alle Inhaltsstoffe sind dermatologisch getestet. Bei empfindlicher Haut empfehlen wir, das Serum zunächst an einer kleinen Hautstelle zu testen. Schwangere und Stillende sollten vor der Anwendung einen Arzt konsultieren." },
+    { "question": "🛡️ Was ist die Geld-zurück-Garantie?",
+      "answer": "Wir sind von der Qualität unseres Produkts überzeugt und bieten eine 60-Tage-Geld-zurück-Garantie. Wenn Sie nicht vollständig zufrieden sind, können Sie das Produkt innerhalb von 60 Tagen zurücksenden und erhalten den vollen Kaufpreis erstattet – ohne Wenn und Aber. Kontaktieren Sie einfach unseren Kundenservice unter support@get-gloramd.com." },
+    { "question": "📦 Gibt es versteckte Abonnements?",
+      "answer": "Nein. Bei uns gibt es keine automatischen Abonnements oder wiederkehrenden Abbuchungen. Jede Bestellung ist eine einmalige Transaktion. Sie entscheiden selbst, wann und ob Sie nachbestellen möchten." },
+    { "question": "🌍 Wohin versenden Sie?",
+      "answer": "Wir versenden kostenlos nach Deutschland, Österreich und in die Schweiz. Die Lieferzeit beträgt in der Regel 3–5 Werktage. Nach Versand erhalten Sie eine Tracking-Nummer per E-Mail." }
+  ],
+
+  "footer_description": "GloraMD ist ein Premium-Gesichtsserum für natürliche Anti-Aging-Pflege. Entwickelt mit wissenschaftlich inspirierten Inhaltsstoffen in GMP-zertifizierten Anlagen.",
+  "footer_nav_title": "Navigation",
+  "footer_legal_title": "Rechtliches",
+  "legal_links": [
+    { "modal": "privacy", "label": "Datenschutz" },
+    { "modal": "terms", "label": "AGB" },
+    { "modal": "returns", "label": "Rückgabe & Garantie" },
+    { "modal": "contact", "label": "Kontakt" },
+    { "modal": "impressum", "label": "Impressum" }
+  ],
+
+  "distributor_notice": "<strong>Hinweis zum Vertrieb:</strong> Diese Website wird von einem unabhängigen autorisierten Vertriebspartner betrieben und ist weder mit dem Hersteller noch mit dem Markeninhaber von GloraMD verbunden. Alle Produktnamen, Marken und Kennzeichnungen sind Eigentum ihrer jeweiligen Inhaber. Ergebnisse können von Person zu Person unterschiedlich sein. Diese Website dient nur zu Informationszwecken und stellt keine medizinische Beratung dar.",
+
+  "disclaimer": "* Diese Aussagen wurden nicht von der Europäischen Behörde für Lebensmittelsicherheit (EFSA) bewertet. GloraMD ist ein Kosmetikprodukt und nicht dazu bestimmt, Krankheiten zu diagnostizieren, zu behandeln, zu heilen oder zu verhindern. Die Informationen auf dieser Website dienen nur zu Informationszwecken und ersetzen nicht den Rat eines qualifizierten Gesundheitsdienstleisters oder Dermatologen. Individuelle Ergebnisse können variieren. Dies ist eine bezahlte Werbeseite.",
+
+  "copyright_text": "Alle Rechte vorbehalten.",
+
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Datenschutzerklärung",
+      "intro": "Stand: April 2026. Diese Datenschutzerklärung erklärt, wie UAB Commerce Core ('wir', 'uns' oder 'unser') Ihre persönlichen Informationen erfasst, verwendet und schützt, wenn Sie diese Website besuchen.",
+      "sections": [
+        {
+          "heading": "1. Welche Informationen wir erfassen",
+          "content": "Wir erfassen Informationen, die Sie direkt angeben (Name, E-Mail, Rechnungsadresse, Zahlungsinformationen) und automatisch (IP-Adresse, Browsertyp, Geräteinformationen, besuchte Seiten, Cookies und verweisende URLs). Wir können auch Daten von Drittanbietern für Analysen erhalten."
+        },
+        {
+          "heading": "2. Wie wir Ihre Informationen verwenden",
+          "content": "Wir verwenden Ihre Informationen, um: Bestellungen zu bearbeiten und zu erfüllen; über Ihren Bestellstatus zu kommunizieren; Kundensupport zu leisten; Werbe-E-Mails zu senden (Sie können sich jederzeit abmelden); Website-Traffic zu analysieren und das Nutzererlebnis zu verbessern; gesetzliche Verpflichtungen zu erfüllen; und Betrug zu verhindern."
+        },
+        {
+          "heading": "3. Cookies und Tracking-Technologien",
+          "content": "Wir verwenden Cookies und ähnliche Tracking-Technologien wie Google Analytics (Traffic-Analyse), Meta Pixel (Werbe-Retargeting) und Sitzungscookies (Warenkorb). Sie können Cookie-Einstellungen über Ihren Browser steuern. Das Deaktivieren von Analyse-Cookies beeinträchtigt nicht die Nutzung der Website."
+        },
+        {
+          "heading": "4. Weitergabe an Dritte",
+          "content": "Wir verkaufen, vermieten oder handeln NICHT mit Ihren persönlichen Daten. Wir geben Daten nur weiter an: Zahlungsabwickler (zur Transaktionsabwicklung); Versandanbieter (zur Lieferung Ihrer Bestellung); Analyseanbieter (Google Analytics, in anonymisierter Form). Alle Drittanbieter sind vertraglich verpflichtet, Ihre Daten zu schützen."
+        },
+        {
+          "heading": "5. Datenspeicherung",
+          "content": "Wir speichern persönliche Daten so lange wie nötig zur Erfüllung von Bestellungen, Einhaltung gesetzlicher Verpflichtungen und Streitbeilegung. Transaktionsdaten werden typischerweise für 5 Jahre aufbewahrt. Sie können jederzeit die Löschung Ihrer Daten beantragen (vorbehaltlich gesetzlicher Aufbewahrungspflichten)."
+        },
+        {
+          "heading": "6. Datensicherheit",
+          "content": "Alle Daten, die zwischen Ihrem Browser und unserem Server übertragen werden, sind mit SSL/TLS verschlüsselt. Wir verwenden branchenübliche Sicherheitspraktiken wie Zugriffskontrollen und sichere Server-Infrastruktur. Kein System ist zu 100% sicher, und wir können absolute Sicherheit nicht garantieren."
+        },
+        {
+          "heading": "7. Ihre Rechte (DSGVO)",
+          "content": "EU-Bürger haben das Recht auf: Auskunft über gespeicherte Daten; Berichtigung falscher Daten; Löschung (Recht auf Vergessenwerden); Einschränkung der Verarbeitung; Datenübertragbarkeit; und Widerspruch gegen die Verarbeitung. Um diese Rechte auszuüben, senden Sie eine E-Mail an support@get-gloramd.com. Wir antworten innerhalb von 30 Tagen."
+        },
+        {
+          "heading": "8. Datenschutz für Kinder",
+          "content": "Diese Website richtet sich nicht an Personen unter 18 Jahren. Wir sammeln nicht wissentlich persönliche Informationen von Minderjährigen. Wenn Sie glauben, dass wir versehentlich solche Daten erfasst haben, kontaktieren Sie uns bitte umgehend zur Löschung."
+        },
+        {
+          "heading": "9. Änderungen dieser Richtlinie",
+          "content": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Änderungen werden auf dieser Seite mit einem aktualisierten Datum veröffentlicht. Die weitere Nutzung der Website nach Änderungen stellt die Annahme der aktualisierten Richtlinie dar."
+        },
+        {
+          "heading": "10. Kontakt",
+          "content": "Bei datenschutzbezogenen Fragen oder zur Ausübung Ihrer Rechte kontaktieren Sie uns unter: support@get-gloramd.com. Wir antworten auf alle Datenschutzanfragen innerhalb von 30 Tagen."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Allgemeine Geschäftsbedingungen",
+      "intro": "Zuletzt aktualisiert: April 2026. Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig durch, bevor Sie diese Website nutzen. Mit dem Zugriff oder der Nutzung dieser Website erklären Sie sich mit diesen Bedingungen einverstanden.",
+      "sections": [
+        {
+          "heading": "1. Unabhängiger Vertriebspartner",
+          "content": "Diese Website wird von UAB Commerce Core betrieben, einem unabhängigen autorisierten Vertriebspartner von GloraMD. Wir sind NICHT der Hersteller, Markeninhaber oder offizielle Vertreter von GloraMD. Alle Produktnamen, Marken und Kennzeichnungen gehören ausschließlich ihren jeweiligen Eigentümern. Wir verdienen eine Provision auf Verkäufe, die über Affiliate-Links auf dieser Website getätigt werden. Dies ist eine materielle Verbindung im Sinne der FTC-Richtlinien."
+        },
+        {
+          "heading": "2. Annahme der Bedingungen",
+          "content": "Durch den Zugriff auf diese Website bestätigen Sie, dass Sie mindestens 18 Jahre alt sind, diese Bedingungen gelesen und verstanden haben und rechtlich an sie gebunden sein möchten. Wenn Sie nicht einverstanden sind, nutzen Sie diese Website bitte nicht."
+        },
+        {
+          "heading": "3. Altersbeschränkung",
+          "content": "Diese Website und ihre Produkte sind für Erwachsene ab 18 Jahren bestimmt. Mit der Nutzung dieser Website erklären Sie, dass Sie mindestens 18 Jahre alt sind. Wir vermarkten nicht wissentlich an oder sammeln Informationen von Minderjährigen."
+        },
+        {
+          "heading": "4. Keine medizinische Beratung",
+          "content": "Nichts auf dieser Website stellt medizinische Beratung, Diagnose oder Behandlung dar. Alle Inhalte werden nur zu Informationszwecken bereitgestellt. Konsultieren Sie immer einen lizenzierten Gesundheitsdienstleister oder Dermatologen, bevor Sie neue Hautpflegeprodukte verwenden, insbesondere wenn Sie schwanger sind, stillen, eine Hauterkrankung haben oder verschreibungspflichtige Medikamente einnehmen."
+        },
+        {
+          "heading": "5. Produktbeschreibungen und Angaben",
+          "content": "Produktbeschreibungen spiegeln Informationen des Herstellers wider. Als unabhängiger Vertriebspartner machen wir keine unabhängigen Gesundheits- oder Wirksamkeitsangaben über die vom Hersteller autorisierten hinaus. Testimonials und gezeigte Ergebnisse sind individuelle Erfahrungen und nicht typisch. Individuelle Ergebnisse variieren je nach Hauttyp, Lebensstil, Alter und anderen Faktoren."
+        },
+        {
+          "heading": "6. Affiliate-Beziehung",
+          "content": "Diese Website enthält Affiliate-Links. Wenn Sie auf einen Link klicken und einen Kauf tätigen, verdienen wir eine Provision ohne zusätzliche Kosten für Sie. Diese Vergütung beeinflusst, welche Produkte wir bewerben. Diese Offenlegung erfolgt in Übereinstimmung mit den FTC-Richtlinien."
+        },
+        {
+          "heading": "7. Haftungsbeschränkung",
+          "content": "In dem vom geltenden Recht maximal zulässigen Umfang haftet UAB Commerce Core nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden, die aus Ihrer Nutzung dieser Website oder der hier beworbenen Produkte entstehen. Unsere Gesamthaftung übersteigt nicht den Betrag, den Sie für das Produkt gezahlt haben, das den Anspruch verursacht hat."
+        },
+        {
+          "heading": "8. Geistiges Eigentum",
+          "content": "Alle auf dieser Website angezeigten Produktnamen, Logos und Marken gehören ihren jeweiligen Eigentümern. Die von uns erstellten Inhalte (Texte, Designelemente) sind unser Eigentum. Sie dürfen unsere Originalinhalte ohne schriftliche Genehmigung nicht reproduzieren oder veröffentlichen."
+        },
+        {
+          "heading": "9. Geltendes Recht",
+          "content": "Diese Bedingungen unterliegen den Gesetzen der Republik Litauen, unbeschadet kollidierender Rechtsprinzipien. Alle Streitigkeiten werden vor den Gerichten in Kaunas, Litauen, beigelegt."
+        },
+        {
+          "heading": "10. Änderungen der Bedingungen",
+          "content": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Änderungen werden auf dieser Seite mit einem aktualisierten Datum veröffentlicht. Ihre fortgesetzte Nutzung der Website stellt die Annahme aller aktualisierten Bedingungen dar."
+        },
+        {
+          "heading": "11. Kontakt",
+          "content": "Fragen zu diesen Bedingungen? Kontaktieren Sie uns unter: support@get-gloramd.com"
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Rückgabe & Garantie",
+      "intro": "Wir möchten, dass Sie vollständig zufrieden sind. Bitte lesen Sie unsere Rückgaberichtlinie sorgfältig durch, bevor Sie bestellen.",
+      "sections": [
+        {
+          "heading": "Zufriedenheitsgarantie",
+          "content": "Alle GloraMD-Käufe sind durch eine 60-Tage-Geld-zurück-Garantie abgedeckt. Wenn Sie aus irgendeinem Grund nicht zufrieden sind, können Sie innerhalb von 60 Tagen ab Kaufdatum eine volle Rückerstattung beantragen – ohne Wenn und Aber."
+        },
+        {
+          "heading": "So beantragen Sie eine Rückerstattung",
+          "content": "Um eine Rückerstattung zu initiieren: (1) Senden Sie eine E-Mail an support@get-gloramd.com mit dem Betreff 'Rückerstattungsantrag'; (2) Geben Sie Ihren vollständigen Namen, Ihre Bestellnummer und die bei der Bestellung verwendete E-Mail-Adresse an; (3) Sie erhalten innerhalb von 1–2 Werktagen eine Bestätigung und Rückgabe-Anweisungen."
+        },
+        {
+          "heading": "Rückerstattungsberechtigung",
+          "content": "Geöffnete und teilweise verwendete Flaschen werden innerhalb der Garantiefrist zur Rückerstattung akzeptiert. In den meisten Fällen müssen Sie das Produkt nicht zurücksenden – wir bestätigen dies in unserer Antwort. Versandkosten werden nicht erstattet. Produkte, die außerhalb der Garantiefrist gekauft wurden, sind nicht für Rückerstattungen berechtigt."
+        },
+        {
+          "heading": "Bearbeitungszeit",
+          "content": "Sobald Ihre Rückerstattung genehmigt wurde, wird sie innerhalb von 5–10 Werktagen bearbeitet. Bitte erlauben Sie zusätzliche 3–5 Werktage, bis Ihre Bank oder Kreditkartenfirma die Gutschrift auf Ihrem Kontoauszug anzeigt."
+        },
+        {
+          "heading": "Beschädigte oder falsche Artikel",
+          "content": "Wenn Sie einen beschädigten, defekten oder falschen Artikel erhalten haben, kontaktieren Sie uns bitte innerhalb von 7 Tagen nach Lieferung mit einer Beschreibung und einem Foto des Problems. Wir organisieren einen kostenlosen Ersatz oder eine volle Rückerstattung."
+        },
+        {
+          "heading": "Wichtiger Hinweis",
+          "content": "Um sicherzustellen, dass Ihre Bestellung von der vollen Geld-zurück-Garantie abgedeckt ist, kaufen Sie immer direkt über den offiziellen Produktlink auf dieser Seite. Käufe über Drittmarktplätze fallen möglicherweise nicht unter dieselben Garantiebedingungen."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Kontakt",
+      "intro": "Wir sind für Sie da. Bitte kontaktieren Sie uns über die unten stehenden Informationen, und wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "sections": [
+        {
+          "heading": "Kundensupport E-Mail",
+          "content": "Für alle Anfragen, einschließlich Bestellstatus, Rückerstattungsanfragen und allgemeinen Fragen, senden Sie uns bitte eine E-Mail an: support@get-gloramd.com"
+        },
+        {
+          "heading": "Reaktionszeit",
+          "content": "Wir bemühen uns, alle Kundenanfragen innerhalb von 1–2 Werktagen zu beantworten. In Spitzenzeiten kann die Antwort bis zu 3 Werktage dauern. Wir danken Ihnen für Ihre Geduld."
+        },
+        {
+          "heading": "Geschäftszeiten",
+          "content": "Unser Support-Team ist Montag bis Freitag von 9:00 bis 17:00 Uhr Eastern Time (ET) erreichbar. An Wochenenden und US-amerikanischen Feiertagen ist das Büro geschlossen."
+        },
+        {
+          "heading": "Rückerstattungs- und Bestellanfragen",
+          "content": "Wenn Sie uns bezüglich einer Bestellung oder Rückerstattung kontaktieren, geben Sie bitte Ihre Bestellnummer und die bei der Bestellung verwendete E-Mail-Adresse an. Dies hilft uns, Ihr Konto schneller zu finden und Ihr Anliegen effizienter zu lösen."
+        },
+        {
+          "heading": "Über diese Website",
+          "content": "Diese Website wird von UAB Commerce Core betrieben, einem unabhängigen autorisierten Vertriebspartner von GloraMD. Wir sind nicht der Hersteller. Für Hersteller-Support können Sie die Marke auch direkt über ihre offizielle Website kontaktieren."
+        }
+      ]
+    },
+    {
+      "id": "impressum",
+      "title": "Impressum",
+      "intro": "Angaben gemäß § 5 TMG (Telemediengesetz):",
+      "sections": [
+        {
+          "heading": "Betreiber der Website",
+          "content": "UAB Commerce Core\nSavanorių pr. 363\nLT-49425 Kaunas\nLitauen"
+        },
+        {
+          "heading": "Kontakt",
+          "content": "Telefon: +1 (331) 207-9814\nE-Mail: support@get-gloramd.com\nWebsite: https://get-gloramd.com"
+        },
+        {
+          "heading": "Geschäftsführer",
+          "content": "UAB Commerce Core wird vertreten durch den Geschäftsführer.\nRegisternummer: Handelsregister Litauen"
+        },
+        {
+          "heading": "Umsatzsteuer-ID",
+          "content": "USt-IdNr. gemäß §27a Umsatzsteuergesetz:\nWird auf Anfrage bereitgestellt"
+        },
+        {
+          "heading": "Streitschlichtung",
+          "content": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr.\n\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+        },
+        {
+          "heading": "Haftung für Inhalte",
+          "content": "Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen."
+        },
+        {
+          "heading": "Urheberrecht",
+          "content": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+        }
+      ]
+    }
+  ],
+
+  "schema_faqpage": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Für wen ist GloraMD geeignet?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GloraMD ist für alle Hauttypen ab dem 25. Lebensjahr geeignet, die ihre natürliche Hautstruktur unterstützen möchten. Die Formel ist besonders beliebt bei Menschen, die erste Anzeichen von Hautalterung wie feine Linien oder ein weniger straffes Hautbild bemerken."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Wie oft sollte ich GloraMD anwenden?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Für optimale Ergebnisse tragen Sie GloraMD morgens und abends auf gereinigte Haut auf. Massieren Sie 2–3 Tropfen sanft in Gesicht, Hals und Dekolleté ein."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Wann sehe ich erste Ergebnisse mit GloraMD?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Die meisten Anwender berichten von einem sichtbar frischeren Hautbild bereits nach 2–3 Wochen regelmäßiger Anwendung. Sichtbare Verbesserungen der Hautstruktur zeigen sich typischerweise nach 4–8 Wochen."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Gibt es eine Geld-zurück-Garantie?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ja, wir bieten eine 60-Tage-Geld-zurück-Garantie. Wenn Sie nicht zufrieden sind, erhalten Sie den vollen Kaufpreis erstattet – ohne Wenn und Aber."
+        }
+      }
+    ]
+  },
+
+  "schema_howto": {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Wie man GloraMD Face Lift Serum anwendet",
+    "description": "Schritt-für-Schritt Anleitung für die optimale Anwendung des GloraMD Gesichtsserums",
+    "image": "images/hero.webp",
+    "totalTime": "PT5M",
+    "supply": [
+      {
+        "@type": "HowToSupply",
+        "name": "GloraMD Face Lift Serum"
+      }
+    ],
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "Gereinigtes Gesicht"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Gesicht gründlich reinigen",
+        "text": "Waschen Sie Ihr Gesicht mit einem milden Reinigungsprodukt und trocknen Sie es sanft mit einem sauberen Handtuch.",
+        "url": "https://get-gloramd.com/de/#howto-step-1"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Serum auftragen",
+        "text": "Geben Sie 2-3 Tropfen GloraMD Serum auf Ihre Fingerspitzen.",
+        "url": "https://get-gloramd.com/de/#howto-step-2"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Einmassieren",
+        "text": "Massieren Sie das Serum sanft in Gesicht, Hals und Dekolleté ein. Vermeiden Sie den direkten Kontakt mit den Augen.",
+        "url": "https://get-gloramd.com/de/#howto-step-3"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Einwirken lassen",
+        "text": "Lassen Sie das Serum vollständig einziehen, bevor Sie weitere Pflegeprodukte auftragen.",
+        "url": "https://get-gloramd.com/de/#howto-step-4"
+      }
+    ]
+  },
+
+  "schema_breadcrumb": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://get-gloramd.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "GloraMD Deutschland",
+        "item": "https://get-gloramd.com/de/"
+      }
+    ]
+  },
+
+  "schema_website": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "GloraMD Deutschland",
+    "url": "https://get-gloramd.com/de/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://get-gloramd.com/de/?s={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+
+  "schema_organization": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "GloraMD",
+    "url": "https://get-gloramd.com/de/",
+    "logo": "images/hero.webp",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+1-331-207-9814",
+      "contactType": "customer service",
+      "availableLanguage": ["German", "English"]
+    },
+    "sameAs": [
+      "https://www.facebook.com/gloramd",
+      "https://www.instagram.com/gloramd"
+    ]
+  },
+
+  "schema_product_extended": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "GloraMD Face Lift Serum",
+    "image": ["images/hero.webp", "images/lab.webp", "images/science.webp"],
+    "description": "Premium Gesichtsserum mit Peptiden und Hyaluronsäure für straffere Haut und weniger Falten",
+    "sku": "GLORA-MD-FACE-SERUM-30ML",
+    "mpn": "GLORA-MD-001",
+    "brand": {
+      "@type": "Brand",
+      "name": "GloraMD"
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "UAB Commerce Core"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://get-gloramd.com/de/",
+      "price": "49.99",
+      "priceCurrency": "EUR",
+      "priceValidUntil": "2026-12-31",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "0",
+          "currency": "EUR"
+        },
+        "shippingDestination": [
+          {
+            "@type": "DefinedRegion",
+            "addressCountry": "DE"
+          },
+          {
+            "@type": "DefinedRegion",
+            "addressCountry": "AT"
+          },
+          {
+            "@type": "DefinedRegion",
+            "addressCountry": "CH"
+          }
+        ]
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 60,
+        "returnMethod": "https://schema.org/ReturnByMail",
+        "returnFees": "https://schema.org/FreeReturn"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "75000",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Katharina M."
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Ich habe schon viele teure Serums ausprobiert, aber GloraMD ist anders. Nach drei Wochen merke ich, wie meine Haut praller und straffer wirkt."
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Sabine K."
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "Mit 45 Jahren habe ich meine Haut schon aufgegeben. Aber GloraMD hat mich überrascht. Die Haut fühlt sich weicher an, die Konturen wirken definierter."
+      }
+    ]
+  }
+}

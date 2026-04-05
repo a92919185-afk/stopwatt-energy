@@ -1,0 +1,327 @@
+{
+  "page_model": "A",
+  "slug": "reticlear-br",
+  "language": "pt-BR",
+  "theme": "green.css",
+  "product_name": "RetiClear",
+  "meta_title": "RetiClear — Recupere Sua Visao Nitida de Forma Natural",
+  "meta_description": "RetiClear atua na causa raiz do declinio visual relacionado a idade. Ingredientes clinicamente estudados. Garantia de 60 dias.",
+  "cta_text": "Comprar Agora",
+  "cta_url": "https://checkout.example.com/reticlear-br",
+  "year": "2026",
+  "alert_badges": [
+    {
+      "icon": "fa-solid fa-fire",
+      "text": "Oferta Limitada: Economize R$600 — Somente Hoje"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "text": "Garantia de 60 Dias"
+    },
+    {
+      "icon": "fa-solid fa-truck-fast",
+      "text": "Frete Gratis para Todo o Brasil"
+    }
+  ],
+  "nav_links": [
+    {
+      "href": "#benefits",
+      "label": "Beneficios"
+    },
+    {
+      "href": "#features",
+      "label": "Ingredientes"
+    },
+    {
+      "href": "#reviews",
+      "label": "Depoimentos"
+    },
+    {
+      "href": "#faq",
+      "label": "FAQ"
+    }
+  ],
+  "hero_badge": "Mais de 127.000 Clientes Satisfeitos",
+  "headline": "Nao Deixe a Idade Roubar Sua ",
+  "headline_highlight": "Visao Nitida e Confortavel",
+  "hero_subtext_1": "Se voce tem mais de 40 anos e esta notando visao embaçada, cansaço ocular ou dificuldade para ler — voce nao esta sozinho. E nao precisa aceitar isso como 'parte do envelhecimento'.",
+  "hero_subtext_2": "RetiClear e uma formula natural revolucionaria que atua na causa raiz do declinio visual — restaurando sua visao nitida de dentro para fora.",
+  "hero_tags": [
+    {
+      "icon": "fa-solid fa-eye",
+      "text": "2 Capsulas por Dia"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "text": "100% Natural"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "text": "Sem Efeitos Colaterais"
+    }
+  ],
+  "hero_cta_text": "Garanta Seu Desconto — Economize R$600",
+  "hero_guarantee_text": "Sem risco — reembolso total se nao ficar satisfeito. Sem perguntas.",
+  "hero_image": "https://placehold.co/480x480/14532d/86efac?text=RetiClear",
+  "trust_badges": [
+    {
+      "icon": "fa-solid fa-certificate",
+      "title": "Certificado GMP",
+      "subtitle": "Padroes de producao"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "Registro FDA",
+      "subtitle": "Fabrica inspecionada"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "100% Natural",
+      "subtitle": "Sem aditivos artificiais"
+    },
+    {
+      "icon": "fa-solid fa-flag-usa",
+      "title": "Fabricado nos EUA",
+      "subtitle": "Qualidade garantida"
+    },
+    {
+      "icon": "fa-solid fa-ban",
+      "title": "Sem Transgenicos",
+      "subtitle": "Ingredientes puros"
+    }
+  ],
+  "stats": [
+    {
+      "value": "127.000+",
+      "label": "Clientes Satisfeitos"
+    },
+    {
+      "value": "4.98★",
+      "label": "Avaliacao Media"
+    },
+    {
+      "value": "97%",
+      "label": "Recomendariam"
+    }
+  ],
+  "benefits_label": "A Crise da Visao",
+  "benefits_headline": "Por Que a Maioria das Pessoas Acima de 40 Sofre Com a Visao",
+  "benefits_paragraphs": [
+    "Apos os 40, a camada protetora dentro dos seus olhos começa a se deteriorar. Estresse oxidativo, exposicao a luz azul e deficiencia de nutrientes aceleram o dano — causando visao embaçada, cansaço ocular e dificuldade de foco.",
+    "Ler cardapios, dirigir a noite, ver o celular com clareza — coisas que voce antes fazia naturalmente se tornam lutas diarias. E oculos comuns apenas mascaram os sintomas.",
+    "<strong>RetiClear muda isso.</strong> Nossa formula combina 8 nutrientes clinicamente estudados que atuam na causa raiz do declinio visual — nao apenas corrigindo, mas protegendo e restaurando sua visao de dentro para fora."
+  ],
+  "urgency_text": "Economize R$600 hoje — mas o estoque e limitado. Nao espere.",
+  "benefits_cta_text": "Recupere Sua Visao — Economize R$600",
+  "benefits_image": "https://placehold.co/480x480/f5faf7/16a34a?text=Pesquisa",
+  "features_label": "O Diferencial RetiClear",
+  "features_headline": "8 Nutrientes Naturais. Uma Formula que Salva Sua Visao.",
+  "features_subheadline": "Cada ingrediente escolhido para maximo impacto na saude ocular — respaldado pela ciencia.",
+  "features_cta_text": "Comprar Agora — Economize R$600",
+  "features": [
+    {
+      "icon": "fa-solid fa-eye",
+      "title": "Luteina (20mg)",
+      "description": "O nutriente #1 para a saude macular. Filtra a luz azul nociva e protege a retina contra danos oxidativos — mantendo sua visao central nitida."
+    },
+    {
+      "icon": "fa-solid fa-shield-heart",
+      "title": "Zeaxantina (4mg)",
+      "description": "Trabalha junto com a Luteina para formar um escudo protetor sobre a macula. Reduz sensibilidade ao brilho e melhora a visao de contraste."
+    },
+    {
+      "icon": "fa-solid fa-carrot",
+      "title": "Vitamina A (900mcg)",
+      "description": "Essencial para visao noturna e producao de lagrimas. Previne olhos secos e ajuda a retina a converter luz em imagens nitidas."
+    },
+    {
+      "icon": "fa-solid fa-bolt",
+      "title": "Extrato de Mirtilo",
+      "description": "Melhora o fluxo sanguineo para a retina e fortalece os capilares. Usado por pilotos na Segunda Guerra para visao noturna mais aguçada."
+    },
+    {
+      "icon": "fa-solid fa-seedling",
+      "title": "Zinco (11mg)",
+      "description": "Transporta Vitamina A do figado para a retina. Essencial para manter a saude das celulas sensíveis a luz dos seus olhos."
+    },
+    {
+      "icon": "fa-solid fa-flask",
+      "title": "Omega-3 DHA",
+      "description": "Compoe 60% dos acidos graxos da retina. Reduz inflamacao e mantem a camada fluida que garante conforto ocular."
+    }
+  ],
+  "science_label": "A Ciencia Por Tras do RetiClear",
+  "science_headline": "Como Funciona: Restauracao Visual em 3 Etapas",
+  "science_subheadline": "RetiClear nao mascara sintomas — atua nas causas raiz do declinio visual.",
+  "science_image": "https://placehold.co/600x600/f5faf7/16a34a?text=Ciencia",
+  "science_title": "Os 3 Pilares da Visao Restaurada",
+  "science_steps": [
+    {
+      "step": "1. Protege a Macula:",
+      "text": "Luteina e Zeaxantina formam uma camada protetora sobre a macula — filtrando luz azul e bloqueando danos oxidativos antes que comecem."
+    },
+    {
+      "step": "2. Restaura o Fluxo Sanguineo:",
+      "text": "Extrato de Mirtilo e Omega-3 melhoram a microcirculacao na retina, entregando oxigenio e nutrientes as celulas oculares."
+    },
+    {
+      "step": "3. Reconstroi o Tecido Ocular:",
+      "text": "Vitamina A e Zinco trabalham juntos para regenerar os fotorreceptores — os neuronios sensiveis a luz que criam visao nitida e detalhada."
+    }
+  ],
+  "science_result": "O resultado: Voce nota visao mais clara em semanas. A melhora se acumula ao longo dos meses.",
+  "science_cta_text": "Comece Sua Recuperacao Visual",
+  "reviews_label": "Pessoas Reais. Resultados Reais.",
+  "reviews_headline": "O Que Acontece Quando Voce Toma RetiClear",
+  "reviews_subheadline": "Depoimentos verificados de pessoas como voce — que se recusaram a aceitar o declinio visual como inevitavel.",
+  "reviews": [
+    {
+      "body": "Disseram que eu precisaria de oculos cada vez mais fortes. Apos 3 meses com RetiClear, meu oftalmologista ficou surpreso — minha visao realmente melhorou. Consigo ler cardapios sem apertar os olhos.",
+      "name": "Maria S., Sao Paulo, SP",
+      "verified_text": "Cliente Verificado"
+    },
+    {
+      "body": "Dirigir a noite era aterrorizante. Os farois borravam em halos. Depois de 6 semanas de RetiClear, a diferenca e absurda. Me sinto seguro no volante novamente.",
+      "name": "Roberto A., Rio de Janeiro, RJ",
+      "verified_text": "Cliente Verificado"
+    },
+    {
+      "body": "Tenho 62 anos e estava perdendo a esperanca. Meu medico disse que degeneracao macular era parte do envelhecimento. RetiClear me devolveu a confianca. Consigo ver o rosto dos meus netos nitidamente.",
+      "name": "Ana L., Belo Horizonte, MG",
+      "verified_text": "Cliente Verificado"
+    }
+  ],
+  "review_stats": [
+    {
+      "value": "4.98★",
+      "label": "Avaliacao Media"
+    },
+    {
+      "value": "127.000+",
+      "label": "Clientes Verificados"
+    },
+    {
+      "value": "97%",
+      "label": "Recomendariam"
+    }
+  ],
+  "faq_label": "Perguntas Frequentes",
+  "faq_headline": "Tudo Que Voce Precisa Saber Antes de Comprar",
+  "faq_items": [
+    {
+      "question": "Isso realmente vai melhorar minha visao?",
+      "answer": "RetiClear contem nutrientes clinicamente estudados (Luteina, Zeaxantina, Mirtilo, Omega-3 DHA) que demonstraram em estudos revisados por pares melhorar a saude macular e a acuidade visual. Mais de 127.000 clientes relataram melhorias notaveis. Use de forma consistente por 4-6 semanas."
+    },
+    {
+      "question": "E seguro? Tem efeitos colaterais?",
+      "answer": "RetiClear e 100% natural, sem estimulantes, fabricado em instalacao registrada pela FDA com certificacao GMP nos EUA. Os ingredientes sao vitaminas e extratos vegetais bem estudados. Sem necessidade de receita medica."
+    },
+    {
+      "question": "Como devo tomar?",
+      "answer": "Apenas 2 capsulas diarias com uma refeicao. A maioria nota melhora no conforto ocular nas primeiras 2 semanas. Para beneficios completos, use consistentemente por 3-6 meses."
+    },
+    {
+      "question": "E se nao funcionar para mim?",
+      "answer": "Temos garantia incondicional de 60 dias. Se voce nao notar melhora significativa na sua visao dentro de 60 dias, entre em contato para reembolso total — sem perguntas."
+    },
+    {
+      "question": "E assinatura?",
+      "answer": "Nao. Compra unica. Sem cobranças ocultas, sem envios automaticos, sem surpresas."
+    },
+    {
+      "question": "Por que o kit de 6 frascos e o mais popular?",
+      "answer": "Primeiro: a restauracao visual leva tempo — 3-6 meses de nutricao consistente para reconstruir e proteger o tecido ocular. Segundo: o kit de 6 frascos oferece o maior desconto (economize R$600) e frete gratis."
+    }
+  ],
+  "footer_description": "RetiClear e a formula natural #1 para suporte a visao relacionada a idade. Fabricado nos EUA com ingredientes premium clinicamente estudados.",
+  "support_email": "suporte@reticlear.com",
+  "footer_nav_title": "Navegacao",
+  "footer_legal_title": "Legal",
+  "legal_links": [
+    {
+      "modal": "privacy",
+      "label": "Politica de Privacidade"
+    },
+    {
+      "modal": "terms",
+      "label": "Termos de Uso"
+    },
+    {
+      "modal": "returns",
+      "label": "Trocas e Devoluções"
+    },
+    {
+      "modal": "contact",
+      "label": "Fale Conosco"
+    }
+  ],
+  "distributor_notice": "<strong>Aviso:</strong> Este site e operado por um distribuidor independente autorizado do RetiClear. Nao somos o fabricante. Resultados individuais podem variar.",
+  "disclaimer": "* Estas declaracoes nao foram avaliadas pela ANVISA. RetiClear nao se destina a diagnosticar, tratar, curar ou prevenir nenhuma doenca. Resultados podem variar.",
+  "copyright_text": "Todos os direitos reservados.",
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Politica de Privacidade",
+      "intro": "Ultima atualizacao: 2026. Estamos comprometidos em proteger suas informacoes pessoais.",
+      "sections": [
+        {
+          "heading": "Informacoes Coletadas",
+          "content": "Coletamos informacoes que voce fornece diretamente (nome, email, endereco, dados de pagamento) ao fazer um pedido."
+        },
+        {
+          "heading": "Uso das Informacoes",
+          "content": "Suas informacoes sao usadas exclusivamente para processar pedidos, fornecer suporte e enviar atualizacoes. Nao vendemos seus dados."
+        },
+        {
+          "heading": "Seguranca",
+          "content": "Todas as transacoes sao criptografadas com SSL. Mantemos salvaguardas para proteger suas informacoes."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Termos de Uso",
+      "intro": "Ao comprar neste site, voce concorda com os seguintes termos e condicoes.",
+      "sections": [
+        {
+          "heading": "Distribuidor Independente",
+          "content": "Este site e operado por um distribuidor independente autorizado. As compras sao processadas pela rede oficial de distribuicao."
+        },
+        {
+          "heading": "Uso do Produto",
+          "content": "RetiClear e um suplemento alimentar para adultos. Nao exceda a dosagem recomendada. Consulte um profissional de saude se tiver condicoes medicas."
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Trocas e Devoluções",
+      "intro": "Garantimos o RetiClear com devolucao total em 60 dias.",
+      "sections": [
+        {
+          "heading": "Garantia de 60 Dias",
+          "content": "Se nao estiver satisfeito em 60 dias, faremos reembolso total — sem perguntas."
+        },
+        {
+          "heading": "Como Solicitar",
+          "content": "Envie email para suporte@reticlear.com com seu numero de pedido. Reembolsos processados em 5-10 dias uteis."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Fale Conosco",
+      "intro": "Nossa equipe de suporte esta disponivel de segunda a sexta, 9h-17h.",
+      "sections": [
+        {
+          "heading": "Email",
+          "content": "Para duvidas, trocas ou informacoes: suporte@reticlear.com"
+        },
+        {
+          "heading": "Tempo de Resposta",
+          "content": "Respondemos em ate 2 dias uteis. Inclua seu numero de pedido para agilizar."
+        }
+      ]
+    }
+  ]
+}

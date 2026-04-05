@@ -1,0 +1,18 @@
+<section class="final-cta-c" aria-label="Order now">
+  <div class="container">
+    <h2>{{final_cta_headline}}</h2>
+    <div class="final-cta-image">
+      <img
+        src="{{final_cta_image}}"
+        alt="{{product_name}}"
+        loading="lazy"
+      />
+    </div>
+    <p class="final-cta-original">Regular Price: <span class="line-through">{{price_original}}/per bottle</span></p>
+    <p class="final-cta-price">Only for: <strong>{{price_display}}/per bottle</strong></p>
+    <a href="{{cta_url}}" class="btn-primary btn-xl">
+      <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+      {{final_cta_text}}
+    </a>
+  </div>
+</section>

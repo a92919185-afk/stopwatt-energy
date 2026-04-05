@@ -1,0 +1,345 @@
+{
+  "page_model": "A",
+  "slug": "de-veluna",
+  "language": "de",
+  "theme": "veluna.css",
+  "product_name": "Veluna",
+
+  "company_name": "Vivello Solutions Ltd",
+  "support_phone": "+44 1332 555 123",
+  "support_email": "support@getnutrivea.com",
+  "company_address": "7 Compton Street, Ashbourne, Derbyshire, United Kingdom, DE6 1BX",
+
+  "meta_title": "Veluna GLP-1 Booster – Natürliche Stoffwechsel-Unterstützung | Mehr Energie & Verdauung",
+  "meta_description": "Veluna enthält InnoSlim und Grüntee-Extrakt für natürliche metabolische Unterstützung. 100% natürlich, vegan, GMO-frei. Laborgeprüfte Qualität. 60 Tage Geld-zurück-Garantie.",
+  "meta_keywords": "Veluna, GLP-1 Booster, Stoffwechsel, Energie, Verdauung, natürliche Ergänzung, InnoSlim",
+
+  "og_image": "images/og-cover.png",
+  "og_locale": "de_DE",
+
+  "price_amount": "49.00",
+  "price_currency": "EUR",
+  "rating_value": "4.8",
+  "rating_count": "2340",
+
+  "cta_text": "Jetzt bestellen",
+  "cta_url": "https://buyveluna.com/de/jetzt-kaufen/veluna-bestoffers",
+  "year": "2026",
+
+  "alert_badges": [
+    { "icon": "fa-solid fa-shield-halved", "text": "60 Tage Garantie" },
+    { "icon": "fa-solid fa-truck-fast", "text": "Kostenloser Versand" },
+    { "icon": "fa-solid fa-lock", "text": "Sichere Zahlung" }
+  ],
+
+  "nav_links": [
+    { "href": "#benefits", "label": "Vorteile" },
+    { "href": "#features", "label": "Inhaltsstoffe" },
+    { "href": "#reviews", "label": "Bewertungen" },
+    { "href": "#faq", "label": "FAQ" }
+  ],
+
+  "hero_badge": "4.8/5 · 2.340+ zufriedene Kunden",
+  "headline": "Natürliche ",
+  "headline_highlight": "GLP-1-Unterstützung",
+  "hero_subtext_1": "Fördert metabolische Balance, steigert Energie und unterstützt die Verdauung – mit Premium-Inhaltsstoffen, die in deutschen Laboren getestet wurden.",
+  "hero_subtext_2": "Veluna kombiniert InnoSlim®, Grüntee-Extrakt und Cholin für ganzheitliche Stoffwechsel-Unterstützung. 100% natürlich, vegan, GMO-frei.",
+  "hero_tags": [
+    { "icon": "fa-solid fa-leaf", "text": "100% Natürlich" },
+    { "icon": "fa-solid fa-flask-vial", "text": "Laborgeprüft" },
+    { "icon": "fa-solid fa-seedling", "text": "Vegan · GMO-Frei" }
+  ],
+  "hero_cta_text": "Jetzt bestellen – 60 Tage Garantie",
+  "hero_guarantee_text": "Nicht zufrieden? Volle Rückerstattung innerhalb von 60 Tagen.",
+  "hero_image": "images/hero.png",
+
+  "trust_badges": [
+    { "icon": "fa-solid fa-seedling", "title": "100% Vegan", "subtitle": "Rein pflanzlich" },
+    { "icon": "fa-solid fa-flask-vial", "title": "Laborgeprüft", "subtitle": "Entwickelt in deutschen Laboren" },
+    { "icon": "fa-solid fa-leaf", "title": "Natürlich", "subtitle": "Ohne Zusatzstoffe" },
+    { "icon": "fa-solid fa-dna", "title": "GMO-Frei", "subtitle": "Keine Gentechnik" }
+  ],
+
+  "stats": [
+    { "value": "8+", "label": "Natürliche Inhaltsstoffe" },
+    { "value": "0", "label": "Künstliche Zusätze" },
+    { "value": "98,7%", "label": "Würden weiterempfehlen" }
+  ],
+
+  "benefits_label": "Ihre Vorteile",
+  "benefits_headline": "Warum Veluna wirkt",
+  "benefits_paragraphs": [
+    "Viele Menschen über 40 bemerken, dass ihr Stoffwechsel langsamer wird. Die Energie fehlt, die Verdauung arbeitet nicht mehr wie früher, und trotz gesunder Ernährung bleibt das gewünschte Ergebnis aus.",
+    "Die Ursache liegt oft in der metabolischen Balance – einem Zusammenspiel von Hormonen, Enzymen und Rezeptoren, das mit den Jahren an Effizienz verliert. Veluna wurde entwickelt, um genau hier anzusetzen.",
+    "Mit InnoSlim®, einem proprietären Extrakt aus Panax-Notoginseng und Astragalus, sowie hochdosiertem Grüntee-Extrakt (50% EGCG) und Cholin, unterstützt Veluna die natürliche Stoffwechselfunktion und fördert gesteigertes Wohlbefinden."
+  ],
+  "urgency_text": "Jetzt 60 Tage Garantie nutzen – risikofrei testen",
+  "benefits_cta_text": "Jetzt bestellen",
+  "benefits_image": "images/lab.png",
+
+  "features_label": "Premium Inhaltsstoffe",
+  "features_headline": "Reine, natürliche Inhaltsstoffe",
+  "features_subheadline": "Jede Zutat wurde sorgfältig ausgewählt und auf Reinheit sowie Wirksamkeit geprüft.",
+  "features_cta_text": "Jetzt bestellen",
+  "features": [
+    {
+      "icon": "fa-solid fa-dna",
+      "title": "InnoSlim® (Panax + Astragalus)",
+      "description": "Proprietärer Extrakt, der die natürliche metabolische Funktion unterstützt und die körperliche Leistungsfähigkeit fördern kann."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Grüntee-Extrakt (50% EGCG)",
+      "description": "Hochdosierter Grüntee-Extrakt mit mindestens 50% EGCG – regt den Energieverbrauch an und schützt die Zellen vor oxidativem Stress."
+    },
+    {
+      "icon": "fa-solid fa-capsules",
+      "title": "Cholinbitartrat",
+      "description": "Trägt zu einem normalen Fettstoffwechsel und einer gesunden Leberfunktion bei – wichtig für die Verarbeitung von Nährstoffen."
+    },
+    {
+      "icon": "fa-solid fa-heart",
+      "title": "Astragalus-membranaceus",
+      "description": "Unterstützt die normale Funktion des Immunsystems und kann den Organismus in Zeiten höherer Belastung stärken."
+    },
+    {
+      "icon": "fa-solid fa-bolt",
+      "title": "Panax-Notoginseng",
+      "description": "Fördert den normalen Energiestoffwechsel und kann Stressresistenz und Vitalität unterstützen."
+    }
+  ],
+
+  "science_label": "So funktioniert es",
+  "science_headline": "Die 3 Säulen des Stoffwechsel-Gleichgewichts",
+  "science_subheadline": "Wissenschaftlich fundierte natürliche Unterstützung",
+  "science_image": "images/science.png",
+  "science_title": "Natürliche metabolische Aktivierung",
+  "science_steps": [
+    { "step": "1. GLP-1-Rezeptor-Unterstützung:", "text": "Die pflanzlichen Extrakte in Veluna können körpereigene Rezeptoren unterstützen, die am Sättigungsgefühl und der metabolischen Balance beteiligt sind." },
+    { "step": "2. Energiestoffwechsel-Aktivierung:", "text": "EGCG aus Grüntee und Cholin arbeiten synergistisch, um den normalen Energiestoffwechsel und die Fettverarbeitung zu unterstützen." },
+    { "step": "3. Ganzheitliche Vitalität:", "text": "Astragalus stärkt das Immunsystem und fördert Resilienz in stressigen Phasen – für mehr Energie im Alltag." }
+  ],
+  "science_result": "Ergebnis: Mehr Energie, verbesserte Verdauung und ganzheitliches Wohlbefinden durch natürliche Stoffwechsel-Unterstützung.",
+  "science_cta_text": "Jetzt bestellen",
+
+  "reviews_label": "Kundenbewertungen",
+  "reviews_headline": "Das sagen zufriedene Kunden",
+  "reviews_subheadline": "Verifizierte Bewertungen – 4.8 von 5 Sternen",
+  "reviews": [
+    {
+      "image": "https://placehold.co/80x80/e8e2f0/462e91?text=M",
+      "body": "Nach 3 Wochen regelmäßiger Einnahme merke ich einen echten Unterschied. Ich habe mehr Energie den ganzen Tag über und fühle mich weniger träge nach dem Essen. Die Verdauung hat sich definitiv verbessert.",
+      "name": "Monika S., München, Deutschland",
+      "verified_text": "Verifizierter Kauf"
+    },
+    {
+      "image": "https://placehold.co/80x80/e8e2f0/462e91?text=T",
+      "body": "Ich war skeptisch – ich habe schon viele Supplements probiert. Aber Veluna ist anders. Kein Zittern, kein Crash, nur stetige Energie. Besonders am Nachmittag merke ich den Unterschied.",
+      "name": "Thomas K., Berlin, Deutschland",
+      "verified_text": "Verifizierter Kauf"
+    },
+    {
+      "image": "https://placehold.co/80x80/e8e2f0/462e91?text=S",
+      "body": "Endlich ein Produkt, das hält, was es verspricht. Nach 4 Wochen habe ich das Gefühl, mein Stoffwechsel funktioniert wieder richtig. Die 60-Tage-Garantie hat mir die Entscheidung leichter gemacht.",
+      "name": "Sandra R., Hamburg, Deutschland",
+      "verified_text": "Verifizierter Kauf"
+    }
+  ],
+  "review_stats": [
+    { "value": "4.8★", "label": "Durchschnittsbewertung" },
+    { "value": "2.340+", "label": "Verifizierte Kunden" },
+    { "value": "98,7%", "label": "Würden weiterempfehlen" }
+  ],
+
+  "faq_label": "FAQ",
+  "faq_headline": "Häufige Fragen",
+  "faq_items": [
+    { "question": "🧬 Wie wirkt Veluna und welche Inhaltsstoffe sind enthalten?",
+      "answer": "Veluna enthält natürliche Pflanzenstoffe, die körpereigene Rezeptoren unterstützen können. Die sorgfältig ausgewählten Inhaltsstoffe arbeiten synergistisch zusammen, um einen gesunden Stoffwechsel und natürliches Sättigungsgefühl zu fördern. Inhaltsstoffe: Grüntee-Extrakt (Camellia sinensis, ≥ 50% EGCG), InnoSlim (Extrakt aus Panax-Notoginseng und Astragalus-membranaceus), Cholinbitartrat, Dicalciumphosphat, mikrokristalline Cellulose, Magnesiumstearat, Siliciumdioxid." },
+    { "question": "⏰ Wie oft sollte ich Veluna einnehmen?",
+      "answer": "Für optimale Ergebnisse empfehlen wir eine Kapsel täglich – idealerweise morgens oder abends. Die tägliche Einnahme sollte Teil einer ausgewogenen Ernährung und eines gesunden Lebensstils sein." },
+    { "question": "⏱️ Wann sehe ich erste Ergebnisse?",
+      "answer": "Die meisten Anwender berichten von ersten spürbaren Veränderungen nach 2–3 Wochen regelmäßiger Anwendung. Dazu gehören verbessertes Wohlbefinden, mehr Energie und reduzierte Heißhungerattacken. Sichtbare Ergebnisse zeigen sich typischerweise nach 4–8 Wochen, je nach individuellen Faktoren wie Ernährung und Bewegung." },
+    { "question": "✅ Gibt es Nebenwirkungen?",
+      "answer": "Veluna besteht aus 100% natürlichen Inhaltsstoffen und ist in der Regel sehr gut verträglich. Bei bekannten Allergien gegen einen der Inhaltsstoffe sollten die Kapseln nicht eingenommen werden. Schwangere und Stillende sollten vor der Anwendung ihren Arzt konsultieren." },
+    { "question": "💊 Kann ich Veluna mit Medikamenten kombinieren?",
+      "answer": "Obwohl Veluna aus natürlichen Inhaltsstoffen besteht, empfehlen wir bei der Einnahme von Medikamenten – insbesondere Blutverdünnern oder Diabetes-Medikamenten – vorab mit Ihrem Arzt zu sprechen. Einige Inhaltsstoffe könnten mit bestimmten Medikamenten interagieren." },
+    { "question": "🛡️ Was ist die Geld-zurück-Garantie?",
+      "answer": "Wir sind von der Qualität unseres Produkts überzeugt und bieten eine 60-Tage-Geld-zurück-Garantie. Wenn Sie nicht zufrieden sind, können Sie die ungeöffneten Packungen innerhalb von 60 Tagen nach Erhalt zurücksenden und erhalten den vollen Kaufpreis erstattet – ohne Wenn und Aber." }
+  ],
+
+  "footer_description": "Veluna ist eine Premium-GLP-Support-Formel für natürliche Stoffwechsel-Unterstützung. Entwickelt nach höchsten Qualitätsstandards in deutschen Laboren.",
+  "footer_nav_title": "Navigation",
+  "footer_legal_title": "Rechtliches",
+  "legal_links": [
+    { "modal": "privacy", "label": "Datenschutz" },
+    { "modal": "terms", "label": "AGB" },
+    { "modal": "returns", "label": "Rückgabe & Garantie" },
+    { "modal": "contact", "label": "Kontakt" }
+  ],
+
+  "distributor_notice": "<strong>Hinweis zum Vertrieb:</strong> Diese Website wird von einem unabhängigen autorisierten Vertriebspartner betrieben und ist weder mit dem Hersteller noch mit dem Markeninhaber von Veluna verbunden. Alle Produktnamen, Marken und Kennzeichnungen sind Eigentum ihrer jeweiligen Inhaber. Ergebnisse können von Person zu Person unterschiedlich sein. Diese Website dient nur zu Informationszwecken und stellt keine medizinische Beratung dar.",
+
+  "disclaimer": "* Diese Aussagen wurden nicht von der Europäischen Behörde für Lebensmittelsicherheit (EFSA) bewertet. Veluna ist ein Nahrungsergänzungsmittel und ist nicht dazu bestimmt, Krankheiten zu diagnostizieren, zu behandeln, zu heilen oder zu verhindern. Die Informationen auf dieser Website dienen nur zu Informationszwecken und ersetzen nicht den Rat eines qualifizierten Gesundheitsdienstleisters. Individuelle Ergebnisse können variieren. Dies ist eine bezahlte Werbeseite.",
+
+  "copyright_text": "Alle Rechte vorbehalten.",
+
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Datenschutzerklärung",
+      "intro": "Stand: April 2026. Diese Datenschutzerklärung erklärt, wie Vivello Solutions Ltd („wir“, „uns“ oder „unser“) Ihre persönlichen Informationen erfasst, verwendet und schützt, wenn Sie diese Website besuchen.",
+      "sections": [
+        {
+          "heading": "1. Welche Informationen wir erfassen",
+          "content": "Wir erfassen Informationen, die Sie direkt angeben (Name, E-Mail, Rechnungsadresse, Zahlungsinformationen) und automatisch (IP-Adresse, Browsertyp, Geräteinformationen, besuchte Seiten, Cookies und verweisende URLs). Wir können auch Daten von Drittanbietern für Analysen und Werbung erhalten."
+        },
+        {
+          "heading": "2. Wie wir Ihre Informationen verwenden",
+          "content": "Wir verwenden Ihre Informationen, um: Bestellungen zu bearbeiten und zu erfüllen; über Ihren Bestellstatus zu kommunizieren; Kundensupport zu leisten; Werbe-E-Mails zu senden (Sie können sich jederzeit abmelden); Website-Traffic zu analysieren und das Nutzererlebnis zu verbessern; gesetzliche Verpflichtungen zu erfüllen; und Betrug zu verhindern."
+        },
+        {
+          "heading": "3. Cookies und Tracking-Technologien",
+          "content": "Wir verwenden Cookies und ähnliche Tracking-Technologien, einschließlich Google Analytics (Verkehrsanalyse), Meta Pixel (Werbe-Retargeting) und Session-Cookies (Warenkorb). Sie können Cookie-Einstellungen über Ihren Browser steuern. Das Deaktivieren von Analyse-Cookies beeinträchtigt nicht die Nutzung der Website."
+        },
+        {
+          "heading": "4. Weitergabe an Dritte",
+          "content": "Wir verkaufen, vermieten oder tauschen Ihre persönlichen Daten NICHT. Wir teilen Daten nur mit: Zahlungsverarbeitern (zur Transaktionsabwicklung); Versanddienstleistern (zur Lieferung); Analyseanbietern (Google Analytics, in anonymisierter Form); Werbeplattformen (Meta, Google – für Retargeting, nur gehashte Daten). Alle Dritten sind vertraglich zum Schutz Ihrer Daten verpflichtet."
+        },
+        {
+          "heading": "5. Datenspeicherung",
+          "content": "Wir speichern persönliche Daten so lange, wie es für die Bestellabwicklung, gesetzliche Verpflichtungen und Streitbeilegung erforderlich ist. Transaktionsaufzeichnungen werden typischerweise 5 Jahre aufbewahrt. Sie können jederzeit die Löschung Ihrer Daten anfragen (vorbehaltlich gesetzlicher Aufbewahrungspflichten)."
+        },
+        {
+          "heading": "6. Datensicherheit",
+          "content": "Alle Datenübertragungen zwischen Ihrem Browser und unserem Server sind mit SSL/TLS verschlüsselt. Wir verwenden branchenübliche Sicherheitspraktiken einschließlich Zugangskontrollen und sicherer Server-Infrastruktur. Kein System ist 100% sicher, und wir können keine absolute Sicherheit garantieren."
+        },
+        {
+          "heading": "7. Ihre Rechte (DSGVO)",
+          "content": "EU-Bürger haben das Recht auf: Auskunft über gespeicherte Daten; Berichtigung unrichtiger Daten; Löschung („Recht auf Vergessenwerden“); Einschränkung der Verarbeitung; Datenübertragbarkeit; und Widerspruch gegen die Verarbeitung. Um Ihre Rechte auszuüben, kontaktieren Sie uns unter support@getnutrivea.com. Wir antworten innerhalb von 30 Tagen."
+        },
+        {
+          "heading": "8. Datenschutz für Minderjährige",
+          "content": "Diese Website richtet sich nicht an Personen unter 18 Jahren. Wir erfassen wissentlich keine persönlichen Informationen von Minderjährigen. Wenn Sie glauben, dass wir versehentlich solche Informationen erfasst haben, kontaktieren Sie uns sofort zur Löschung."
+        },
+        {
+          "heading": "9. Änderungen dieser Richtlinie",
+          "content": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Änderungen werden auf dieser Seite mit einem aktualisierten Datum veröffentlicht. Die fortgesetzte Nutzung der Website nach Änderungen gilt als Zustimmung zur aktualisierten Richtlinie."
+        },
+        {
+          "heading": "10. Kontakt",
+          "content": "Für Datenschutzfragen oder zur Ausübung Ihrer Rechte kontaktieren Sie uns unter: support@getnutrivea.com. Wir antworten auf alle Datenschutzanfragen innerhalb von 30 Tagen."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Allgemeine Geschäftsbedingungen",
+      "intro": "Letzte Aktualisierung: April 2026. Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig, bevor Sie diese Website nutzen. Durch den Zugriff auf oder die Nutzung dieser Website stimmen Sie der Bindung an diese Bedingungen zu.",
+      "sections": [
+        {
+          "heading": "1. Offenlegung des unabhängigen Vertriebspartners",
+          "content": "Diese Website wird von Vivello Solutions Ltd betrieben, einem unabhängigen autorisierten Vertriebspartner von Veluna. Wir sind NICHT der Hersteller, Markeninhaber oder offizielle Vertreter der Marke. Alle Produktnamen, Marken und Kennzeichnungen sind ausschließliches Eigentum ihrer jeweiligen Inhaber. Wir erhalten eine Provision für Verkäufe über Affiliate-Links auf dieser Website. Dies ist eine wesentliche Verbindung gemäß FTC-Richtlinien."
+        },
+        {
+          "heading": "2. Annahme der Bedingungen",
+          "content": "Durch den Zugriff auf diese Website bestätigen Sie, dass Sie mindestens 18 Jahre alt sind, diese Bedingungen gelesen und verstanden haben und sich rechtlich daran gebunden fühlen. Wenn Sie nicht zustimmen, nutzen Sie diese Website bitte nicht."
+        },
+        {
+          "heading": "3. Altersbeschränkung",
+          "content": "Diese Website und ihre Produkte richten sich an Personen ab 18 Jahren. Durch die Nutzung dieser Website bestätigen Sie, dass Sie mindestens 18 Jahre alt sind. Wir vermarkten nicht wissentlich an Minderjährige und erfassen keine Daten von Minderjährigen."
+        },
+        {
+          "heading": "4. Keine medizinische Beratung",
+          "content": "Nichts auf dieser Website stellt medizinische Beratung, Diagnose oder Behandlung dar. Alle Inhalte dienen nur zu Informationszwecken. Konsultieren Sie immer einen qualifizierten Arzt, bevor Sie ein neues Nahrungsergänzungsmittel einnehmen, insbesondere wenn Sie schwanger sind, stillen, eine medizinische Erkrankung haben oder verschreibungspflichtige Medikamente einnehmen."
+        },
+        {
+          "heading": "5. Produktbeschreibungen und Ergebnisse",
+          "content": "Produktbeschreibungen basieren auf Informationen des Herstellers. Als unabhängiger Vertriebspartner machen wir keine unabhängigen Gesundheitsaussagen über die vom Hersteller autorisierten hinaus. Testimonials und dargestellte Ergebnisse sind individuelle Erfahrungen und nicht typisch. Individuelle Ergebnisse variieren basierend auf Ernährung, Bewegung, Gesundheitszustand und anderen Faktoren."
+        },
+        {
+          "heading": "6. Offenlegung der Affiliate-Beziehung",
+          "content": "Diese Website enthält Affiliate-Links. Wenn Sie auf einen Link klicken und einen Kauf tätigen, erhalten wir eine Provision ohne zusätzliche Kosten für Sie. Diese Vergütung beeinflusst, welche Produkte wir bewerben. Diese Offenlegung erfolgt gemäß FTC-Richtlinien (16 CFR § 255)."
+        },
+        {
+          "heading": "7. Haftungsbeschränkung",
+          "content": "Soweit gesetzlich zulässig, haftet Vivello Solutions Ltd nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden, die sich aus Ihrer Nutzung dieser Website oder der hier beworbenen Produkte ergeben. Unsere Gesamthaftung übersteigt nicht den Betrag, den Sie für das Produkt bezahlt haben."
+        },
+        {
+          "heading": "8. Geistiges Eigentum",
+          "content": "Alle auf dieser Website angezeigten Produktnamen, Logos und Marken sind Eigentum ihrer jeweiligen Inhaber. Der von uns erstellte Inhalt (Text, Design-Elemente) ist unser Eigentum. Sie dürfen unseren ursprünglichen Inhalt ohne schriftliche Genehmigung nicht reproduzieren oder neu veröffentlichen."
+        },
+        {
+          "heading": "9. Anwendbares Recht",
+          "content": "Diese Bedingungen unterliegen den Gesetzen von England und Wales, ohne Berücksichtigung der Grundsätze des Kollisionsrechts. Streitigkeiten werden vor den Gerichten von London, England, beigelegt."
+        },
+        {
+          "heading": "10. Änderungen der Bedingungen",
+          "content": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Änderungen werden auf dieser Seite mit einem aktualisierten Datum veröffentlicht. Ihre fortgesetzte Nutzung der Website gilt als Zustimmung zu den aktualisierten Bedingungen."
+        },
+        {
+          "heading": "11. Kontakt",
+          "content": "Fragen zu diesen Bedingungen? Kontaktieren Sie uns unter support@getnutrivea.com."
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Rückgabe & Garantie",
+      "intro": "Wir möchten, dass Sie vollständig zufrieden sind. Bitte lesen Sie unsere Rückgaberichtlinie sorgfältig, bevor Sie Ihre Bestellung aufgeben.",
+      "sections": [
+        {
+          "heading": "Zufriedenheitsgarantie",
+          "content": "Alle Käufe von Veluna sind durch eine 60-Tage-Geld-zurück-Garantie geschützt. Wenn Sie aus irgendeinem Grund nicht zufrieden sind, können Sie innerhalb von 60 Tagen nach dem Kaufdatum eine vollständige Rückerstattung anfordern – ohne Fragen."
+        },
+        {
+          "heading": "So fordern Sie eine Rückerstattung an",
+          "content": "So starten Sie eine Rückerstattung: (1) Senden Sie eine E-Mail an support@getnutrivea.com mit dem Betreff 'Rückerstattung anfordern'; (2) Geben Sie Ihren vollständigen Namen, Bestellnummer und die verwendete E-Mail-Adresse an; (3) Sie erhalten innerhalb von 1–2 Werktagen eine Bestätigung und Rücksendeanweisungen."
+        },
+        {
+          "heading": "Rückerstattungsberechtigung",
+          "content": "Geöffnete und teilweise verbrauchte Flaschen werden innerhalb des Garantiezeitraums zur Rückerstattung akzeptiert. In einigen Fällen müssen Sie das Produkt nicht zurücksenden – wir bestätigen dies in unserer Antwort. Versand- und Bearbeitungsgebühren sind nicht erstattungsfähig."
+        },
+        {
+          "heading": "Bearbeitungszeit",
+          "content": "Sobald Ihre Rückerstattung genehmigt wurde, wird sie innerhalb von 5–10 Werktagen bearbeitet. Bitte planen Sie zusätzliche 3–5 Werktage ein, bis die Gutschrift auf Ihrem Kontoauszug erscheint."
+        },
+        {
+          "heading": "Beschädigte oder falsche Artikel",
+          "content": "Wenn Sie einen beschädigten, defekten oder falschen Artikel erhalten haben, kontaktieren Sie uns bitte innerhalb von 7 Tagen nach Lieferung mit einer Beschreibung und Foto des Problems. Wir arrangieren einen Ersatz oder eine vollständige Rückerstattung ohne Kosten für Sie."
+        },
+        {
+          "heading": "Wichtiger Hinweis",
+          "content": "Um sicherzustellen, dass Ihre Bestellung für die volle Geld-zurück-Garantie qualifiziert ist, kaufen Sie immer über den offiziellen Produktlink auf dieser Seite. Käufe über Marktplätze Dritter unterliegen möglicherweise nicht denselben Garantiebedingungen."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Kontakt",
+      "intro": "Wir sind für Sie da. Bitte kontaktieren Sie uns über die unten stehenden Informationen, und wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "sections": [
+        {
+          "heading": "Kundenservice-E-Mail",
+          "content": "Für alle Anfragen, einschließlich Bestellstatus, Rückerstattungsanfragen und allgemeine Fragen, senden Sie uns bitte eine E-Mail an: support@getnutrivea.com"
+        },
+        {
+          "heading": "Antwortzeit",
+          "content": "Wir bemühen uns, auf alle Kundenanfragen innerhalb von 1–2 Werktagen zu antworten. In Stoßzeiten kann die Antwort bis zu 3 Werktage dauern. Wir danken Ihnen für Ihre Geduld."
+        },
+        {
+          "heading": "Geschäftszeiten",
+          "content": "Unser Support-Team ist Montag bis Freitag, 9:00 Uhr bis 17:00 UhrMEZ, erreichbar. Wir sind an Wochenenden und Feiertagen geschlossen."
+        },
+        {
+          "heading": "Rückerstattungs- und Bestellanfragen",
+          "content": "Wenn Sie uns wegen einer Bestellung oder Rückerstattung kontaktieren, schreiben Sie bitte Ihre Bestellnummer und die beim Checkout verwendete E-Mail-Adresse. Dies hilft uns, Ihr Konto schneller zu finden."
+        },
+        {
+          "heading": "Über diese Website",
+          "content": "Diese Website wird von Vivello Solutions Ltd betrieben, einem unabhängigen autorisierten Vertriebspartner von Veluna. Wir sind nicht der Hersteller. Für Hersteller-Support können Sie die Marke auch direkt über deren offizielle Website kontaktieren."
+        }
+      ]
+    }
+  ]
+}

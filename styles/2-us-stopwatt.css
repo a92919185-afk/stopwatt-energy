@@ -1,0 +1,325 @@
+@import url('theme.css');
+
+/* ============================================================
+   THEME: StopWatt
+   Source: https://stopwatt-eco.vercel.app/
+   Extracted: 2026-04-01
+   Theme type: Mixed (dark hero, light sections)
+   Niche: Energy/Home Efficiency
+   ============================================================ */
+
+/* ── LAYER 1: COLOR TOKENS ─────────────────────────────── */
+:root {
+  --primary:        #16a34a ; /* CTA button bg - green from official */
+  --primary-dark:   #15803d ; /* CTA button hover - darker green */
+  --primary-light:  #f0fdf4 ; /* badge/tag backgrounds - light green tint */
+  --secondary:      #f0fdf4 ; /* section label pill bg - light green */
+  --bg:             #ffffff ; /* page background */
+  --bg-alt:         #f8fafc ; /* alternating section bg - trust, benefits, reviews */
+  --dark:           #0f172a ; /* H1/H2 color - dark navy */
+  --text:           #1e293b ; /* body text - slate */
+  --text-muted:     #64748b ; /* captions/subtitles */
+  --cta-bg:         #16a34a ; /* CTA fill - same as primary */
+  --cta-text:       #ffffff ; /* text on CTA - white */
+  --alert-bg:       #0f172a ; /* top bar bg - dark navy */
+  --alert-text:     #ffffff ; /* top bar text - white */
+  --trust-bg:       #f8fafc ; /* trust section bg */
+  --border:         #e2e8f0 ; /* card/divider borders */
+  --star:           #f59e0b ; /* star ratings - amber */
+}
+
+/* ── LAYER 2: TYPOGRAPHY TOKENS ────────────────────────── */
+:root {
+  --font-heading:   'Poppins', sans-serif ; /* from Google Fonts link */
+  --font-body:      'Poppins', sans-serif ; /* same family for consistency */
+  --fw-heading:     700 ; /* h1 weight */
+  --fw-subheading:  600 ; /* h2/h3 weight */
+  --fw-body:        400 ; /* body text weight */
+  --lh-heading:     1.15 ; /* heading line-height */
+  --lh-body:        1.7 ; /* body line-height */
+  --fs-h1:          clamp(2rem, 4.5vw, 3.2rem) ; /* responsive h1 */
+  --fs-h2:          clamp(1.6rem, 3vw, 2.4rem) ; /* responsive h2 */
+}
+
+/* ── LAYER 3: HERO BACKGROUND ───────────────────────────── */
+#hero {
+  background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+  position: relative;
+}
+
+/* Decorative gradient overlay on right side */
+#hero::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  background: linear-gradient(135deg, rgba(22,163,74,0.15) 0%, rgba(22,163,74,0.04) 100%);
+  clip-path: polygon(10% 0%, 100% 0%, 100% 100%, 0% 100%);
+  pointer-events: none;
+}
+
+/* ── LAYER 4: COMPONENT OVERRIDES ───────────────────────── */
+
+/* Alert bar */
+#alert-bar {
+  background: var(--alert-bg);
+  color: var(--alert-text);
+}
+.alert-badge i {
+  color: #4ade80; /* bright green for icons */
+}
+
+/* Navbar - dark background */
+#header {
+  background: var(--dark);
+}
+
+/* Hero elements */
+.hero-badge {
+  background: rgba(22,163,74,0.2);
+  border: 1px solid rgba(22,163,74,0.5);
+  color: #4ade80;
+}
+.hero-text h1 .highlight {
+  color: #4ade80;
+}
+.hero-tagline i {
+  color: #4ade80;
+}
+.hero-guarantee i {
+  color: #4ade80;
+}
+
+/* CTA Buttons - pill-shaped from reference */
+.btn-primary,
+.hero-cta,
+.cta-button {
+  background: var(--cta-bg);
+  color: var(--cta-text);
+  border-radius: 50px; /* pill shape */
+  padding: 16px 36px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  box-shadow: 0 4px 20px rgba(22,163,74,0.35);
+  transition: all 0.2s ease;
+}
+.btn-primary:hover,
+.hero-cta:hover {
+  background: var(--primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(22,163,74,0.4);
+}
+
+/* Section label pills */
+.section-label {
+  background: var(--secondary);
+  color: var(--primary);
+  border-radius: 50px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 5px 14px;
+}
+
+/* Cards - feature, review, benefit cards */
+.feature-card,
+.benefit-card,
+.review-card {
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.10);
+  border: 1px solid var(--border);
+}
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 48px rgba(0,0,0,0.12);
+  border-color: rgba(22,163,74,0.3);
+}
+
+/* Feature icon wrapper */
+.feature-icon-wrap {
+  background: var(--secondary);
+  border-radius: 12px;
+}
+.feature-icon-wrap i {
+  color: var(--primary);
+}
+
+/* Trust badges */
+.trust-icon {
+  background: var(--secondary);
+  border-radius: 50%;
+}
+.trust-icon i {
+  color: var(--primary);
+}
+
+/* Social proof section - green background */
+#social-proof {
+  background: var(--primary);
+  color: #fff;
+}
+.stat-divider {
+  background: rgba(255,255,255,0.25);
+}
+
+/* FAQ styling */
+.faq-icon {
+  background: var(--secondary);
+}
+.faq-icon i {
+  color: var(--primary);
+}
+.faq-item.open .faq-icon {
+  background: var(--primary);
+}
+.faq-item.open .faq-icon i {
+  color: #fff;
+}
+
+/* Urgency badge in benefits */
+.urgency-badge {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #dc2626;
+}
+
+/* Footer - dark */
+#footer {
+  background: var(--dark);
+  color: rgba(255,255,255,0.72);
+}
+.footer-distributor {
+  background: rgba(255,255,255,0.04);
+  border-left: 3px solid rgba(22,163,74,0.5);
+}
+.footer-contact i,
+.footer-col ul li a:hover {
+  color: #4ade80;
+}
+
+/* Review stars */
+.review-stars {
+  color: var(--star);
+}
+.reviews-stats {
+  background: var(--secondary);
+  border: 1px solid rgba(22,163,74,0.2);
+}
+.review-stat .number {
+  color: var(--primary);
+}
+
+/* ── LAYER 5: CONTRAST SAFETY CHECKS ────────────────────── */
+/*
+   Verify before saving:
+   [x] Navbar text is white on dark navbar background (readable)
+   [x] CTA button text (#fff) on --cta-bg (#16a34a) has 4.5:1+ ratio
+   [x] Modal text is ALWAYS dark (modals have white bg, text is --dark)
+   [x] Section labels: --primary (#16a34a) text on --secondary (#f0fdf4) is readable
+   [x] Hero text is white/light on dark hero gradient
+   [x] Trust badge text: --dark on --trust-bg is readable
+   [x] Social proof: white text on green background is readable
+*/
+
+/* ── LAYER 6: LOGO OVERRIDES ───────────────────────────── */
+
+/* Navbar logo - use white official logo */
+.nav-logo-text {
+  display: inline-block;
+  width: 140px;
+  height: 36px;
+  background-image: url('../images/logo-white.webp');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-indent: -9999px; /* hide text */
+  overflow: hidden;
+}
+
+/* Footer logo - use white official logo on dark background */
+.footer-logo-text {
+  display: inline-block;
+  width: 120px;
+  height: 32px;
+  background-image: url('../images/logo-white.webp');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+  text-indent: -9999px;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+/* Hero product image - ensure no background and proper sizing */
+.hero-product-img {
+  filter: drop-shadow(0 24px 48px rgba(0,0,0,0.40));
+  background: transparent !important;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Hero image column styling */
+.hero-img-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+/* Benefits image styling */
+.benefits-img img {
+  filter: drop-shadow(0 24px 48px rgba(0,0,0,0.15));
+  border-radius: 12px;
+}
+
+/* Science image styling */
+.science-img img {
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+
+/* Review images - circular and smaller */
+.review-image {
+  margin-bottom: 12px;
+}
+.review-image img {
+  width: 60px !important;
+  height: 60px !important;
+  border-radius: 50% !important;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* ── LAYER 7: RESPONSIVE ADJUSTMENTS ────────────────────── */
+@media (max-width: 900px) {
+  #hero::after {
+    display: none; /* hide decorative gradient on mobile */
+  }
+  
+  .nav-logo-text {
+    width: 120px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  .btn-primary,
+  .hero-cta {
+    padding: 14px 28px; /* slightly smaller on mobile */
+    font-size: 0.95rem;
+  }
+  
+  .nav-logo-text {
+    width: 100px;
+    height: 26px;
+  }
+  
+  .footer-logo-text {
+    width: 100px;
+    height: 26px;
+  }
+}

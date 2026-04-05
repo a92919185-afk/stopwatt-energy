@@ -1,0 +1,59 @@
+@import url('theme.css');
+
+/* ─── Red Theme — High Urgency / Health ──────────────── */
+:root {
+  --primary:       #dc2626;
+  --primary-dark:  #b91c1c;
+  --primary-light: #fef2f2;
+  --secondary:     #fef2f2;
+  --bg:            #ffffff;
+  --dark:          #1a1a2e;
+  --text:          #1e293b;
+  --text-muted:    #64748b;
+  --cta-bg:        #dc2626;
+  --cta-text:      #ffffff;
+  --alert-bg:      #1a1a2e;
+  --trust-bg:      #faf5f5;
+  --border:        #e5e0e0;
+  --star:          #f59e0b;
+
+  --font-heading:  'Poppins', sans-serif;
+  --font-body:     'Poppins', sans-serif;
+
+  --radius-card:   8px;
+  --radius-btn:    50px;
+  --radius-img:    12px;
+  --shadow-card:   0 8px 32px rgba(0,0,0,0.10);
+  --shadow-hero:   0 24px 48px rgba(0,0,0,0.18);
+  --transition:    all 0.2s ease;
+}
+
+/* Hero gradient override */
+#hero {
+  background: linear-gradient(135deg, #1a1a2e 0%, #7f1d1d 100%);
+}
+#hero::after {
+  background: linear-gradient(135deg, rgba(220,38,38,0.2) 0%, rgba(220,38,38,0.05) 100%);
+}
+.hero-badge {
+  background: rgba(220,38,38,0.2);
+  border-color: rgba(220,38,38,0.5);
+  color: #fca5a5;
+}
+.hero-text h1 .highlight { color: #fca5a5; }
+.hero-tagline i { color: #fca5a5; }
+.hero-guarantee i { color: #fca5a5; }
+.alert-badge i { color: #fca5a5; }
+
+.btn-primary:hover {
+  background: var(--primary-dark);
+  box-shadow: 0 12px 32px rgba(220,38,38,0.35);
+}
+.feature-card:hover {
+  border-color: rgba(220,38,38,0.3);
+}
+
+.footer-contact i { color: #fca5a5; }
+.footer-contact a { color: #fca5a5; }
+.footer-col ul li a:hover { color: #fca5a5; }
+.footer-distributor { border-left-color: rgba(220,38,38,0.5); }

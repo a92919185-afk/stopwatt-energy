@@ -1,0 +1,29 @@
+<section id="benefits" aria-labelledby="benefits-h2">
+  <div class="container">
+    <div class="benefits-layout">
+      <div class="benefits-text">
+        <div class="section-label">{{benefits_label}}</div>
+        <h2 id="benefits-h2" class="section-h2">{{benefits_headline}}</h2>
+        {{#each benefits_paragraphs}}
+        <p class="section-body">{{this}}</p>
+        {{/each}}
+        <div class="urgency-badge">
+          <i class="fa-solid fa-fire" aria-hidden="true"></i>
+          {{urgency_text}}
+        </div>
+        <a href="{{cta_url}}" class="btn-primary">
+          <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+          {{benefits_cta_text}}
+        </a>
+      </div>
+      <div class="benefits-img">
+        <img
+          src="{{benefits_image}}"
+          alt="{{product_name}}"
+          width="480" height="480"
+          loading="lazy"
+        />
+      </div>
+    </div>
+  </div>
+</section>

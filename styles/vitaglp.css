@@ -1,0 +1,617 @@
+@import url('theme.css');
+
+/* VITAGLP THEME - Warm Brown Palette (Matches vitaglp.com) */
+/* Override ALL theme.css variables with VitaGLP colors */
+
+:root {
+  /* PRIMARY - Brown/Maroon from vitaglp.com */
+  --primary: #371F15;
+  --primary-dark: #210B02;
+  --primary-light: #FFFCF0;
+  
+  /* SECONDARY - Warm cream background */
+  --secondary: #FFFCF0;
+  
+  /* BACKGROUND */
+  --bg: #FFFFFF;
+  --bg-alt: #F5F1EB;
+  --bg-cream: #FFFCF0;
+  
+  /* TEXT */
+  --dark: #210B02;
+  --text: #210B02;
+  --text-muted: #6B7280;
+  
+  /* CTA - Orange/Amber */
+  --cta-bg: #ED9700;
+  --cta-text: #FFFFFF;
+  --cta-hover: #FF5F00;
+  
+  /* ALERT */
+  --alert-bg: #371F15;
+  
+  /* TRUST & BORDERS */
+  --trust-bg: #F5F1EB;
+  --border: #E5E7EB;
+  
+  /* STAR RATING */
+  --star: #F59E0B;
+  
+  /* FONTS */
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Poppins', sans-serif;
+  
+  /* RADII */
+  --radius-card: 16px;
+  --radius-btn: 12px;
+  --radius-img: 12px;
+}
+
+/* HERO SECTION - Modern split background */
+#hero {
+  background: #371F15 !important;
+  position: relative;
+  border-radius: 0 0 48px 48px;
+  margin-bottom: -40px;
+  padding-bottom: 80px;
+  z-index: 10;
+  overflow: hidden;
+}
+
+/* Modern diagonal split effect */
+#hero::before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 55%;
+  background: linear-gradient(135deg, #4A2C1A 0%, #5D3A1A 100%);
+  clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 0% 100%);
+  pointer-events: none;
+}
+
+/* Subtle glow accent */
+#hero::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 40%;
+  height: 100%;
+  background: radial-gradient(ellipse at 70% 50%, rgba(237, 151, 0, 0.12) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+#hero .hero-text {
+  color: #FFFFFF !important;
+}
+
+#hero .hero-subtext {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+#hero .hero-tagline {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+#hero .hero-guarantee {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+#hero .hero-badge {
+  background: rgba(237, 151, 0, 0.2) !important;
+  border: 1px solid rgba(237, 151, 0, 0.5) !important;
+  color: #ED9700 !important;
+}
+
+#hero .hero-text h1 .highlight {
+  color: #ED9700 !important;
+}
+
+/* ALL HEADLINES - Modern bold style */
+#hero .hero-text h1,
+#benefits h2,
+#features h2,
+#science h2,
+#reviews h2,
+#shipping h2,
+#faq h2 {
+  font-weight: 800 !important;
+  letter-spacing: -0.02em !important;
+  line-height: 1.15 !important;
+}
+
+#hero .hero-text h1 .highlight {
+  display: inline;
+  font-weight: 800 !important;
+  background: linear-gradient(135deg, #ED9700 0%, #FF5F00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* SECTION LABELS */
+.section-label {
+  background: #371F15 !important;
+  color: #FFFFFF !important;
+}
+
+/* SOCIAL PROOF */
+#social-proof {
+  background: #371F15 !important;
+  color: #FFFFFF !important;
+}
+
+#social-proof .stat-number {
+  color: #ED9700 !important;
+}
+
+/* TRUST BADGES - Positioned below hero curve */
+#trust {
+  background: #F5F1EB !important;
+  position: relative;
+  z-index: 5;
+  padding-top: 60px;
+}
+
+.trust-icon {
+  background: #FFFCF0 !important;
+}
+
+.trust-icon i {
+  color: #371F15 !important;
+}
+
+/* FEATURE CARDS */
+.feature-card {
+  background: #FFFFFF !important;
+  border: 1px solid #E5E7EB !important;
+}
+
+.feature-icon-wrap {
+  background: #FFFCF0 !important;
+}
+
+.feature-icon-wrap i {
+  color: #371F15 !important;
+}
+
+.feature-title {
+  color: #210B02 !important;
+}
+
+.feature-desc {
+  color: #6B7280 !important;
+}
+
+/* FAQ */
+.faq-question {
+  color: #210B02 !important;
+}
+
+.faq-question:hover {
+  color: #371F15 !important;
+}
+
+.faq-icon {
+  background: #FFFCF0 !important;
+}
+
+.faq-icon i {
+  color: #371F15 !important;
+}
+
+.faq-item.open .faq-icon {
+  background: #371F15 !important;
+}
+
+.faq-item.open .faq-icon i {
+  color: #FFFFFF !important;
+}
+
+/* REVIEWS */
+.review-card {
+  background: #FFFFFF !important;
+  border: 1px solid #E5E7EB !important;
+}
+
+.review-body {
+  color: #210B02 !important;
+}
+
+.reviewer-name {
+  color: #210B02 !important;
+}
+
+.reviews-stats {
+  background: #FFFCF0 !important;
+  border: 1px solid #E5E7EB !important;
+}
+
+.review-stat .number {
+  color: #371F15 !important;
+}
+
+/* NAVBAR */
+#header {
+  background: rgba(255, 252, 240, 0.98) !important;
+  backdrop-filter: blur(10px);
+}
+
+.nav-logo-text {
+  color: #371F15 !important;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.nav-links a {
+  color: #371F15 !important;
+}
+
+/* HERO ICONS - Specific icons in cream color - MAXIMUM SPECIFICITY */
+#hero .hero-inner .hero-text .hero-tagline span i,
+#hero .hero-inner .hero-text .hero-guarantee i {
+  color: #F5F1EB !important;
+}
+
+.nav-links a:hover {
+  color: #210B02 !important;
+}
+
+/* ALERT BAR */
+#announcement-bar {
+  background: #371F15 !important;
+  color: #FFFFFF !important;
+}
+
+.alert-badge i {
+  color: #ED9700 !important;
+}
+
+/* FOOTER */
+#footer {
+  background: #371F15 !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+#footer h3,
+#footer h4 {
+  color: #FFFFFF !important;
+}
+
+.footer-col ul li a {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.footer-col ul li a:hover {
+  color: #ED9700 !important;
+}
+
+.footer-contact i {
+  color: #ED9700 !important;
+}
+
+.footer-contact a {
+  color: #ED9700 !important;
+}
+
+.footer-distributor {
+  border-left: 3px solid #ED9700 !important;
+}
+
+/* BUTTONS */
+.btn-primary {
+  background: linear-gradient(135deg, #ED9700 0%, #FF5F00 100%) !important;
+  color: #FFFFFF !important;
+  border-radius: var(--radius-btn) !important;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #FF5F00 0%, #E68500 100%) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(237, 151, 0, 0.35);
+}
+
+/* MODALS */
+.modal-drawer {
+  background: #FFFFFF !important;
+}
+
+.modal-drawer h2 {
+  color: #210B02 !important;
+}
+
+.modal-drawer h3 {
+  color: #210B02 !important;
+}
+
+.modal-drawer p {
+  color: #4B5563 !important;
+}
+
+.modal-close {
+  background: #F5F1EB !important;
+  color: #6B7280 !important;
+}
+
+.modal-close:hover {
+  background: #E5E7EB !important;
+  color: #210B02 !important;
+}
+
+/* MECHANISM BLOCK (if used) */
+.mechanism-mode--before {
+  background: #FFF5F5 !important;
+  border: 1px solid #FECACA !important;
+}
+
+.mechanism-mode--after {
+  background: #FFFCF0 !important;
+  border: 1px solid #371F15 !important;
+}
+
+.mechanism-mode--after .mechanism-mode-icon {
+  background: #371F15 !important;
+  color: #FFFFFF !important;
+}
+
+.mechanism-step-icon {
+  background: #FFFCF0 !important;
+  color: #371F15 !important;
+}
+
+.mechanism-result {
+  background: #FFFCF0 !important;
+  border-left: 4px solid #371F15 !important;
+  color: #210B02 !important;
+}
+
+.mechanism-result i {
+  color: #371F15 !important;
+}
+
+/* PRICING BLOCK (if used) */
+.pricing-card {
+  background: #FFFFFF !important;
+  border: 1px solid #E5E7EB !important;
+}
+
+.pricing-per-bottle {
+  color: #371F15 !important;
+}
+
+/* BONUSES BLOCK (if used) */
+.bonus-card {
+  background: #FFFFFF !important;
+  border: 1px solid #E5E7EB !important;
+}
+
+/* STICKY BAR */
+.sticky-bar {
+  background: #371F15 !important;
+}
+
+/* OVERRIDE ANY REMAINING BLUE COLORS */
+* {
+  --primary: #371F15 !important;
+  --secondary: #FFFCF0 !important;
+  --primary-light: #FFFCF0 !important;
+}
+
+/* Force override any inline blue styles */
+[style*="#2563EB"],
+[style*="#1d4ed8"],
+[style*="#DBEAFE"],
+[class*="blue"],
+.bg-blue-500,
+.bg-blue-600 {
+  background-color: #371F15 !important;
+  color: #FFFFFF !important;
+}
+
+/* Fix text on light backgrounds */
+#benefits,
+#science,
+#faq {
+  color: #210B02 !important;
+}
+
+#benefits h2,
+#features h2,
+#science h2,
+#reviews h2,
+#faq h2 {
+  color: #210B02 !important;
+}
+
+#benefits p,
+#features p,
+#science p,
+#reviews p,
+#faq p {
+  color: #4B5563 !important;
+}
+
+/* Section backgrounds */
+#benefits {
+  background: #FFFCF0 !important;
+}
+
+#features {
+  background: #FFFFFF !important;
+}
+
+#science {
+  background: #F5F1EB !important;
+}
+
+#reviews {
+  background: #FFFFFF !important;
+}
+
+#faq {
+  background: #FFFCF0 !important;
+}
+
+/* SHIPPING SECTION */
+#shipping {
+  background: linear-gradient(180deg, #FFFFFF 0%, #F5F1EB 100%) !important;
+}
+
+.shipping-header .section-label {
+  background: linear-gradient(135deg, #371F15 0%, #5D3A1A 100%) !important;
+  box-shadow: 0 4px 20px rgba(55, 31, 21, 0.3) !important;
+}
+
+.shipping-stat-number {
+  color: #371F15 !important;
+}
+
+.shipping-country {
+  background: #FFFFFF !important;
+  border: 2px solid transparent !important;
+}
+
+.shipping-country:hover {
+  border-color: #371F15 !important;
+  box-shadow: 0 20px 40px rgba(55, 31, 21, 0.15) !important;
+}
+
+.shipping-country-name {
+  color: #210B02 !important;
+}
+
+.shipping-feature {
+  background: #FFFFFF !important;
+  border: 1px solid #E5E7EB !important;
+}
+
+.shipping-feature-icon {
+  background: linear-gradient(135deg, #371F15 0%, #5D3A1A 100%) !important;
+  box-shadow: 0 12px 32px rgba(55, 31, 21, 0.35) !important;
+}
+
+.shipping-feature-title {
+  color: #210B02 !important;
+}
+
+.shipping-trust i {
+  color: #371F15 !important;
+}
+
+/* Urgency badge in benefits */
+.urgency-badge {
+  background: #FFF5F5 !important;
+  border: 1px solid #FECACA !important;
+  color: #DC2626 !important;
+}
+
+/* Review stars */
+.review-stars {
+  color: #F59E0B !important;
+}
+
+/* Mobile responsive fixes */
+@media (max-width: 768px) {
+  #hero {
+    min-height: auto;
+    padding: 0;
+  }
+  
+  .hero-inner {
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding: 32px 20px;
+  }
+  
+  .hero-text {
+    order: 1;
+  }
+  
+  .hero-img-col {
+    order: 0;
+  }
+}
+
+/* Hide review images */
+.review-image {
+  display: none !important;
+}
+
+/* Rounded section edges */
+#hero {
+  border-radius: 0 0 32px 32px;
+}
+
+#trust,
+#benefits,
+#features,
+#science,
+#reviews,
+#faq,
+#footer {
+  border-radius: 32px;
+  margin: 24px 20px;
+}
+
+#footer {
+  border-radius: 32px 32px 0 0;
+}
+
+/* IMAGES - Rounded corners and sizing */
+.benefits-img img,
+#benefits .benefits-img img {
+  border-radius: 24px;
+  max-width: 85%;
+  box-shadow: 0 20px 40px rgba(55, 31, 21, 0.2);
+}
+
+.science-img img,
+#science img {
+  border-radius: 24px;
+  box-shadow: 0 20px 40px rgba(55, 31, 21, 0.15);
+}
+
+.hero-product-img {
+  border-radius: 24px;
+  filter: drop-shadow(0 24px 48px rgba(0,0,0,0.4));
+}
+
+/* SHIPPING SECTION - Centered and larger flags on desktop */
+.shipping-grid {
+  justify-content: center !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 24px !important;
+}
+
+.shipping-flag {
+  width: 88px !important;
+  height: 66px !important;
+  border-radius: 12px !important;
+}
+
+.shipping-country-name {
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+}
+
+.shipping-feature-title {
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+}
+
+.shipping-feature-desc {
+  font-size: 0.85rem !important;
+  line-height: 1.5 !important;
+}
+
+.shipping-feature-icon {
+  width: 64px !important;
+  height: 64px !important;
+}
+
+.shipping-feature-icon i {
+  font-size: 1.5rem !important;
+}

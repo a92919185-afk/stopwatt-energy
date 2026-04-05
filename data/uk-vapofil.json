@@ -1,0 +1,327 @@
+{
+  "page_model": "A",
+  "slug": "vapofil-uk",
+  "language": "en-GB",
+  "theme": "dark.css",
+  "product_name": "VapoFil",
+  "meta_title": "VapoFil — Restore Your Energy, Drive & Confidence Naturally",
+  "meta_description": "VapoFil targets the root cause of low energy and fading vitality in men over 40. 60-day money-back guarantee. Free UK shipping.",
+  "cta_text": "Order Now",
+  "cta_url": "https://checkout.example.com/vapofil-uk",
+  "year": "2026",
+  "alert_badges": [
+    {
+      "icon": "fa-solid fa-fire",
+      "text": "Limited Offer: 65% OFF — Today Only"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "text": "60-Day Money-Back Guarantee"
+    },
+    {
+      "icon": "fa-solid fa-truck-fast",
+      "text": "Free UK Shipping on All Orders"
+    }
+  ],
+  "nav_links": [
+    {
+      "href": "#benefits",
+      "label": "Benefits"
+    },
+    {
+      "href": "#features",
+      "label": "Ingredients"
+    },
+    {
+      "href": "#reviews",
+      "label": "Reviews"
+    },
+    {
+      "href": "#faq",
+      "label": "FAQ"
+    }
+  ],
+  "hero_badge": "Trusted by 15,000+ Men Across the UK",
+  "headline": "Don't Let Age Steal Your ",
+  "headline_highlight": "Energy, Drive & Confidence",
+  "hero_subtext_1": "If you're over 40 and noticing low energy, reduced drive, or feeling like you've lost your edge — you're not alone. And you certainly don't have to accept it.",
+  "hero_subtext_2": "VapoFil is a natural formula designed to target the root cause of male decline — restoring your vitality from the inside out.",
+  "hero_tags": [
+    {
+      "icon": "fa-solid fa-flash",
+      "text": "2 Capsules Daily"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "text": "100% Natural"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "text": "No Side Effects"
+    }
+  ],
+  "hero_cta_text": "Claim Your Discount — 65% OFF",
+  "hero_guarantee_text": "Risk-free — full refund if not satisfied. No questions asked.",
+  "hero_image": "https://placehold.co/480x480/1e1b4b/c4b5fd?text=VapoFil",
+  "trust_badges": [
+    {
+      "icon": "fa-solid fa-certificate",
+      "title": "GMP Certified",
+      "subtitle": "Production standards"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "FDA Registered",
+      "subtitle": "Facility inspected"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "100% Natural",
+      "subtitle": "No artificial additives"
+    },
+    {
+      "icon": "fa-solid fa-globe-europe",
+      "title": "Ships to UK",
+      "subtitle": "Fast delivery"
+    },
+    {
+      "icon": "fa-solid fa-ban",
+      "title": "Non-GMO",
+      "subtitle": "Pure ingredients"
+    }
+  ],
+  "stats": [
+    {
+      "value": "15,000+",
+      "label": "UK Customers"
+    },
+    {
+      "value": "4.8★",
+      "label": "Average Rating"
+    },
+    {
+      "value": "95%",
+      "label": "Would Recommend"
+    }
+  ],
+  "benefits_label": "The Problem Most Men Face",
+  "benefits_headline": "Why Most Blokes Over 40 Feel Like a Shadow of Themselves",
+  "benefits_paragraphs": [
+    "After 40, your body's natural testosterone production starts declining — often by 1-2% per year. By 50, you could have 10-20% less than at 25. The effects go well beyond the bedroom.",
+    "Low energy. Brain fog. Weight gain round the middle. Reduced muscle mass. Weakened drive. Feeling like you're just going through the motions.",
+    "<strong>VapoFil changes this.</strong> Our formula combines 6 clinically studied ingredients that target the root cause — not just masking symptoms, but restoring your body's natural vitality."
+  ],
+  "urgency_text": "65% off today — but stock is limited. Don't wait.",
+  "benefits_cta_text": "Restore Your Vitality — 65% OFF",
+  "benefits_image": "https://placehold.co/480x480/151220/a78bfa?text=Research",
+  "features_label": "The VapoFil Difference",
+  "features_headline": "6 Natural Ingredients. One Life-Changing Formula.",
+  "features_subheadline": "Each ingredient chosen for maximum impact — backed by science, not marketing.",
+  "features_cta_text": "Order Now — 65% OFF",
+  "features": [
+    {
+      "icon": "fa-solid fa-fire",
+      "title": "Tongkat Ali 100:1",
+      "description": "Boosts free testosterone levels — giving you energy for the gym, focus at work, and the drive you thought was gone for good."
+    },
+    {
+      "icon": "fa-solid fa-heart-pulse",
+      "title": "Horny Goat Weed",
+      "description": "Improves blood flow where it matters — real performance when it counts."
+    },
+    {
+      "icon": "fa-solid fa-shield-heart",
+      "title": "Saw Palmetto",
+      "description": "Supports prostate health and hormone balance — keeping you sharp and strong."
+    },
+    {
+      "icon": "fa-solid fa-bolt",
+      "title": "Boron Amino Acid",
+      "description": "Increases active testosterone and reduces inflammation — the foundation of feeling young again."
+    },
+    {
+      "icon": "fa-solid fa-seedling",
+      "title": "Sarsaparilla Root",
+      "description": "Natural adaptogen that fights fatigue and supports endurance."
+    },
+    {
+      "icon": "fa-solid fa-flask",
+      "title": "Nettle Leaf Extract",
+      "description": "Releases bound testosterone — more energy, more muscle, more confidence."
+    }
+  ],
+  "science_label": "The Science Behind VapoFil",
+  "science_headline": "How It Works: The 3-Step Vitality Reset",
+  "science_subheadline": "VapoFil doesn't mask symptoms — it targets the root causes.",
+  "science_image": "https://placehold.co/600x600/151220/a78bfa?text=Science",
+  "science_title": "The 3 Pillars of Restored Vitality",
+  "science_steps": [
+    {
+      "step": "1. Unlocks Bound Testosterone:",
+      "text": "Tongkat Ali and Boron release testosterone from SHBG. More free testosterone = more energy and drive."
+    },
+    {
+      "step": "2. Restores Blood Flow:",
+      "text": "Horny Goat Weed boosts nitric oxide production, improving circulation throughout your body."
+    },
+    {
+      "step": "3. Sustains Energy & Balance:",
+      "text": "Sarsaparilla and Nettle Leaf regulate hormones naturally — no crash, no stimulants."
+    }
+  ],
+  "science_result": "The result: You feel the difference in days. The transformation builds over weeks.",
+  "science_cta_text": "Start Your Transformation",
+  "reviews_label": "Real Blokes. Real Results.",
+  "reviews_headline": "What Happens When You Take VapoFil",
+  "reviews_subheadline": "Verified reviews from men across the UK who refused to accept decline.",
+  "reviews": [
+    {
+      "body": "Genuinely didn't expect much. After three weeks, the missus noticed before I did. More energy with the kids, sharper at work. Brilliant stuff.",
+      "name": "David K., Manchester",
+      "verified_text": "Verified Customer"
+    },
+    {
+      "body": "At 49, I'd accepted feeling knackered was just life now. VapoFil changed that. Back in the gym, sleeping better, feeling like myself again.",
+      "name": "Mark H., London",
+      "verified_text": "Verified Customer"
+    },
+    {
+      "body": "Tried all sorts over the years. This is the first thing that's actually made a noticeable difference. More energy, better focus, happier wife. Job done.",
+      "name": "Paul W., Birmingham",
+      "verified_text": "Verified Customer"
+    }
+  ],
+  "review_stats": [
+    {
+      "value": "4.8★",
+      "label": "Average Rating"
+    },
+    {
+      "value": "15,000+",
+      "label": "UK Customers"
+    },
+    {
+      "value": "95%",
+      "label": "Would Recommend"
+    }
+  ],
+  "faq_label": "Got Questions?",
+  "faq_headline": "Everything You Need to Know",
+  "faq_items": [
+    {
+      "question": "Will this actually work for me?",
+      "answer": "The ingredients have been extensively studied for male vitality. Thousands of men over 40 report real results. Give it 3-4 weeks of consistent daily use."
+    },
+    {
+      "question": "Is it safe?",
+      "answer": "100% natural, stimulant-free, made in an FDA-registered, GMP-certified facility. No harsh side effects. Consult your GP if you take medications."
+    },
+    {
+      "question": "How do I take it?",
+      "answer": "2 capsules each morning with water. Most men notice energy improvements within the first week."
+    },
+    {
+      "question": "What if it doesn't work?",
+      "answer": "60-day money-back guarantee. Full refund, no questions asked."
+    },
+    {
+      "question": "Is this a subscription?",
+      "answer": "No. One-off purchase. No hidden charges or auto-shipments."
+    },
+    {
+      "question": "Why is the 6-bottle kit most popular?",
+      "answer": "Real results take 90 days of consistent use. The 6-bottle kit gives you 3 months at the best price — 65% off with free UK shipping."
+    }
+  ],
+  "footer_description": "VapoFil is the #1 natural formula for men's vitality. Premium ingredients, manufactured in the USA, shipped worldwide.",
+  "support_email": "support@vapofil.com",
+  "footer_nav_title": "Navigate",
+  "footer_legal_title": "Legal",
+  "legal_links": [
+    {
+      "modal": "privacy",
+      "label": "Privacy Policy"
+    },
+    {
+      "modal": "terms",
+      "label": "Terms of Service"
+    },
+    {
+      "modal": "returns",
+      "label": "Returns & Refunds"
+    },
+    {
+      "modal": "contact",
+      "label": "Contact Us"
+    }
+  ],
+  "distributor_notice": "<strong>Distributor Notice:</strong> This website is operated by an independent authorised distributor of VapoFil. Individual results may vary.",
+  "disclaimer": "* These statements have not been evaluated by the MHRA. VapoFil is not intended to diagnose, treat, cure, or prevent any condition.",
+  "copyright_text": "All rights reserved.",
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Privacy Policy",
+      "intro": "Last updated: 2026. We are committed to protecting your personal information in accordance with UK GDPR.",
+      "sections": [
+        {
+          "heading": "Information We Collect",
+          "content": "We collect information you provide when placing an order (name, email, delivery address, payment information)."
+        },
+        {
+          "heading": "How We Use Your Information",
+          "content": "Your data is used to process orders, provide support, and send updates. We never sell your data to third parties."
+        },
+        {
+          "heading": "Your Rights",
+          "content": "Under UK GDPR, you have the right to access, correct, or delete your data at any time."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Terms of Service",
+      "intro": "By purchasing from this website, you agree to these terms.",
+      "sections": [
+        {
+          "heading": "Authorised Distributor",
+          "content": "This site is operated by an independent authorised distributor. Orders are fulfilled through the official network."
+        },
+        {
+          "heading": "Product Use",
+          "content": "VapoFil is a food supplement for adult men. Do not exceed the recommended dosage."
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Returns & Refunds",
+      "intro": "Full 60-day money-back guarantee.",
+      "sections": [
+        {
+          "heading": "60-Day Guarantee",
+          "content": "Not satisfied? Full refund within 60 days, no questions asked."
+        },
+        {
+          "heading": "How to Request",
+          "content": "Email support@vapofil.com with your order number."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Us",
+      "intro": "Customer support: Monday-Friday, 9am-5pm GMT.",
+      "sections": [
+        {
+          "heading": "Email",
+          "content": "support@vapofil.com"
+        },
+        {
+          "heading": "Response Time",
+          "content": "We aim to respond within 1-2 working days."
+        }
+      ]
+    }
+  ]
+}

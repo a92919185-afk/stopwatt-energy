@@ -1,0 +1,282 @@
+{
+  "page_model": "A",
+  "slug": "en-veluna",
+  "language": "en",
+  "theme": "veluna.css",
+  "product_name": "Veluna",
+
+  "company_name": "Vivello Solutions Ltd",
+  "support_phone": "+44 1332 555 123",
+  "support_email": "support@getnutrivea.com",
+  "company_address": "7 Compton Street, Ashbourne, Derbyshire, United Kingdom, DE6 1BX",
+
+  "meta_title": "Veluna – Natural Metabolic Support for Energy & Digestion | Plant-Based Formula",
+  "meta_description": "Veluna supports your metabolism naturally with InnoSlim and Green Tea Extract. More energy, better digestion, balanced cravings. 100% plant-based. Lab-tested. 60-day guarantee.",
+  "meta_keywords": "Veluna, metabolic support, natural energy, digestion support, plant-based supplement, InnoSlim, vitality, wellness",
+
+  "og_image": "images/og-cover.png",
+  "og_locale": "en_US",
+
+  "price_amount": "49.00",
+  "price_currency": "EUR",
+  "rating_value": "4.8",
+  "rating_count": "2340",
+
+  "canonical_url": "https://veluna-booster.vercel.app/",
+
+  "cta_text": "Order Now",
+  "cta_url": "#shipping",
+  "year": "2026",
+
+  "alert_badges": [
+    { "icon": "fa-solid fa-shield-halved", "text": "60-Day Guarantee" },
+    { "icon": "fa-solid fa-truck-fast", "text": "Free Shipping" },
+    { "icon": "fa-solid fa-leaf", "text": "100% Plant-Based" }
+  ],
+
+  "nav_links": [
+    { "href": "#benefits", "label": "Benefits" },
+    { "href": "#features", "label": "Ingredients" },
+    { "href": "#reviews", "label": "Reviews" },
+    { "href": "#faq", "label": "FAQ" }
+  ],
+
+  "hero_badge": "4.8/5 · 2,340+ Happy Customers",
+  "headline": "Your Metabolism, ",
+  "headline_highlight": "Naturally Rebalanced",
+  "hero_subtext_1": "Feel like your body doesn't respond like it used to? You're not alone. After 40, metabolism slows down—but it doesn't have to stay that way.",
+  "hero_subtext_2": "Veluna combines plant-based ingredients that support your body's natural metabolic processes. More energy. Better digestion. Fewer cravings. All without stimulants or harsh chemicals.",
+  "hero_tags": [
+    { "icon": "fa-solid fa-leaf", "text": "100% Plant-Based" },
+    { "icon": "fa-solid fa-flask-vial", "text": "Lab-Tested Quality" },
+    { "icon": "fa-solid fa-bolt-lightning", "text": "No Stimulants" }
+  ],
+  "hero_cta_text": "Try Veluna Risk-Free",
+  "hero_guarantee_text": "60-day money-back guarantee. No questions asked.",
+  "hero_image": "images/hero.png",
+
+  "trust_badges": [
+    { "icon": "fa-solid fa-seedling", "title": "100% Plant-Based", "subtitle": "No synthetic ingredients" },
+    { "icon": "fa-solid fa-flask-vial", "title": "Lab-Tested", "subtitle": "Third-party verified" },
+    { "icon": "fa-solid fa-leaf", "title": "No Additives", "subtitle": "Pure ingredients only" },
+    { "icon": "fa-solid fa-ban", "title": "Non-GMO", "subtitle": "Natural origins" }
+  ],
+
+  "stats": [
+    { "value": "8+", "label": "Natural Ingredients" },
+    { "value": "0", "label": "Artificial Additives" },
+    { "value": "98.7%", "label": "Would Recommend" }
+  ],
+
+  "shipping_label": "Select Your Country",
+  "shipping_headline": "Choose Your Region for the Best Offer",
+  "shipping_subheadline": "Click on your country to see local pricing, shipping options, and exclusive deals available in your region.",
+  "shipping_instruction": "Prices and availability may vary by country. Select yours for the most accurate information.",
+  "shipping_stats": [
+    { "value": "50K+", "label": "Orders Shipped" },
+    { "value": "13", "label": "Countries" },
+    { "value": "3-7", "label": "Day Delivery" }
+  ],
+  "shipping_features": [
+    { "icon": "fa-solid fa-truck-fast", "title": "Fast & Free Shipping", "desc": "Free on all orders over €49. Delivered to your door in 3–7 business days." },
+    { "icon": "fa-solid fa-box", "title": "Discreet Packaging", "desc": "Your privacy matters. Every order arrives in plain, unmarked packaging." },
+    { "icon": "fa-solid fa-headset", "title": "Priority Support", "desc": "Our team speaks your language. Real humans, real answers, real fast." }
+  ],
+  "shipping_countries": [
+    { "name": "Germany", "flag": "https://flagcdn.com/w40/de.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22R5FC8J/?uid=5223" },
+    { "name": "Austria", "flag": "https://flagcdn.com/w40/at.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22R5FC8J/?uid=5223" },
+    { "name": "Switzerland", "flag": "https://flagcdn.com/w40/ch.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22R5FC8J/?uid=5223" },
+    { "name": "Portugal", "flag": "https://flagcdn.com/w40/pt.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22R6S815/?uid=5217" },
+    { "name": "Italy", "flag": "https://flagcdn.com/w40/it.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22R874PQ/" },
+    { "name": "Spain", "flag": "https://flagcdn.com/w40/es.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22R9L1GC/" },
+    { "name": "Finland", "flag": "https://flagcdn.com/w40/fi.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22RBZW6Z/" },
+    { "name": "Denmark", "flag": "https://flagcdn.com/w40/dk.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22RDCQXK/?uid=5236" },
+    { "name": "France", "flag": "https://flagcdn.com/w40/fr.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22RFQMN6/?uid=5219" },
+    { "name": "Sweden", "flag": "https://flagcdn.com/w40/se.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22RH5JDR/?uid=5218" },
+    { "name": "Ireland", "flag": "https://flagcdn.com/w40/ie.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22RJJF5D/?uid=5220" },
+    { "name": "Netherlands", "flag": "https://flagcdn.com/w40/nl.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22RKX9W1/?uid=5222" },
+    { "name": "Belgium", "flag": "https://flagcdn.com/w40/be.png", "url": "https://www.knownwalk.com/2JCZKZ1X/22RMB6LL/?uid=5221" }
+  ],
+  "shipping_trust": "Your order is protected by our 60-day guarantee and tracked every step of the way.",
+
+  "benefits_label": "Your Benefits",
+  "benefits_headline": "Why Your Body Needs This",
+  "benefits_paragraphs": [
+    "Remember when you could eat what you wanted and still feel energized? When digestion felt effortless, and your body seemed to work with you, not against you? That natural balance doesn't have to be a thing of the past.",
+    "As we age, our cellular processes slow down. The result? Sluggish digestion. Afternoon energy crashes. Cravings that feel impossible to ignore. Your body isn't broken—it just needs the right support to function optimally.",
+    "Veluna works with your body's natural systems. InnoSlim®, our proprietary blend, combined with EGCG-rich Green Tea Extract and Choline, helps support healthy metabolic function—so you can feel like yourself again."
+  ],
+  "urgency_text": "Try it risk-free with our 60-day guarantee",
+  "benefits_cta_text": "Order Now",
+  "benefits_image": "images/benefits.webp",
+
+  "features_label": "Clean Ingredients",
+  "features_headline": "What's Inside Matters",
+  "features_subheadline": "Every ingredient is carefully selected, tested for purity, and included at effective levels.",
+  "features_cta_text": "Order Now",
+  "features": [
+    {
+      "icon": "fa-solid fa-dna",
+      "title": "InnoSlim® Proprietary Blend",
+      "description": "Our signature combination of Panax Notoginseng and Astragalus extracts, researched for metabolic support and cellular energy."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Green Tea Extract (50% EGCG)",
+      "description": "High-concentration EGCG provides antioxidant support and helps your body maintain healthy energy metabolism naturally."
+    },
+    {
+      "icon": "fa-solid fa-capsules",
+      "title": "Choline Bitartrate",
+      "description": "An essential nutrient that supports liver function and helps your body process fats efficiently for sustained energy."
+    },
+    {
+      "icon": "fa-solid fa-heart",
+      "title": "Astragalus Root",
+      "description": "A traditional botanical that supports immune function and helps your body maintain resilience during stressful periods."
+    },
+    {
+      "icon": "fa-solid fa-bolt-lightning",
+      "title": "Panax Notoginseng",
+      "description": "Known for supporting healthy circulation and natural energy—without the jitters of stimulants."
+    }
+  ],
+
+  "science_label": "How It Works",
+  "science_headline": "Support Your Body's Natural Balance",
+  "science_subheadline": "Three pillars of metabolic wellness",
+  "science_image": "images/science.webp",
+  "science_title": "A Smarter Approach to Wellness",
+  "science_steps": [
+    { "step": "1. Cellular Energy Support:", "text": "Plant compounds in Veluna help support your body's natural energy production at the cellular level—so you feel more vibrant throughout the day." },
+    { "step": "2. Metabolic Efficiency:", "text": "EGCG and Choline work together to support healthy fat metabolism and help your body use nutrients more effectively." },
+    { "step": "3. Balanced Cravings:", "text": "When your metabolism works better, cravings naturally decrease. Users report feeling more in control of their eating choices." }
+  ],
+  "science_result": "The result? More energy, better digestion, and a body that feels balanced and responsive—not sluggish and stuck.",
+  "science_cta_text": "Order Now",
+
+  "reviews_label": "Customer Reviews",
+  "reviews_headline": "What Real Customers Say",
+  "reviews_subheadline": "Verified Reviews – 4.8 out of 5 Stars",
+  "reviews": [
+    {
+      "image": "https://placehold.co/80x80/e8e2f0/462e91?text=M",
+      "body": "After 3 weeks, I noticed a real difference. More energy throughout the day, better digestion after meals, and fewer afternoon cravings. My body finally feels like it's working with me again.",
+      "name": "Monika S., Munich, Germany",
+      "verified_text": "Verified Purchase"
+    },
+    {
+      "image": "https://placehold.co/80x80/e8e2f0/462e91?text=T",
+      "body": "I've tried so many supplements before, but this one is different. No jitters, no crash—just steady, natural energy. The difference in how I feel after meals is remarkable.",
+      "name": "Thomas K., Berlin, Germany",
+      "verified_text": "Verified Purchase"
+    },
+    {
+      "image": "https://placehold.co/80x80/e8e2f0/462e91?text=S",
+      "body": "After 4 weeks, my digestion feels normal again. More energy, less bloating, and I'm not constantly thinking about food. The 60-day guarantee made trying it an easy decision.",
+      "name": "Sandra R., Hamburg, Germany",
+      "verified_text": "Verified Purchase"
+    }
+  ],
+  "review_stats": [
+    { "value": "4.8★", "label": "Average Rating" },
+    { "value": "2,340+", "label": "Verified Customers" },
+    { "value": "98.7%", "label": "Would Recommend" }
+  ],
+
+  "faq_label": "FAQ",
+  "faq_headline": "Common Questions",
+  "faq_items": [
+    { "question": "How does Veluna support my metabolism?",
+      "answer": "Veluna contains plant-based compounds that support your body's natural metabolic processes. InnoSlim®, our proprietary blend, combined with EGCG from green tea and Choline, helps support cellular energy, healthy fat metabolism, and balanced digestion—all key factors in how your body processes and uses energy." },
+    { "question": "How should I take Veluna?",
+      "answer": "For best results, take one capsule daily with a meal—morning or evening, whichever works best for your routine. Consistency is key. Most customers notice the first changes within 2–3 weeks of daily use." },
+    { "question": "When will I notice a difference?",
+      "answer": "Most people report noticing improvements in energy and digestion within 2–3 weeks. Changes in cravings and overall well-being typically become more noticeable after 4–8 weeks of consistent daily use. Individual results vary based on diet, activity, and starting point." },
+    { "question": "Are there any side effects?",
+      "answer": "Veluna is made with 100% plant-based ingredients and is generally well-tolerated. It contains no stimulants, so you won't experience jitters or crashes. If you have known allergies to any ingredient, check the label carefully. Pregnant or nursing women should consult their healthcare provider before use." },
+    { "question": "Can I take Veluna with other supplements or medications?",
+      "answer": "Veluna is a natural dietary supplement. If you're taking any medications—especially for blood sugar, blood pressure, or blood thinning—we recommend consulting your healthcare provider before adding any new supplement to your routine." },
+    { "question": "What is your guarantee policy?",
+      "answer": "We offer a 60-day money-back guarantee. If you're not completely satisfied, contact us within 60 days of purchase for a full refund—no questions asked. We're confident in our product, and we want you to feel confident trying it." }
+  ],
+
+  "footer_description": "Veluna is a premium wellness supplement designed to support metabolic health, natural energy, and digestive wellness. Developed to the highest quality standards in German laboratories.",
+  "footer_nav_title": "Navigate",
+  "footer_legal_title": "Legal",
+  "legal_links": [
+    { "modal": "privacy", "label": "Privacy Policy" },
+    { "modal": "terms", "label": "Terms of Service" },
+    { "modal": "returns", "label": "Returns & Guarantee" },
+    { "modal": "contact", "label": "Contact Us" }
+  ],
+
+  "distributor_notice": "<strong>Independent Distributor Notice:</strong> This website is operated by an independent authorized distributor and is not affiliated with, endorsed by, or operated by the manufacturer or brand owner of Veluna. All product names, trademarks, and brand identifiers belong exclusively to their respective owners. Results depicted in testimonials are not typical and individual results will vary. Nothing on this page constitutes medical advice.",
+
+  "disclaimer": "* These statements have not been evaluated by the European Food Safety Authority (EFSA). Veluna is a food supplement and is not intended to diagnose, treat, cure, or prevent any disease. Food supplements should not be used as a substitute for a varied and balanced diet and a healthy lifestyle. Individual results vary. This is a paid promotional website operated by an independent distributor.",
+
+  "copyright_text": "All rights reserved.",
+
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Privacy Policy",
+      "intro": "Effective: April 2026. This Privacy Policy explains how Vivello Solutions Ltd ('we', 'us', or 'our') collects, uses, and protects your personal information when you visit this website.",
+      "sections": [
+        { "heading": "1. Information We Collect", "content": "We collect information you provide directly (name, email, billing address, payment information) and automatically (IP address, browser type, device information, pages visited, cookies, and referring URLs). We may also receive data from third-party analytics and advertising partners." },
+        { "heading": "2. How We Use Your Information", "content": "We use your information to: process and fulfill orders; communicate about your order status; provide customer support; send promotional emails (you may unsubscribe at any time); analyze site traffic and improve user experience; comply with legal obligations; and prevent fraud." },
+        { "heading": "3. Cookies and Tracking Technologies", "content": "We use cookies and similar tracking technologies including Google Analytics (traffic analysis), Meta Pixel (advertising retargeting), and session cookies (shopping cart). You can control cookie settings through your browser. Opting out of analytics cookies will not affect your ability to use the site." },
+        { "heading": "4. Third-Party Data Sharing", "content": "We do NOT sell, rent, or trade your personal data. We share data only with: payment processors (to complete transactions); shipping providers (to deliver your order); analytics providers (Google Analytics, in anonymized form); advertising platforms (Meta, Google – for retargeting, using hashed data only). All third parties are contractually bound to protect your data." },
+        { "heading": "5. Data Retention", "content": "We retain personal data for as long as necessary to fulfill orders, comply with legal obligations, and resolve disputes. Transaction records are typically kept for 5 years. You may request deletion of your data at any time (subject to legal retention requirements)." },
+        { "heading": "6. Data Security", "content": "All data transmitted between your browser and our server is encrypted using SSL/TLS. We employ industry-standard security practices including access controls and secure server infrastructure. No system is 100% secure, and we cannot guarantee absolute security." },
+        { "heading": "7. Your Rights (GDPR)", "content": "EU/UK residents have the right to: access what personal data we collect; request deletion; restrict processing; data portability; and object to processing. To exercise any right, email us at support@getnutrivea.com. We will respond within 30 days." },
+        { "heading": "8. Children's Privacy", "content": "This website is not directed at children under 18 years of age. We do not knowingly collect personal information from minors. If you believe we have inadvertently collected such information, please contact us immediately for deletion." },
+        { "heading": "9. Changes to This Policy", "content": "We may update this Privacy Policy periodically. Changes will be posted on this page with an updated effective date. Continued use of the site after changes constitutes acceptance of the updated policy." },
+        { "heading": "10. Contact", "content": "For privacy-related questions or to exercise your rights, contact us at: support@getnutrivea.com. We respond to all privacy requests within 30 days." }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Terms of Service",
+      "intro": "Last updated: April 2026. Please read these Terms of Service carefully before using this website. By accessing or using this site, you agree to be bound by these terms.",
+      "sections": [
+        { "heading": "1. Independent Distributor Disclosure", "content": "This website is operated by Vivello Solutions Ltd, an independent authorized distributor of Veluna. We are NOT the manufacturer, brand owner, or official representative of the brand. All product names, trademarks, and branding belong exclusively to their respective owners. We earn a commission on sales made through affiliate links on this site. This is a material connection as defined by FTC guidelines." },
+        { "heading": "2. Acceptance of Terms", "content": "By accessing this website, you confirm that you are at least 18 years of age, have read and understood these terms, and agree to be legally bound by them. If you do not agree, please do not use this site." },
+        { "heading": "3. Age Restriction", "content": "This site and its products are intended for adults 18 years of age or older. By using this site you represent that you are at least 18 years old. We do not knowingly market to or collect information from minors." },
+        { "heading": "4. No Medical Advice", "content": "Nothing on this website constitutes medical advice, diagnosis, or treatment. All content is provided for informational purposes only. Always consult a licensed healthcare professional before starting any new supplement, especially if you are pregnant, nursing, have a medical condition, or are taking prescription medications." },
+        { "heading": "5. Product Descriptions and Results", "content": "Product descriptions reflect information provided by the manufacturer. As an independent distributor, we make no independent health claims beyond those authorized by the manufacturer. Testimonials and results shown are individual experiences and are not typical. Individual results will vary based on diet, exercise, health status, age, and other factors." },
+        { "heading": "6. Affiliate Relationship Disclosure", "content": "This website contains affiliate links. When you click a link and make a purchase, we earn a commission at no additional cost to you. This compensation influences which products we promote. This disclosure is provided in compliance with FTC guidelines (16 CFR § 255)." },
+        { "heading": "7. Limitation of Liability", "content": "To the maximum extent permitted by applicable law, Vivello Solutions Ltd shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of this site or the products promoted herein. Our total liability shall not exceed the amount you paid for the product giving rise to the claim." },
+        { "heading": "8. Intellectual Property", "content": "All product names, logos, and trademarks displayed on this site belong to their respective owners. The content we create (copy, design elements) is our property. You may not reproduce or republish our original content without written permission." },
+        { "heading": "9. Governing Law", "content": "These terms are governed by the laws of England and Wales, without regard to conflict of law principles. Any disputes shall be resolved in the courts of London, England." },
+        { "heading": "10. Changes to Terms", "content": "We reserve the right to modify these terms at any time. Changes will be posted on this page with an updated date. Your continued use of the site constitutes acceptance of any updated terms." },
+        { "heading": "11. Contact", "content": "Questions about these Terms? Contact us at support@getnutrivea.com." }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Returns & Guarantee Policy",
+      "intro": "We want you to be completely satisfied. Please read our refund policy carefully before placing your order.",
+      "sections": [
+        { "heading": "Satisfaction Guarantee", "content": "All purchases of Veluna are covered by a 60-day money-back guarantee. If for any reason you are not satisfied, you may request a full refund within 60 days of your purchase date, no questions asked." },
+        { "heading": "How to Request a Refund", "content": "To initiate a refund: (1) Email support@getnutrivea.com with the subject line 'Refund Request'; (2) Include your full name, order number, and the email address used to place the order; (3) You will receive a confirmation and return instructions within 1–2 business days." },
+        { "heading": "Refund Eligibility", "content": "Opened and partially used bottles are accepted for refund within the guarantee window. You do not need to return the product in some cases – we will confirm this in our response. Shipping and handling charges are non-refundable. Products purchased outside of the guarantee window are not eligible for refunds." },
+        { "heading": "Processing Timeline", "content": "Once your refund is approved, it will be processed within 5–10 business days. Please allow an additional 3–5 business days for your bank or card issuer to reflect the credit on your statement." },
+        { "heading": "Damaged or Incorrect Items", "content": "If you received a damaged, defective, or incorrect item, please contact us within 7 days of delivery with a description and photo of the issue. We will arrange a replacement or full refund at no cost to you." },
+        { "heading": "Important Note", "content": "To ensure your order qualifies for the full money-back guarantee, always purchase through the official product link on this page. Third-party marketplace purchases may not be covered by the same guarantee terms." }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Us",
+      "intro": "We are here to help. Please reach out using the information below and we will get back to you as soon as possible.",
+      "sections": [
+        { "heading": "Customer Support Email", "content": "For all inquiries, including order status, refund requests, and general questions, please email us at: support@getnutrivea.com" },
+        { "heading": "Response Time", "content": "We aim to respond to all customer inquiries within 1–2 business days. During peak periods, responses may take up to 3 business days. We appreciate your patience." },
+        { "heading": "Business Hours", "content": "Our support team is available Monday through Friday, 9:00 AM to 5:00 PM Central European Time (CET). We are closed on weekends and major European public holidays." },
+        { "heading": "Refund & Order Inquiries", "content": "When contacting us about an order or refund, please include your order number and the email address used at checkout. This helps us locate your account and resolve your issue faster." },
+        { "heading": "About This Website", "content": "This website is operated by Vivello Solutions Ltd, an independent authorized distributor of Veluna. We are not the manufacturer. For manufacturer-level support, you may also contact the brand directly via their official website." }
+      ]
+    }
+  ]
+}

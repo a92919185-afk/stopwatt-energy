@@ -1,0 +1,40 @@
+# ============================================================
+#  PAGE-BUILDER — .gitignore
+#
+#  This is the SOURCE/BUILD repository.
+#  Generated pages are deployed separately via deploy.sh.
+#  The output/ folder is intentionally excluded here so that
+#  accidental "git add ." can never stage generated pages.
+# ============================================================
+
+# ── Generated output — NEVER commit to this repo ────────────
+# Deploy pages using: ./deploy.sh SLUG /path/to/target-repo
+output/
+
+# ── Dependencies ─────────────────────────────────────────────
+node_modules/
+
+# ── IDE ──────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+
+# ── Environment / secrets ────────────────────────────────────
+.env
+.env.local
+
+# ── Temporary files ──────────────────────────────────────────
+*.tmp
+*.temp
+
+# ── Other tools ──────────────────────────────────────────────
+.kilocode/
+.kilo/

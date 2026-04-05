@@ -1,0 +1,63 @@
+<section id="shipping" aria-labelledby="shipping-h2">
+  <div class="shipping-container">
+    <div class="shipping-header">
+      <span class="section-label">
+        <i class="fa-solid fa-globe" aria-hidden="true"></i>
+        {{shipping_label}}
+      </span>
+      <h2 id="shipping-h2" class="section-h2">
+        {{shipping_headline}}
+      </h2>
+      <p class="section-body">{{shipping_subheadline}}</p>
+      {{#if shipping_instruction}}
+      <p class="shipping-instruction">
+        <i class="fa-solid fa-circle-info" aria-hidden="true"></i>
+        {{shipping_instruction}}
+      </p>
+      {{/if}}
+    </div>
+    
+    {{#if shipping_stats}}
+    <div class="shipping-stats">
+      {{#each shipping_stats}}
+      <div class="shipping-stat">
+        <div class="shipping-stat-number">{{value}}</div>
+        <div class="shipping-stat-label">{{label}}</div>
+      </div>
+      {{/each}}
+    </div>
+    {{/if}}
+    
+    <div class="shipping-grid">
+      {{#each shipping_countries}}
+      <a href="{{url}}" class="shipping-country" title="Order from {{name}}">
+        <img src="{{flag}}" alt="{{name}}" class="shipping-flag" loading="lazy" />
+        <span class="shipping-country-name">{{name}}</span>
+      </a>
+      {{/each}}
+    </div>
+    
+    {{#if shipping_features}}
+    <div class="shipping-features">
+      {{#each shipping_features}}
+      <div class="shipping-feature">
+        <div class="shipping-feature-icon">
+          <i class="{{icon}}" aria-hidden="true"></i>
+        </div>
+        <div class="shipping-feature-text">
+          <span class="shipping-feature-title">{{title}}</span>
+          <span class="shipping-feature-desc">{{desc}}</span>
+        </div>
+      </div>
+      {{/each}}
+    </div>
+    {{/if}}
+    
+    {{#if shipping_trust}}
+    <div class="shipping-trust">
+      <i class="fa-solid fa-shield-check" aria-hidden="true"></i>
+      <span>{{shipping_trust}}</span>
+    </div>
+    {{/if}}
+  </div>
+</section>

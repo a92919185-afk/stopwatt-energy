@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="{{language}}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{meta_title}}</title>
+  <meta name="description" content="{{meta_description}}" />
+  {{#if meta_keywords}}<meta name="keywords" content="{{meta_keywords}}" />{{/if}}
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="{{company_name}}" />
+  {{#if canonical_url}}<link rel="canonical" href="{{canonical_url}}" />{{/if}}
+  {{#if canonical_url}}<link rel="alternate" hreflang="{{language}}" href="{{canonical_url}}" />{{/if}}
+
+  <!-- Preconnect for Performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin />
+
+  <!-- Preload Critical Resources -->
+  <link rel="preload" href="images/hero.webp" as="image" type="image/webp" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="product" />
+  <meta property="og:title" content="{{meta_title}}" />
+  <meta property="og:description" content="{{meta_description}}" />
+  {{#if og_image}}<meta property="og:image" content="{{og_image}}" />{{/if}}
+  {{#if canonical_url}}<meta property="og:url" content="{{canonical_url}}" />{{/if}}
+  <meta property="og:site_name" content="{{product_name}}" />
+  <meta property="og:locale" content="{{og_locale}}" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{meta_title}}" />
+  <meta name="twitter:description" content="{{meta_description}}" />
+  {{#if og_image}}<meta name="twitter:image" content="{{og_image}}" />{{/if}}
+
+  <!-- Google Fonts: Merriweather (headings) + Inter (body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Font Awesome 6 -->
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <!-- Theme CSS (includes model-c base layer + product overrides) -->
+  <link rel="stylesheet" href="styles/{{theme}}" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "{{product_name}}",
+    "description": "{{meta_description}}",
+    "brand": {
+      "@type": "Brand",
+      "name": "{{product_name}}"
+    },
+    "image": "{{og_image}}",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "{{price_currency}}",
+      "price": "{{price_amount}}",
+      "availability": "https://schema.org/InStock",
+      "url": "{{cta_url}}",
+      "seller": {
+        "@type": "Organization",
+        "name": "{{company_name}}"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{rating_value}}",
+      "reviewCount": "{{rating_count}}",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{company_name}}",
+    "email": "{{support_email}}",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service"
+    }
+  }
+  </script>
+
+  {{#if canonical_url}}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{product_name}}",
+    "url": "{{canonical_url}}",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{canonical_url}}?search={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  {{/if}}
+
+</head>
+<body>
+
+{{block:navbar}}
+
+{{block:promo-banner}}
+
+{{block:hero-c}}
+
+{{block:scientific-refs}}
+
+{{block:trust-c}}
+
+{{block:rating}}
+
+{{block:reviews}}
+
+{{block:product-identity}}
+
+{{block:how-it-works}}
+
+{{block:ingredients-list}}
+
+{{block:guarantee}}
+
+{{block:benefits-list}}
+
+{{block:faq}}
+
+{{block:final-cta}}
+
+{{block:floating-cta}}
+
+{{block:footer}}
+
+{{block:modals}}
+
+<!-- JavaScript — Scroll Reveal + FAQ + Modals -->
+<script>
+  /* Scroll reveal — adds .mc-revealed to .mc-reveal elements */
+  (function() {
+    var targets = document.querySelectorAll('.mc-reveal');
+    if (!targets.length) return;
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('mc-revealed');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
+    targets.forEach(function(el) { observer.observe(el); });
+  })();
+</script>
+
+<script>
+  /* FAQ accordion */
+  document.querySelectorAll('.faq-question').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var item = this.closest('.faq-item');
+      var isOpen = item.classList.contains('open');
+      document.querySelectorAll('.faq-item').forEach(function(i) {
+        i.classList.remove('open');
+        i.querySelector('.faq-question').setAttribute('aria-expanded', 'false');
+      });
+      if (!isOpen) {
+        item.classList.add('open');
+        this.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+
+  /* Legal modals */
+  function openModal(name) {
+    var el = document.getElementById('modal-' + name);
+    if (el) { el.classList.add('active'); document.body.style.overflow = 'hidden'; }
+  }
+  function closeModal(name) {
+    var el = document.getElementById('modal-' + name);
+    if (el) { el.classList.remove('active'); document.body.style.overflow = ''; }
+  }
+  document.querySelectorAll('.modal-overlay').forEach(function(overlay) {
+    overlay.addEventListener('click', function(e) {
+      if (e.target === overlay) { overlay.classList.remove('active'); document.body.style.overflow = ''; }
+    });
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      document.querySelectorAll('.modal-overlay.active').forEach(function(el) {
+        el.classList.remove('active'); document.body.style.overflow = '';
+      });
+    }
+  });
+</script>
+
+</body>
+</html>

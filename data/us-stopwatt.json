@@ -1,0 +1,454 @@
+{
+  "page_model": "A",
+  "slug": "us-stopwatt",
+  "language": "en",
+  "theme": "stopwatt.css",
+  "product_name": "StopWatt",
+
+  "company_name": "StopWatt Distributors LLC",
+  "support_email": "support@stopwatts.com",
+  "company_address": "1200 Main Street, Suite 400, Dallas, TX 75202",
+  
+  "canonical_url": "https://getstopwatt-us.com/us-stopwatt",
+
+  "meta_title": "StopWatt Reviews 2026 | Reduce Electric Bill Up to 65% (Official Site USA)",
+  "meta_description": "StopWatt is the #1 rated electricity saving device in USA. Cut your power bill by up to 65% with this UL certified energy saver. 100,000+ happy customers. 60-day money-back guarantee. Free shipping on all orders!",
+  "meta_keywords": "stopwatt, stopwatt reviews, stopwatt device, stopwatt official, stopwatt USA, electricity saver, reduce electric bill, lower power bill, home energy saver, electricity stabilizer, stop watt, energy saving device, dirty electricity filter, power factor saver, electric bill reducer, home electricity optimizer, stopwatt price, stopwatt discount, best energy saver 2026, UL certified energy device, how to save electricity, reduce energy consumption",
+  
+  "og_title": "StopWatt Reviews 2026 | Official USA Site - Save 65% on Electric Bills",
+  "og_description": "Join 100,000+ Americans saving money on electricity bills. StopWatt UL certified device reduces power consumption by up to 65%. Free shipping + 60-day guarantee.",
+  "og_image": "images/og-cover.webp",
+  "og_locale": "en_US",
+  "og_type": "product",
+  
+  "twitter_card": "summary_large_image",
+  "twitter_title": "StopWatt Reviews 2026 | Official USA Site",
+  "twitter_description": "Save up to 65% on your electric bill with StopWatt. UL certified energy saving device. 100,000+ happy customers.",
+  "twitter_image": "images/og-cover.webp",
+
+  "price_amount": "49.00",
+  "price_currency": "USD",
+  "rating_value": "4.7",
+  "rating_count": "100000",
+  
+  "geo_region": "US",
+  "geo_placename": "United States",
+  "geo_position": "37.09024;-95.712891",
+  "icbm": "37.09024, -95.712891",
+
+  "cta_text": "Get StopWatt Now",
+  "cta_url": "https://www.fasttrack36.com/PHPWHDRK/25FXKK44/?uid=54236",
+  "year": "2026",
+
+  "alert_badges": [
+    { "icon": "fa-solid fa-bolt-lightning", "text": "Limited: Up to 65% OFF Today Only" },
+    { "icon": "fa-solid fa-shield-halved", "text": "60-Day Money-Back Guarantee" },
+    { "icon": "fa-solid fa-truck-fast", "text": "Free Shipping USA Wide" }
+  ],
+
+  "nav_links": [
+    { "href": "#benefits", "label": "Benefits" },
+    { "href": "#how-it-works", "label": "How It Works" },
+    { "href": "#reviews", "label": "Reviews" },
+    { "href": "#faq", "label": "FAQ" }
+  ],
+
+  "hero_badge": "America's #1 Energy Saving Device 2026",
+  "headline": "Slash Your Electric Bill by Up to ",
+  "headline_highlight": "65% Starting Today",
+  "hero_subtext_1": "Tired of sky-high electricity bills? StopWatt uses patented Electricity Stabilizing Technology (EST) to optimize your home's power consumption. Join over 100,000 American households already saving hundreds per year.",
+  "hero_subtext_2": "This UL-certified device plugs into any outlet and immediately starts reducing wasted electricity. No installation, no maintenance, no electrician needed. Just plug it in and watch your bill drop.",
+  "hero_tags": [
+    { "icon": "fa-solid fa-certificate", "text": "UL Certified Safe" },
+    { "icon": "fa-solid fa-leaf", "text": "RoHS Compliant" },
+    { "icon": "fa-solid fa-shield-halved", "text": "60-Day Guarantee" }
+  ],
+  "hero_cta_text": "Get StopWatt Now — Save 65% Today",
+  "hero_guarantee_text": "Risk-free purchase with 60-day money-back guarantee",
+  "hero_image": "images/hero.webp",
+  "hero_image_alt": "StopWatt electricity saving device with UL certification badge - reduce electric bill up to 65%",
+
+  "trust_badges": [
+    { "icon": "fa-solid fa-medal", "title": "UL Certified", "subtitle": "Safety tested & verified" },
+    { "icon": "fa-solid fa-shield-halved", "title": "60-Day Guarantee", "subtitle": "Full refund, no questions" },
+    { "icon": "fa-solid fa-plug-circle-bolt", "title": "Plug & Save", "subtitle": "Works in 10 seconds" },
+    { "icon": "fa-solid fa-star", "title": "4.7★ Rating", "subtitle": "100,000+ reviews" },
+    { "icon": "fa-solid fa-flag-usa", "title": "Made for USA", "subtitle": "120V optimized" }
+  ],
+
+  "stats": [
+    { "value": "100,000+", "label": "US Homes Using StopWatt" },
+    { "value": "Up to 65%", "label": "Average Bill Reduction" },
+    { "value": "4.7★", "label": "Customer Rating" },
+    { "value": "$300+", "label": "Yearly Savings" }
+  ],
+
+  "benefits_label": "Why StopWatt Works",
+  "benefits_headline": "Your Utility Company Won't Tell You This — But Your Home Is Wasting 30-40% of Electricity",
+  "benefits_paragraphs": [
+    "The average American home wastes 30-40% of electricity due to 'dirty electricity' — unstable currents, voltage spikes, and reactive power that your meter still charges you for. Most homeowners never know this is happening. They just keep paying inflated bills month after month.",
+    "Traditional 'energy saving tips' like turning off lights or adjusting thermostats barely move the needle. The real problem is electrical inefficiency in your walls — power that gets wasted before it even reaches your appliances. That's why your bill stays high no matter what you do.",
+    "StopWatt's patented Electricity Stabilizing Technology (EST) captures this wasted energy, cleans your home's electrical current, and redistributes it efficiently. The result? Appliances run smoother, last longer, and your monthly bill drops by up to 65% — often within the first 30 days."
+  ],
+  "urgency_text": "Flash Sale: Limited stock at 65% off. Order now before prices go up!",
+  "benefits_cta_text": "Claim Your 65% Discount Now",
+  "benefits_image": "images/benefits.webp",
+  "benefits_image_alt": "StopWatt electricity stabilizer technology reduces power consumption and lowers electric bills",
+
+  "features_label": "How StopWatt Technology Works",
+  "features_headline": "6 Powerful Ways StopWatt Cuts Your Electricity Costs",
+  "features_subheadline": "Engineered for American homes. UL certified for safety.",
+  "features_cta_text": "Order StopWatt With 65% Off",
+  "features": [
+    {
+      "icon": "fa-solid fa-bolt",
+      "title": "Stabilizes Electrical Current",
+      "description": "EST technology smooths unstable electricity entering your home. Appliances receive clean, stable power instead of chaotic spikes that waste energy and wear out components prematurely."
+    },
+    {
+      "icon": "fa-solid fa-medal",
+      "title": "UL Certified for Safety",
+      "description": "Independently tested and certified by Underwriters Laboratories — the same safety organization that certifies your phone charger and laptop. Complete peace of mind for your family."
+    },
+    {
+      "icon": "fa-solid fa-filter",
+      "title": "Filters Dirty Electricity",
+      "description": "Removes high-frequency electrical noise generated by modern appliances. Less interference means less wasted power and a measurable reduction in your monthly utility bill."
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "Protects Appliances",
+      "description": "Voltage spikes silently damage refrigerators, TVs, and HVAC systems. StopWatt acts as a protective buffer, extending appliance lifespan and preventing costly repairs."
+    },
+    {
+      "icon": "fa-solid fa-plug",
+      "title": "Zero Installation Needed",
+      "description": "No electrician. No tools. No technical knowledge. Simply plug StopWatt into any standard outlet and it immediately optimizes your entire home's electrical system."
+    },
+    {
+      "icon": "fa-solid fa-chart-line",
+      "title": "Real Bill Reduction",
+      "description": "Unlike cheap imitations, StopWatt delivers measurable savings you can see on your actual electric bill. Most customers report 20-65% reduction in their first billing cycle."
+    }
+  ],
+
+  "science_label": "The Science Behind StopWatt",
+  "science_headline": "How StopWatt Reduces Electric Bills by Up to 65%",
+  "science_subheadline": "Patented Electricity Stabilizing Technology (EST)",
+  "science_image": "images/science-how-it-works.webp",
+  "science_image_alt": "StopWatt EST technology explained - 3 step process to reduce electricity consumption",
+  "science_title": "The 3-Step Process to Lower Electric Bills",
+  "science_steps": [
+    { "step": "1. Stabilizes Power Flow:", "text": "EST technology straightens unstable electrical current, providing constant smooth output. This eliminates power fluctuations that waste electricity and damage sensitive electronics." },
+    { "step": "2. Eliminates Harmful Surges:", "text": "Advanced capacitors absorb voltage spikes before they reach your appliances. This protects expensive equipment while ensuring only clean, usable power enters your home's circuits." },
+    { "step": "3. Reduces Dirty EMF Electricity:", "text": "Proprietary magnetic filter removes carbon and electromagnetic radiation from your electrical system. The result: cleaner power, lower consumption, and reduced exposure to EMF radiation." }
+  ],
+  "science_result": "The final result: Your home uses electricity more efficiently, appliances consume less power, and your monthly electric bill drops by 20% to 65% — guaranteed or your money back.",
+  "science_cta_text": "Get StopWatt With 65% Discount",
+  "shipping_label": "Fast USA Shipping",
+  "shipping_headline": "Free Shipping to All 50 US States",
+  "shipping_subheadline": "Order today and receive your StopWatt within 3-5 business days. Express shipping available.",
+  "shipping_features": [
+    { "icon": "fa-solid fa-truck-fast", "title": "Free Standard Shipping", "desc": "3-5 business days" },
+    { "icon": "fa-solid fa-box", "title": "Express Delivery", "desc": "1-2 business days available" },
+    { "icon": "fa-solid fa-shield-halved", "title": "Insured Shipping", "desc": "100% delivery guarantee" }
+  ],
+  "shipping_countries": [
+    { "name": "USA", "flag": "https://flagcdn.com/w80/us.png" }
+  ],
+  "shipping_note": "All orders ship from our Dallas, TX warehouse. Tracking number provided within 24 hours.",
+
+  "reviews_label": "Verified StopWatt Reviews from Real Customers",
+  "reviews_headline": "Real Americans Saving Real Money on Electricity Bills",
+  "reviews_subheadline": "Join 100,000+ satisfied customers who cut their electric bills with StopWatt",
+  "reviews": [
+    {
+      "image": "images/review-kevin.webp",
+      "body": "I'm so surprised by the amount we saved with these StopWatt devices… literally, you just plug them in and that's it! My wife was shocked when we got our first bill and we saved $35! And it's only gotten better from there… We'll be customers for life.",
+      "name": "Kevin Holmes",
+      "verified_text": "Syracuse, NY · Verified Purchase"
+    },
+    {
+      "image": "images/review-melisa.webp",
+      "body": "I don't usually write reviews, but I have to share some numbers with you all… In the first month, we saved $33. The second month, $45. The third month, $52. Fourth month, $55. If that isn't a strong testimonial, I'm not sure what is!",
+      "name": "Melisa Houston",
+      "verified_text": "St. Louis, MO · Verified Purchase"
+    },
+    {
+      "image": "images/review-wilma.webp",
+      "body": "Alright so I ended up buying 3 of these. Put one in my kitchen, one in the bedroom, and one in our living room. After six months, I can confidently say that we're easily saving at least $50 per month. StopWatt is a no brainer. You want to save money each month? Buy a few of these and you're all set.",
+      "name": "Wilma Besley",
+      "verified_text": "Orlando, FL · Verified Purchase"
+    },
+    {
+      "image": "images/review-brenda.webp",
+      "body": "If you're skeptical, I feel sorry for you. StopWatt has really made something special here. I'm not entirely sure how it works, but the savings are REAL! My electric bill went down noticeably and has stayed down every month since.",
+      "name": "Brenda Shearer",
+      "verified_text": "Syracuse, NY · Verified Purchase"
+    }
+  ],
+  "review_stats": [
+    { "value": "4.7★", "label": "Average Rating" },
+    { "value": "100,000+", "label": "Verified Customers" },
+    { "value": "94%", "label": "Would Recommend" }
+  ],
+
+  "faq_label": "StopWatt FAQ - Common Questions Answered",
+  "faq_headline": "Everything You Need to Know About StopWatt Energy Saver",
+  "faq_items": [
+    {
+      "question": "Is StopWatt legit or is it a scam?",
+      "answer": "StopWatt is 100% legitimate. Unlike cheap knockoffs, StopWatt is UL Certified and RoHS Compliant — the same safety certifications as your phone and laptop. UL (Underwriters Laboratories) is an independent, globally recognized safety body. StopWatt uses genuine patent-pending Electricity Stabilizing Technology (EST). Plus, with our 60-day money-back guarantee, you can try it risk-free. If it doesn't work for you, get a full refund. That's how confident we are."
+    },
+    {
+      "question": "How does StopWatt reduce my electric bill?",
+      "answer": "StopWatt uses patented EST technology to stabilize your home's electrical current and filter out 'dirty electricity' — wasted power that your utility meter still charges you for. The device: (1) Smooths unstable current entering your home, (2) Absorbs harmful voltage spikes before they damage appliances, and (3) Filters electromagnetic interference. The result is cleaner, more efficient power usage that shows up as real savings on your monthly electric bill — typically 20-65% reduction."
+    },
+    {
+      "question": "Is StopWatt safe to use in my home?",
+      "answer": "Absolutely. StopWatt is UL Certified, meaning it has passed rigorous independent safety testing. It's also RoHS Compliant (free from hazardous materials like lead and mercury). The device simply plugs into any standard 120V outlet — no wiring, no electrical work, and zero risk of overloading your circuits. It draws minimal power to operate and is designed for safe 24/7 operation in any American home."
+    },
+    {
+      "question": "What if StopWatt doesn't work for me?",
+      "answer": "Every StopWatt purchase is protected by our 60-day money-back guarantee. If you don't see a measurable reduction in your electric bill within 60 days, simply email support@stopwatts.com with your order number. We'll process a full refund within 5-10 business days. You don't even need to return the device in most cases. The guarantee is real, honored, and how we've earned trust from 100,000+ customers. You have nothing to lose."
+    },
+    {
+      "question": "How many StopWatt devices do I need?",
+      "answer": "For best results: Small home or apartment (800-1,200 sq ft) = 1 unit. Medium home (1,200-1,500 sq ft) = 2 units. Large home (1,500+ sq ft) = 3 units. Place each device as close as possible to your breaker box, or distribute across different floors for maximum coverage. Each unit independently stabilizes the electrical current in its zone."
+    },
+    {
+      "question": "When will I see results on my electric bill?",
+      "answer": "Most customers see measurable savings within their first billing cycle (30 days). However, the full stabilizing effect can take 6-8 weeks as StopWatt progressively cleans your home's electrical system. Savings often improve over time — many customers report their highest savings in months 3-4. Compare your bill to the same month last year for accurate measurement."
+    },
+    {
+      "question": "Is StopWatt a subscription or one-time purchase?",
+      "answer": "StopWatt is a one-time purchase with zero recurring fees. Pay once and the device works for years with no subscriptions, maintenance costs, or hidden charges. The device draws less than $1 per year in electricity to operate and requires no replacement parts or filter changes ever."
+    },
+    {
+      "question": "What's the best StopWatt package to order?",
+      "answer": "The 3-unit package at $117.60 (65% off) offers the best value for most homeowners, covering up to 2,500+ sq ft. Most customers save enough in 2-3 months to cover the entire cost. The 2-unit package ($98) works great for medium homes, while the 1-unit ($49) is perfect for apartments. All packages include free USA shipping and our 60-day guarantee."
+    }
+  ],
+
+  "company_name": "StopWatt Distributors LLC",
+  "support_phone": "+1 (888) 555-0199",
+  "company_address": "1200 Main Street, Suite 400, Dallas, TX 75202",
+  "footer_description": "StopWatt Distributors LLC is an independent authorized distributor of StopWatt energy-saving devices in the USA. We help American homeowners reduce electricity bills through innovative, certified technology backed by real science.",
+  "footer_nav_title": "Quick Links",
+  "footer_legal_title": "Legal Information",
+  "legal_links": [
+    { "modal": "privacy", "label": "Privacy Policy" },
+    { "modal": "terms", "label": "Terms of Service" },
+    { "modal": "returns", "label": "Returns & Refunds" },
+    { "modal": "contact", "label": "Contact Support" }
+  ],
+
+  "distributor_notice": "<strong>Independent Distributor Notice:</strong> This website is operated by StopWatt Distributors LLC, an independent authorized distributor of StopWatt energy-saving devices. We are not affiliated with, endorsed by, or operated by the manufacturer. All trademarks belong to their respective owners. Individual results vary. Average savings reported by customers range from 20-65%. This is a paid promotional website.",
+
+  "disclaimer": "* These statements have not been evaluated by the Food and Drug Administration. StopWatt is not intended to diagnose, treat, cure, or prevent any disease. StopWatt is an electrical device, not a medical product. Individual savings vary based on home size, electrical usage patterns, local utility rates, and other factors. Average customer-reported savings range from 20-65%. Results depicted in testimonials are not typical and your actual savings may differ. This website is for informational purposes only and does not constitute professional electrical advice. Always consult a licensed electrician for questions about your home's electrical system.",
+
+  "copyright_text": "All rights reserved. StopWatt Reviews 2026.",
+
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Privacy Policy - StopWatt Official USA",
+      "intro": "Effective date: April 1, 2026. This Privacy Policy explains how StopWatt Distributors LLC collects, uses, and protects your personal information when you visit our official USA website.",
+      "sections": [
+        {
+          "heading": "1. Information We Collect",
+          "content": "We collect information you provide directly (name, email, billing address, payment info, phone number) and automatically (IP address, browser type, device info, pages visited, cookies, referring URLs, and location data). We may also receive data from third-party analytics and advertising partners like Google and Meta."
+        },
+        {
+          "heading": "2. How We Use Your Information",
+          "content": "We use your information to: process and fulfill orders; communicate about order status; provide customer support via support@stopwatts.com; send promotional emails (unsubscribe anytime); analyze site traffic to improve user experience; comply with legal obligations; prevent fraud; and personalize your shopping experience."
+        },
+        {
+          "heading": "3. Cookies and Tracking Technologies",
+          "content": "We use cookies including: Google Analytics (traffic analysis), Meta Pixel (advertising optimization), session cookies (shopping cart), and retargeting cookies (relevant ads). You can control cookies via browser settings. Opting out of analytics won't affect site functionality."
+        },
+        {
+          "heading": "4. Third-Party Data Sharing",
+          "content": "We do NOT sell your personal data. We only share with: payment processors (Stripe/PayPal) to complete transactions; shipping carriers (USPS/UPS/FedEx) to deliver orders; analytics providers (Google) in anonymized form; and advertising platforms (Meta/Google) using hashed data only. All partners are contractually bound to protect your data."
+        },
+        {
+          "heading": "5. Data Retention",
+          "content": "We retain personal data as long as necessary to fulfill orders, comply with legal obligations (typically 5 years for tax records), and resolve disputes. You may request deletion anytime by emailing support@stopwatts.com with subject 'Data Deletion Request'. We respond within 30 days per CCPA requirements."
+        },
+        {
+          "heading": "6. Data Security Measures",
+          "content": "All data transmission uses 256-bit SSL/TLS encryption. We employ firewalls, access controls, secure server infrastructure, and regular security audits. No system is 100% secure, but we follow industry best practices to protect your information."
+        },
+        {
+          "heading": "7. Your Privacy Rights (CCPA/GDPR)",
+          "content": "US Residents (California CCPA): Right to know what data we collect, right to delete your data, right to opt-out of sale (we don't sell data). To exercise rights, email support@stopwatts.com. We respond within 30 days. No discrimination for exercising privacy rights."
+        },
+        {
+          "heading": "8. Children's Privacy",
+          "content": "This website is not directed at children under 18. We do not knowingly collect data from minors. If you believe we have inadvertently collected information from a child, contact us immediately at support@stopwatts.com for deletion."
+        },
+        {
+          "heading": "9. International Data Transfers",
+          "content": "Data may be processed on servers located in the United States. By using our site, you consent to data transfer to the USA. We comply with applicable data protection laws including GDPR for EU visitors."
+        },
+        {
+          "heading": "10. Changes to Privacy Policy",
+          "content": "We may update this policy periodically. Changes posted here with updated effective date. Continued use after changes constitutes acceptance. Significant changes will be notified via email to registered users."
+        },
+        {
+          "heading": "11. Contact Us",
+          "content": "For privacy questions or to exercise your rights: Email support@stopwatts.com with subject 'Privacy Request'. Mail: StopWatt Distributors LLC, 1200 Main Street, Suite 400, Dallas, TX 75202. We respond within 30 days."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Terms of Service - StopWatt Official USA",
+      "intro": "Last updated: April 1, 2026. By accessing this website, you agree to these Terms of Service. Please read carefully before purchasing.",
+      "sections": [
+        {
+          "heading": "1. Independent Distributor Disclosure",
+          "content": "This website is operated by StopWatt Distributors LLC, an independent authorized distributor of StopWatt products in the USA. We are NOT the manufacturer or brand owner. All product names, logos, and trademarks belong to their respective owners. We earn commissions on sales through affiliate links. This is a material connection disclosed per FTC guidelines (16 CFR § 255)."
+        },
+        {
+          "heading": "2. Acceptance of Terms",
+          "content": "By accessing this website, you confirm: (1) You are at least 18 years old, (2) You have read and understood these terms, (3) You agree to be legally bound by them. If you do not agree, do not use this site or make purchases."
+        },
+        {
+          "heading": "3. Age and Eligibility",
+          "content": "This site and products are intended for adults 18+. By using this site, you represent being at least 18 years old. We do not market to or knowingly collect information from minors."
+        },
+        {
+          "heading": "4. No Professional Advice",
+          "content": "Nothing on this website constitutes electrical, engineering, or financial advice. All content is informational only. Always consult a licensed electrician for questions about your home's electrical system. Consult a financial advisor for investment decisions."
+        },
+        {
+          "heading": "5. Product Claims and Individual Results",
+          "content": "Product descriptions reflect manufacturer information. As an independent distributor, we make no independent claims beyond authorized statements. Testimonials show individual experiences and are NOT typical. Individual results vary based on: home size, electrical usage, local utility rates, climate, and other factors. Average reported savings range from 20-65%. Your actual savings may be higher or lower."
+        },
+        {
+          "heading": "6. Affiliate Disclosure",
+          "content": "This website contains affiliate links. When you click and purchase, we earn a commission at NO additional cost to you. This compensation may influence which products we feature. We only promote products we believe provide value. This disclosure complies with FTC guidelines (16 CFR § 255)."
+        },
+        {
+          "heading": "7. Limitation of Liability",
+          "content": "To the maximum extent permitted by law, StopWatt Distributors LLC shall not be liable for indirect, incidental, special, consequential, or punitive damages. Our total liability shall not exceed the amount you paid for the specific product giving rise to the claim. This limitation applies regardless of the legal theory (contract, tort, strict liability, etc.)."
+        },
+        {
+          "heading": "8. Intellectual Property Rights",
+          "content": "All product names, logos, and trademarks displayed belong to their respective owners. Our original content (copy, design, code) is our property. You may not reproduce, republish, or redistribute our content without written permission. Violators will be prosecuted to the fullest extent of the law."
+        },
+        {
+          "heading": "9. Governing Law and Dispute Resolution",
+          "content": "These terms are governed by the laws of the State of Texas, USA, without regard to conflict of law principles. Any disputes shall be resolved in the courts of Dallas County, Texas. You consent to the exclusive jurisdiction of these courts."
+        },
+        {
+          "heading": "10. Changes to Terms",
+          "content": "We reserve the right to modify these terms at any time. Changes posted here with updated date. Continued use after changes constitutes acceptance of updated terms. Significant changes will be notified via email."
+        },
+        {
+          "heading": "11. Contact Information",
+          "content": "Questions about these Terms? Contact us: Email support@stopwatts.com (fastest response). Phone: +1 (888) 555-0199 (Mon-Fri 9am-5pm CT). Mail: StopWatt Distributors LLC, 1200 Main Street, Suite 400, Dallas, TX 75202."
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Returns & Refunds Policy - StopWatt USA",
+      "intro": "We want you completely satisfied with your StopWatt purchase. Our 60-day money-back guarantee ensures you can try StopWatt risk-free.",
+      "sections": [
+        {
+          "heading": "60-Day Money-Back Guarantee",
+          "content": "Every StopWatt purchase is covered by our 60-day money-back guarantee. If you're not satisfied for any reason, request a full refund within 60 days of purchase. No questions asked. No hassle. The guarantee is real and honored — that's how we've earned trust from 100,000+ customers."
+        },
+        {
+          "heading": "How to Request a Refund",
+          "content": "To initiate a refund: (1) Email support@stopwatts.com with subject 'Refund Request - Order #[Your Order Number]', (2) Include your full name, order number from confirmation email, and email used at checkout, (3) Briefly explain reason (optional, but helps us improve), (4) Wait for confirmation — we respond within 1-2 business days with instructions."
+        },
+        {
+          "heading": "Refund Eligibility and Conditions",
+          "content": "Qualifying for refund: Request within 60 days of purchase date. Opened and used devices are accepted — we trust you gave it a fair try. Most refunds processed WITHOUT requiring return of device. Non-refundable: Shipping charges (unless product was defective), purchases beyond 60-day window, products bought from unauthorized third parties (Amazon, eBay, etc.)."
+        },
+        {
+          "heading": "Refund Processing Timeline",
+          "content": "Step 1: Refund request reviewed within 1-2 business days. Step 2: Once approved, refund processed within 5-10 business days to original payment method. Step 3: Bank/credit card processing takes additional 3-5 business days to appear on your statement. Total time: typically 7-15 business days from request to funds in your account."
+        },
+        {
+          "heading": "Damaged or Defective Items",
+          "content": "If you receive a damaged, defective, or incorrect item: Contact us within 7 days of delivery at support@stopwatts.com with photos of damage and packaging. We will arrange FREE replacement or full refund at no cost to you — including shipping. Your satisfaction is guaranteed."
+        },
+        {
+          "heading": "Important Purchase Notice",
+          "content": "To ensure your order qualifies for our 60-day money-back guarantee, ALWAYS purchase through the official product link on THIS website (getstopwatt-us.com). Third-party marketplace purchases (Amazon, eBay, Walmart) may NOT be covered by the same guarantee terms and could be counterfeit products. Protect yourself — buy official."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact StopWatt Support - USA",
+      "intro": "We're here to help! Our USA-based support team is ready to assist with questions, orders, refunds, or technical support.",
+      "sections": [
+        {
+          "heading": "Customer Support Email (Recommended)",
+          "content": "For fastest response, email us: support@stopwatts.com. Use subject lines like: 'Order Status - #[Number]', 'Refund Request - #[Number]', or 'Technical Question'. Include your order number if applicable. We aim to respond within 1-2 business days, often same day during business hours."
+        },
+        {
+          "heading": "Phone Support",
+          "content": "Call us toll-free: +1 (888) 555-0199. Available Monday-Friday, 9:00 AM - 5:00 PM Central Time (CT). Closed weekends and major US holidays (New Year's, Memorial Day, July 4th, Labor Day, Thanksgiving, Christmas). Leave a voicemail after hours — we return calls next business day."
+        },
+        {
+          "heading": "Mailing Address",
+          "content": "StopWatt Distributors LLC, 1200 Main Street, Suite 400, Dallas, TX 75202, USA. NOTE: This is our administrative office. Returns should ONLY be sent to addresses provided in your return authorization email. Unsolicited returns to this address cannot be processed."
+        },
+        {
+          "heading": "Order and Refund Inquiries",
+          "content": "When contacting about orders/refunds, please include: (1) Your complete order number from confirmation email, (2) Email address used at checkout, (3) Date of purchase (approximate is fine), (4) Brief description of issue. This information helps us locate your account instantly and resolve your issue faster."
+        },
+        {
+          "heading": "Response Time Commitment",
+          "content": "Email inquiries: 1-2 business days. Refund requests: Within 1 business day. Phone calls: Immediate during business hours. After-hours voicemails: Next business day. We value your time and work hard to provide prompt, helpful support. Your satisfaction is our priority."
+        },
+        {
+          "heading": "About StopWatt Distributors LLC",
+          "content": "This website is operated by StopWatt Distributors LLC, an independent authorized distributor of StopWatt energy-saving devices in the USA. We are NOT the manufacturer. For manufacturer-level support, contact the brand through their official channels. We're here to help with orders, shipping, refunds, and general product questions."
+        }
+      ]
+    }
+  ],
+  
+  "seo_enhancements": {
+    "breadcrumb_schema": {
+      "enabled": true,
+      "items": [
+        { "name": "Home", "url": "https://getstopwatt-us.com/" },
+        { "name": "StopWatt USA", "url": "https://getstopwatt-us.com/us-stopwatt" }
+      ]
+    },
+    "website_schema": {
+      "name": "StopWatt Official USA",
+      "url": "https://getstopwatt-us.com",
+      "search_url": "https://getstopwatt-us.com/search?q={search_term_string}"
+    },
+    "localbusiness_schema": {
+      "enabled": true,
+      "type": "HomeGoodsStore",
+      "address": {
+        "street": "1200 Main Street, Suite 400",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75202",
+        "country": "US"
+      }
+    },
+    "preload_resources": [
+      "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap",
+      "images/hero.webp",
+      "images/logo-white.webp"
+    ],
+    "preconnect_domains": [
+      "https://fonts.googleapis.com",
+      "https://fonts.gstatic.com",
+      "https://cdnjs.cloudflare.com"
+    ]
+  }
+}

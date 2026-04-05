@@ -1,0 +1,59 @@
+@import url('theme.css');
+
+/* ─── Vigortrix Theme — Male Vitality / Confidence ─────── */
+:root {
+  --primary:       #7c2d12;
+  --primary-dark:  #5c1e0c;
+  --primary-light: #fef2f2;
+  --secondary:     #fef2f2;
+  --bg:            #ffffff;
+  --dark:          #1a1a2e;
+  --text:          #1e293b;
+  --text-muted:    #64748b;
+  --cta-bg:        #7c2d12;
+  --cta-text:      #ffffff;
+  --alert-bg:      #1a1a2e;
+  --trust-bg:      #faf5f5;
+  --border:        #e5e0e0;
+  --star:          #f59e0b;
+
+  --font-heading:  'Poppins', sans-serif;
+  --font-body:     'Poppins', sans-serif;
+
+  --radius-card:   8px;
+  --radius-btn:    50px;
+  --radius-img:    12px;
+  --shadow-card:   0 8px 32px rgba(0,0,0,0.10);
+  --shadow-hero:   0 24px 48px rgba(0,0,0,0.18);
+  --transition:    all 0.2s ease;
+}
+
+/* Hero gradient override */
+#hero {
+  background: linear-gradient(135deg, #1a1a2e 0%, #451a03 100%);
+}
+#hero::after {
+  background: linear-gradient(135deg, rgba(124,45,18,0.2) 0%, rgba(124,45,18,0.05) 100%);
+}
+.hero-badge {
+  background: rgba(124,45,18,0.2);
+  border-color: rgba(124,45,18,0.5);
+  color: #fdba74;
+}
+.hero-text h1 .highlight { color: #fdba74; }
+.hero-tagline i { color: #fdba74; }
+.hero-guarantee i { color: #fdba74; }
+.alert-badge i { color: #fdba74; }
+
+.btn-primary:hover {
+  background: var(--primary-dark);
+  box-shadow: 0 12px 32px rgba(124,45,18,0.35);
+}
+.feature-card:hover {
+  border-color: rgba(124,45,18,0.3);
+}
+
+.footer-contact i { color: #fdba74; }
+.footer-contact a { color: #fdba74; }
+.footer-col ul li a:hover { color: #fdba74; }
+.footer-distributor { border-left-color: rgba(124,45,18,0.5); }

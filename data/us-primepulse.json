@@ -1,0 +1,396 @@
+{
+  "page_model": "A",
+  "slug": "primaltrt-us",
+  "language": "en",
+  "theme": "primepulse-blue.css",
+  "product_name": "Primal TRT",
+  "company_name": "Prime Pulse Inc.",
+  "support_phone": "1-800-795-3275",
+  "support_email": "support@primepulse.com",
+  "meta_title": "Prime Pulse Male | Premium Testosterone & Circulation Support",
+  "meta_description": "Prime Pulse Male is a premium natural supplement crafted to enhance male vitality, support steady energy levels, and improve overall performance. 60-day money-back guarantee.",
+  "meta_keywords": "prime pulse male, primepulse, testosterone support, male vitality, energy booster, stamina support, natural male enhancement, circulation support",
+  "canonical_url": "https://primespulse.com/",
+  "og_image": "images/primepulse-hero.webp",
+  "cta_text": "Order Now",
+  "cta_url": "https://www.fasttrack36.com/PHPWHDRK/2RQ7DGX9/",
+  "year": "2026",
+  "alert_badges": [
+    {
+      "icon": "fa-solid fa-fire",
+      "text": "LIMITED TIME: Save Up to 75%"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "text": "60-Day Money Back Guarantee"
+    },
+    {
+      "icon": "fa-solid fa-truck-fast",
+      "text": "Free Shipping on All Orders"
+    }
+  ],
+  "nav_links": [
+    {
+      "href": "#benefits",
+      "label": "Benefits"
+    },
+    {
+      "href": "#how-it-works",
+      "label": "How It Works"
+    },
+    {
+      "href": "#ingredients",
+      "label": "Ingredients"
+    },
+    {
+      "href": "#reviews",
+      "label": "Reviews"
+    }
+  ],
+  "hero_badge": "Trusted by Thousands of Men",
+  "headline": "Advanced Support for Energy, Strength, and ",
+  "headline_highlight": "Peak Daily Performance",
+  "hero_subtext_1": "Prime Pulse Male is a premium natural supplement crafted to enhance male vitality, support steady energy levels, and improve overall performance.",
+  "hero_subtext_2": "Formulated with carefully chosen ingredients to help boost stamina, promote confidence, and support an active lifestyle when combined with healthy daily habits.",
+  "hero_tags": [
+    {
+      "icon": "fa-solid fa-bolt",
+      "text": "Boosts Energy Levels"
+    },
+    {
+      "icon": "fa-solid fa-heart",
+      "text": "Supports Stamina"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "text": "Natural Ingredients"
+    }
+  ],
+  "hero_cta_text": "Get Your Discount Now",
+  "hero_guarantee_text": "60-day money-back guarantee. No questions asked.",
+  "hero_image": "images/primepulse-hero.webp",
+  "trust_badges": [
+    {
+      "icon": "fa-solid fa-certificate",
+      "title": "Premium Quality",
+      "subtitle": "Strict quality standards"
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Natural Formula",
+      "subtitle": "Plant-based ingredients"
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "60-Day Guarantee",
+      "subtitle": "Full money-back promise"
+    },
+    {
+      "icon": "fa-solid fa-flask",
+      "title": "Lab Tested",
+      "subtitle": "Independently verified"
+    }
+  ],
+  "stats": [
+    {
+      "value": "10,000+",
+      "label": "Happy Customers"
+    },
+    {
+      "value": "4.5★",
+      "label": "Average Rating"
+    },
+    {
+      "value": "285+",
+      "label": "Verified Reviews"
+    }
+  ],
+  "benefits_label": "Why Prime Pulse Male?",
+  "benefits_headline": "Support Your Energy, Stamina & Performance Naturally",
+  "benefits_paragraphs": [
+    "Prime Pulse Male is designed to enhance male vitality, maintain steady energy levels, and support overall performance with a blend of natural ingredients.",
+    "Many users rely on Prime Pulse as part of their daily routine to help maintain steady energy, improve balance, and support performance naturally without depending on harsh stimulants.",
+    "The formula combines natural ingredients known for their role in promoting vitality and endurance, helping the body function more efficiently throughout the day."
+  ],
+  "urgency_text": "Save 75% Today — Limited Stock Available!",
+  "benefits_cta_text": "Claim Your Discount",
+  "benefits_image": "images/primepulse-benefits.webp",
+  "features_label": "Ingredients",
+  "features_headline": "Premium Ingredients for Maximum Results",
+  "features_subheadline": "Backed by Science, Crafted for Performance",
+  "features_cta_text": "Order Now — Save Up to 75%",
+  "features": [
+    {
+      "icon": "fa-solid fa-brain",
+      "title": "Tongkat Ali Extract",
+      "description": "Widely recognized for supporting male vitality and natural energy levels, helping enhance stamina, strength, and overall performance."
+    },
+    {
+      "icon": "fa-solid fa-seedling",
+      "title": "Maca Root",
+      "description": "Traditionally used to support endurance, energy, and vitality, helping maintain consistent stamina and daily performance."
+    },
+    {
+      "icon": "fa-solid fa-heart-pulse",
+      "title": "L-Arginine",
+      "description": "A key amino acid that supports healthy blood circulation, contributing to improved performance and cardiovascular health."
+    },
+    {
+      "icon": "fa-solid fa-bolt",
+      "title": "Ginseng Extract",
+      "description": "Helps boost natural energy, reduce fatigue, and support stamina, promoting consistent focus and performance throughout the day."
+    },
+    {
+      "icon": "fa-solid fa-shield",
+      "title": "Zinc",
+      "description": "An essential mineral that supports hormone balance and overall male wellness, while also contributing to immune health and vitality."
+    },
+    {
+      "icon": "fa-solid fa-pills",
+      "title": "Vitamin B Complex",
+      "description": "Supports natural energy production and helps reduce fatigue, enhancing daily performance and overall well-being."
+    },
+    {
+      "icon": "fa-solid fa-fire",
+      "title": "Fenugreek Extract",
+      "description": "Commonly used to support strength, energy, and male vitality, helping maintain endurance, performance, and confidence."
+    },
+    {
+      "icon": "fa-solid fa-blender",
+      "title": "Natural Performance Blend",
+      "description": "A proprietary blend formulated to support energy, stamina, and overall performance while promoting long-term balance and wellness."
+    }
+  ],
+  "science_label": "How It Works",
+  "science_headline": "How Prime Pulse Male Works",
+  "science_subheadline": "Support Your Body's Core Systems for Peak Performance",
+  "science_image": "images/primepulse-science.webp",
+  "science_title": "The Science Behind Prime Pulse Male",
+  "science_steps": [
+    {
+      "step": "1. Energy Support:",
+      "text": "The formula encourages steady energy release and supports both physical and mental performance, helping reduce tiredness throughout the day."
+    },
+    {
+      "step": "2. Stamina Enhancement:",
+      "text": "Natural ingredients work together to improve endurance and physical performance, helping you maintain strength and consistent activity levels."
+    },
+    {
+      "step": "3. Vitality Boost:",
+      "text": "May also assist in improving focus, motivation, and confidence by promoting internal balance and supporting long-term male wellness."
+    }
+  ],
+  "science_result": "Experience sustained energy without sudden crashes, allowing for improved productivity and daily performance.",
+  "science_cta_text": "Try Prime Pulse Risk-Free",
+  "reviews_label": "Customer Reviews",
+  "reviews_headline": "What Customers Are Saying",
+  "reviews_subheadline": "Real results from real men using Prime Pulse Male",
+  "reviews": [
+    {
+      "body": "I've been taking Prime Pulse Male for a few weeks now, and I've noticed a clear improvement in my energy and daily productivity. It has become an essential part of my routine.",
+      "name": "John M.",
+      "verified_text": "Verified Customer",
+      "image": "images/primepulse-review1.webp"
+    },
+    {
+      "body": "Very easy to use and delivered on time. After adding Prime Pulse to my routine, I experienced better stamina and improved focus throughout the day.",
+      "name": "Michael T.",
+      "verified_text": "Verified Customer",
+      "image": "images/primepulse-review2.webp"
+    },
+    {
+      "body": "Great value, especially with the bundle offers. Since using Prime Pulse Male, I feel more energized, confident, and consistent in my everyday activities.",
+      "name": "Robert K.",
+      "verified_text": "Verified Customer",
+      "image": "images/primepulse-review3.webp"
+    }
+  ],
+  "review_stats": [
+    {
+      "value": "4.5★",
+      "label": "Average Rating"
+    },
+    {
+      "value": "285+",
+      "label": "Verified Reviews"
+    },
+    {
+      "value": "93%",
+      "label": "Would Recommend"
+    }
+  ],
+  "faq_label": "FAQ",
+  "faq_headline": "Frequently Asked Questions",
+  "faq_items": [
+    {
+      "question": "Is Prime Pulse Male safe to use?",
+      "answer": "Prime Pulse Male is made with natural ingredients and produced under strict quality standards. It is designed to support energy, performance, and overall wellness. If you have any medical condition or are taking medication, consult a healthcare professional before use."
+    },
+    {
+      "question": "How should I take Prime Pulse Male?",
+      "answer": "Follow the recommended daily serving as part of your routine for best results. Consistent use helps maintain steady energy, performance, and long-term vitality."
+    },
+    {
+      "question": "What if I'm not satisfied with my purchase?",
+      "answer": "Your purchase is protected by a 60-day money-back guarantee. If you are not satisfied, you can request a refund within 60 days through a quick and simple process."
+    },
+    {
+      "question": "Is this a subscription or recurring charge?",
+      "answer": "No, this is a one-time purchase with no subscriptions or recurring billing."
+    },
+    {
+      "question": "Why is the 6 bottle package recommended?",
+      "answer": "The 6-bottle package provides the best value and ensures consistent use, helping Prime Pulse support long-term results while maximizing savings."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Standard shipping typically takes 5-7 business days within the United States. Expedited shipping options are available at checkout."
+    }
+  ],
+  "footer_description": "Prime Pulse Male is a premium natural supplement crafted to enhance male vitality, support steady energy levels, and improve overall performance. Made in the USA with premium, naturally sourced ingredients.",
+  "footer_nav_title": "Navigate",
+  "footer_legal_title": "Legal",
+  "legal_links": [
+    {
+      "modal": "privacy",
+      "label": "Privacy Policy"
+    },
+    {
+      "modal": "terms",
+      "label": "Terms of Service"
+    },
+    {
+      "modal": "returns",
+      "label": "Returns & Refunds"
+    },
+    {
+      "modal": "contact",
+      "label": "Contact Us"
+    }
+  ],
+  "distributor_notice": "<strong>Distributor Notice:</strong> This website is operated by an independent authorized distributor of Prime Pulse Male. We are not the manufacturer or brand owner. All trademarks, product names, logos, and brand identifiers are the property of their respective owners. Individual results may vary.",
+  "disclaimer": "* These statements have not been evaluated by the Food and Drug Administration. Prime Pulse Male is not intended to diagnose, treat, cure, or prevent any disease. Results may vary. Always consult your healthcare provider before starting any supplement.",
+  "copyright_text": "All rights reserved.",
+  "modals": [
+    {
+      "id": "privacy",
+      "title": "Privacy Policy",
+      "intro": "Last updated: March 2026. This Privacy Policy describes how Prime Pulse and its authorized distributors collect, use, and protect your personal information.",
+      "sections": [
+        {
+          "heading": "Information We Collect",
+          "content": "We collect personal information that you provide directly to us when you place an order, create an account, or contact customer support. This includes your name, email address, shipping address, billing address, phone number, and payment information."
+        },
+        {
+          "heading": "How We Use Your Information",
+          "content": "We use the information we collect to process and fulfill your orders, provide customer support, send order confirmations and shipping updates, and improve our website and services. We do not sell your personal information to third parties."
+        },
+        {
+          "heading": "Cookies and Tracking",
+          "content": "Our website uses cookies and similar tracking technologies to enhance your browsing experience and analyze website traffic. You can control cookies through your browser settings."
+        },
+        {
+          "heading": "Data Security",
+          "content": "We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction."
+        },
+        {
+          "heading": "Your Rights (CCPA & GDPR)",
+          "content": "Depending on your location, you may have the right to access, correct, or delete your personal information. You may also opt out of marketing communications at any time."
+        },
+        {
+          "heading": "Contact Information",
+          "content": "If you have any questions about this Privacy Policy, please contact us at support@primepulse.com or call 1-800-795-3275."
+        }
+      ]
+    },
+    {
+      "id": "terms",
+      "title": "Terms of Service",
+      "intro": "Last updated: March 2026. By accessing this website and purchasing any products, you agree to be bound by these Terms of Service.",
+      "sections": [
+        {
+          "heading": "Agreement to Terms",
+          "content": "By using this website, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+        },
+        {
+          "heading": "Product Disclaimer",
+          "content": "Prime Pulse Male is a dietary supplement designed for adult men. Follow all instructions on the product label. Results may vary based on individual circumstances."
+        },
+        {
+          "heading": "Age Restriction",
+          "content": "You must be at least 18 years of age to purchase products from this website. By placing an order, you represent and warrant that you are at least 18 years old."
+        },
+        {
+          "heading": "Order Acceptance",
+          "content": "We reserve the right to refuse or cancel any order for any reason. All prices are subject to change without notice."
+        },
+        {
+          "heading": "Shipping",
+          "content": "Shipping times are estimates only and do not guarantee delivery by a specific date. Risk of loss passes to you upon delivery to the shipping carrier."
+        },
+        {
+          "heading": "Limitation of Liability",
+          "content": "To the maximum extent permitted by law, we disclaim all warranties. In no event shall our liability exceed the purchase price paid for the product."
+        },
+        {
+          "heading": "Governing Law",
+          "content": "These Terms shall be governed by the laws of the State of Delaware, without regard to its conflict of law provisions."
+        },
+        {
+          "heading": "Contact",
+          "content": "For questions about these Terms, please contact support@primepulse.com or call 1-800-795-3275."
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "title": "Returns & Refunds",
+      "intro": "We offer a 60-day money-back guarantee on all Prime Pulse Male orders.",
+      "sections": [
+        {
+          "heading": "60-Day Money-Back Guarantee",
+          "content": "If for any reason you are not completely satisfied with your purchase, you may return the product(s) within 60 days from the date of delivery for a full refund. No questions asked."
+        },
+        {
+          "heading": "How to Initiate a Return",
+          "content": "To request a return and refund, please contact our customer support team at support@primepulse.com with your order number. Our support team will respond within 1-2 business days with return instructions."
+        },
+        {
+          "heading": "Refund Processing",
+          "content": "Refunds are typically processed within 5-10 business days after we receive your returned product. The refund will be credited to your original payment method."
+        },
+        {
+          "heading": "Damaged or Defective Products",
+          "content": "If you receive a damaged or defective product, please contact us immediately with photos of the damaged item and packaging. We will arrange for a free replacement or full refund."
+        },
+        {
+          "heading": "Contact",
+          "content": "For returns and refund requests, please contact support@primepulse.com or call 1-800-795-3275 (Monday-Friday, 9AM-5PM EST)."
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Us",
+      "intro": "We value our customers and are here to help with any questions or concerns.",
+      "sections": [
+        {
+          "heading": "Email Support",
+          "content": "For general inquiries, orders, and support: support@primepulse.com"
+        },
+        {
+          "heading": "Phone Support",
+          "content": "Call us toll-free at 1-800-795-3275. Available Monday-Friday, 9AM-5PM EST."
+        },
+        {
+          "heading": "Response Time",
+          "content": "We aim to respond to all emails within 1-2 business days."
+        },
+        {
+          "heading": "Mailing Address",
+          "content": "Prime Pulse Customer Care, 1234 Commerce Drive, Suite 200, Miami, FL 33101, United States"
+        }
+      ]
+    }
+  ]
+}

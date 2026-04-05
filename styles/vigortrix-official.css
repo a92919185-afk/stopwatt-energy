@@ -1,0 +1,1118 @@
+@import url('theme.css');
+
+/* ─── Vigortrix Official Theme — Exact Match to vigortrix.com ──────── */
+:root {
+  --primary:       #000000;
+  --primary-dark:  #000000;
+  --primary-light: #f3f4f6;
+  --secondary:     #fef3c7;
+  --bg:            #ffffff;
+  --dark:          #000000;
+  --text:          #333333;
+  --text-muted:    #666666;
+  --cta-bg:        #eab308;
+  --cta-text:      #000000;
+  --alert-bg:      #000000;
+  --trust-bg:      #f8f9fa;
+  --border:        #e5e7eb;
+  --star:          #eab308;
+  --red-accent:    #ff3300;
+  --green-check:   #22c55e;
+
+  --font-heading:  'Open Sans', sans-serif;
+  --font-body:     'Open Sans', sans-serif;
+
+  --radius-card:   4px;
+  --radius-btn:    50px;
+  --radius-img:    8px;
+  --shadow-card:   0 4px 12px rgba(0,0,0,0.15);
+  --shadow-hero:   0 20px 40px rgba(0,0,0,0.4);
+  --transition:    all 0.2s ease;
+}
+
+/* ─── BASE OVERRIDES ─── */
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333333;
+}
+
+/* Hero — Modern gradient with brand colors */
+#hero {
+  background: #050101;
+  min-height: 90vh;
+  position: relative;
+  overflow: hidden;
+}
+#hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: 
+    radial-gradient(ellipse 100% 80% at 50% -20%, rgba(234, 179, 8, 0.25) 0%, transparent 50%),
+    radial-gradient(ellipse 80% 60% at 80% 0%, rgba(127, 29, 29, 0.4) 0%, transparent 50%),
+    radial-gradient(circle at 20% 90%, rgba(127, 29, 29, 0.3) 0%, transparent 40%),
+    radial-gradient(circle at 90% 100%, rgba(234, 179, 8, 0.15) 0%, transparent 30%);
+  pointer-events: none;
+  animation: heroGlow 6s ease-in-out infinite alternate;
+}
+#hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(5, 1, 1, 0.3) 0%, rgba(5, 1, 1, 0.85) 100%);
+  pointer-events: none;
+}
+@keyframes heroGlow {
+  0% { opacity: 1; }
+  100% { opacity: 0.7; }
+}
+.hero-badge {
+  background: transparent;
+  border: 2px solid #eab308;
+  color: #eab308;
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.hero-text h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  line-height: 1.1;
+}
+.hero-text h1 .highlight { 
+  color: #ff3300; 
+  display: block;
+}
+.hero-subtext {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: rgba(255,255,255,0.9);
+}
+.hero-tagline {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.7);
+  gap: 16px;
+}
+.hero-tagline i { 
+  color: #eab308; 
+}
+
+/* Alert bar - Black with red urgency */
+#announcement-bar {
+  background: #000000;
+  padding: 12px 24px;
+}
+.alert-badges {
+  gap: 24px;
+}
+.alert-badge {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.alert-badge i {
+  color: #ff3300;
+  font-size: 0.9rem;
+}
+
+/* Primary Button — Exact yellow like official */
+.btn-primary {
+  background: #eab308;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  border-radius: 50px;
+  border: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 16px 40px;
+  box-shadow: 0 4px 15px rgba(234,179,8,0.3);
+}
+.btn-primary:hover {
+  background: #fbbf24;
+  box-shadow: 0 6px 20px rgba(234,179,8,0.5);
+  transform: translateY(-2px);
+}
+.btn-primary i {
+  margin-right: 8px;
+}
+
+/* Navbar - Black like official */
+#header {
+  background: #000000;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+.nav-logo-text {
+  color: #891217 !important;
+  font-weight: 800;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: rgba(255,255,255,0.85);
+  font-weight: 500;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.nav-links a:hover {
+  color: #eab308;
+}
+
+/* Section Label - Small title like official */
+.section-label {
+  background: transparent;
+  color: #333333;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.section-h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #333333;
+}
+
+/* Trust section - Clean with icons */
+#trust {
+  background: #ffffff;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 32px 0;
+}
+.trust-grid {
+  gap: 32px 48px;
+}
+.trust-badge {
+  background: transparent;
+  border: none;
+}
+.trust-icon {
+  background: #f3f4f6;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+}
+.trust-icon i {
+  color: #000000;
+  font-size: 1.1rem;
+}
+.trust-badge-text strong {
+  font-size: 0.9rem;
+  color: #333333;
+}
+.trust-badge-text span {
+  font-size: 0.75rem;
+  color: #666666;
+}
+
+/* Social Proof - Blue like official */
+#social-proof {
+  background: #000000;
+  padding: 48px 0;
+}
+.stat-number {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: clamp(2rem, 4vw, 2.5rem);
+}
+.stat-label {
+  color: rgba(255,255,255,0.85);
+  font-size: 0.85rem;
+}
+.stat-divider {
+  background: rgba(255,255,255,0.3);
+  height: 50px;
+}
+
+/* Benefits section */
+#benefits {
+  background: #ffffff;
+  padding: 80px 0;
+}
+.benefits-layout {
+  gap: 48px;
+}
+.benefits-text .section-h2 {
+  font-size: 1.8rem;
+}
+.urgency-badge {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #dc2626;
+  font-weight: 600;
+  border-radius: 50px;
+  font-size: 0.85rem;
+}
+
+/* Features section */
+#features {
+  background: #f8f9fa;
+  padding: 80px 0;
+}
+.features-header {
+  margin-bottom: 48px;
+}
+.features-header .section-h2 {
+  font-size: 1.8rem;
+}
+.features-header .reviews-subheadline {
+  color: #666666;
+}
+.features-grid {
+  gap: 24px;
+}
+.feature-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  padding: 28px 24px;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  border-color: #d1d5db;
+}
+.feature-icon-wrap {
+  background: #f3f4f6;
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  margin: 0 auto 16px;
+}
+.feature-icon-wrap i {
+  color: #000000;
+  font-size: 1.4rem;
+}
+.feature-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #1f2937;
+}
+.feature-desc {
+  font-size: 0.85rem;
+  color: #6b7280;
+  line-height: 1.6;
+}
+
+/* Science section */
+#science {
+  background: #ffffff;
+  padding: 80px 0;
+}
+
+/* Reviews section */
+#reviews {
+  background: #f8f9fa;
+  padding: 80px 0;
+}
+.reviews-header {
+  margin-bottom: 48px;
+}
+.reviews-grid {
+  gap: 24px;
+}
+.review-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  padding: 28px;
+  text-align: center;
+}
+.review-image {
+  margin-bottom: 16px;
+}
+.review-image img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #e5e7eb;
+}
+.review-stars {
+  color: #eab308;
+  font-size: 1rem;
+}
+.review-body {
+  font-size: 0.9rem;
+  color: #4b5563;
+  font-style: italic;
+  line-height: 1.7;
+}
+.reviewer-name {
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 4px;
+}
+.reviewer-location {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.reviews-stats {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  padding: 32px 24px;
+}
+.review-stat .number {
+  color: #000000;
+  font-weight: 800;
+}
+
+/* FAQ section */
+#faq {
+  background: #ffffff;
+  padding: 80px 0;
+}
+.faq-header {
+  margin-bottom: 48px;
+}
+.faq-list {
+  max-width: 800px;
+}
+.faq-item {
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+.faq-item:first-child {
+  border-top: 1px solid #e5e7eb;
+}
+.faq-question {
+  background: #ffffff;
+  font-weight: 600;
+  color: #1f2937;
+  padding: 20px 24px;
+  font-size: 1rem;
+}
+.faq-question:hover {
+  color: #000000;
+}
+.faq-icon {
+  background: #f3f4f6;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+}
+.faq-icon i {
+  font-size: 0.7rem;
+  color: #6b7280;
+}
+.faq-answer {
+  background: #f9fafb;
+}
+.faq-answer p {
+  color: #4b5563;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  padding: 0 24px 20px;
+}
+.faq-item.open .faq-icon {
+  background: #000000;
+}
+.faq-item.open .faq-icon i {
+  color: #ffffff;
+}
+
+/* Footer - Black like official */
+#footer {
+  background: #000000;
+  color: #9ca3af;
+  padding: 56px 0 28px;
+  font-size: 0.85rem;
+}
+.footer-logo-text {
+  color: #891217;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  font-size: 1.4rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.footer-brand p {
+  color: #9ca3af;
+  line-height: 1.6;
+}
+.footer-contact {
+  margin-top: 12px;
+  font-size: 0.85rem;
+}
+.footer-contact i {
+  color: #eab308;
+}
+.footer-contact a {
+  color: #eab308;
+}
+.footer-col h4 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+}
+.footer-col ul li a {
+  color: #9ca3af;
+  font-size: 0.85rem;
+  padding: 4px 0;
+}
+.footer-col ul li a:hover {
+  color: #eab308;
+}
+.footer-bottom {
+  border-top: 1px solid #1f2937;
+  padding-top: 24px;
+  margin-top: 24px;
+}
+.footer-distributor {
+  background: rgba(255,255,255,0.03);
+  border-left: 3px solid #eab308;
+  padding: 16px;
+  font-size: 0.75rem;
+  color: #9ca3af;
+  line-height: 1.6;
+}
+.footer-disclaimer {
+  color: #6b7280;
+  font-size: 0.7rem;
+  line-height: 1.6;
+}
+.footer-copyright {
+  color: #6b7280;
+  font-size: 0.7rem;
+}
+
+/* Modal */
+.modal-drawer {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 32px 28px;
+}
+.modal-close {
+  background: #f3f4f6;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+}
+.modal-drawer h2 {
+  color: #111827;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+.modal-drawer h3 {
+  color: #1f2937;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.modal-drawer p {
+  color: #4b5563;
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+/* Check icons in reviews */
+.fa-check-circle {
+  color: #22c55e !important;
+}
+
+/* ─── MOBILE OPTIMIZATION — Harmonious & Professional ─── */
+@media (max-width: 768px) {
+  /* Base mobile settings */
+  html {
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  body {
+    font-size: 16px;
+    line-height: 1.5;
+    overflow-x: hidden;
+  }
+
+  .container {
+    padding: 0 20px;
+    max-width: 100%;
+  }
+
+  /* ─── ALERT BAR ─── */
+  #announcement-bar {
+    padding: 8px 16px;
+  }
+  .alert-badges {
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+  }
+  .alert-badge {
+    font-size: 0.7rem;
+    padding: 4px 10px;
+  }
+
+  /* ─── NAVBAR ─── */
+  .nav-inner {
+    padding: 12px 20px;
+  }
+  .nav-logo-text {
+    font-size: 1.25rem;
+  }
+  .nav-links {
+    display: none;
+  }
+
+  /* ─── HERO ─── */
+  #hero {
+    min-height: auto;
+    padding: 0;
+  }
+  .hero-inner {
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 32px 20px 24px;
+    text-align: center;
+  }
+  .hero-img-col {
+    order: -1;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  .hero-product-img {
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+  .hero-text {
+    width: 100%;
+    padding: 0;
+  }
+  .hero-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    padding: 4px 12px;
+    margin-bottom: 12px;
+    width: auto;
+  }
+  .hero-text h1 {
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+  .hero-text h1 .highlight {
+    display: inline;
+  }
+  .hero-subtext {
+    font-size: 0.85rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  .hero-tagline {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    font-size: 0.75rem;
+    margin-bottom: 20px;
+  }
+  .hero-tagline span {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .hero-cta-group {
+    align-items: center;
+    gap: 12px;
+  }
+  .hero-cta-group .btn-primary {
+    width: 100%;
+    max-width: 260px;
+    padding: 14px 24px;
+    font-size: 0.9rem;
+    justify-content: center;
+  }
+  .hero-guarantee {
+    font-size: 0.7rem;
+    text-align: center;
+    color: rgba(255,255,255,0.6);
+  }
+  .hero-guarantee i {
+    color: #eab308;
+  }
+
+  /* ─── TRUST ─── */
+  #trust {
+    padding: 28px 0;
+  }
+  .trust-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px 24px;
+  }
+  .trust-badge {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-align: left;
+  }
+  .trust-icon {
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+  }
+  .trust-icon i {
+    font-size: 0.9rem;
+  }
+  .trust-badge-text strong {
+    font-size: 0.8rem;
+  }
+  .trust-badge-text span {
+    font-size: 0.65rem;
+  }
+
+  /* ─── SOCIAL PROOF ─── */
+  #social-proof {
+    padding: 36px 20px;
+  }
+  .social-proof-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+  }
+  .stat-item {
+    padding: 8px 16px;
+    text-align: center;
+  }
+  .stat-number {
+    font-size: 1.5rem;
+  }
+  .stat-label {
+    font-size: 0.7rem;
+  }
+  .stat-divider {
+    display: none;
+  }
+
+  /* ─── ALL SECTIONS ─── */
+  #benefits,
+  #features,
+  #science,
+  #reviews,
+  #faq {
+    padding: 48px 0;
+  }
+
+  .section-label {
+    font-size: 0.7rem;
+    margin-bottom: 8px;
+    display: block;
+    text-align: center;
+  }
+
+  .section-h2 {
+    font-size: 1.3rem;
+    text-align: center;
+    margin-bottom: 16px;
+    padding: 0 10px;
+  }
+
+  .section-body {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  /* ─── BENEFITS ─── */
+  .benefits-layout {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .benefits-img {
+    order: -1;
+    width: 100%;
+    text-align: center;
+  }
+  .benefits-img img {
+    max-width: 280px;
+    height: auto;
+    display: inline-block;
+  }
+  .benefits-text {
+    text-align: center;
+    padding: 0 10px;
+  }
+  .benefits-text .section-h2 {
+    padding: 0;
+  }
+  .urgency-badge {
+    display: inline-flex;
+    font-size: 0.75rem;
+    padding: 8px 16px;
+    margin: 16px auto;
+    text-align: center;
+    display: block;
+    width: fit-content;
+  }
+  #benefits .btn-primary {
+    display: block;
+    width: 100%;
+    max-width: 240px;
+    margin: 20px auto 0;
+    text-align: center;
+  }
+
+  /* ─── FEATURES ─── */
+  .features-header {
+    margin-bottom: 32px;
+  }
+  .features-header .section-h2 {
+    padding: 0 10px;
+  }
+  .features-header .reviews-subheadline {
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 0 10px;
+  }
+  .features-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0 20px;
+  }
+  .feature-card {
+    padding: 20px;
+    text-align: center;
+  }
+  .feature-icon-wrap {
+    margin: 0 auto 14px;
+  }
+  .feature-title {
+    font-size: 0.95rem;
+  }
+  .feature-desc {
+    font-size: 0.8rem;
+  }
+  #features .btn-primary {
+    display: block;
+    width: 100%;
+    max-width: 240px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  /* ─── SCIENCE ─── */
+  .science .features-header {
+    margin-bottom: 32px;
+  }
+  .science .benefits-layout {
+    padding: 0 20px;
+  }
+  .science .benefits-text {
+    padding: 0;
+  }
+  .science .section-h3 {
+    font-size: 1rem;
+    text-align: center;
+  }
+  .science .section-body {
+    text-align: center;
+    font-size: 0.85rem;
+  }
+  .science p[style*="background"] {
+    font-size: 0.85rem;
+    padding: 12px 16px !important;
+    text-align: center;
+    margin: 16px 0;
+  }
+  .science .btn-primary {
+    display: block;
+    width: 100%;
+    max-width: 240px;
+    margin: 20px auto 0;
+    text-align: center;
+  }
+
+  /* ─── REVIEWS ─── */
+  .reviews-header {
+    margin-bottom: 32px;
+  }
+  .reviews-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0 20px;
+    margin-bottom: 24px;
+  }
+  .review-card {
+    padding: 20px;
+    text-align: center;
+  }
+  .review-stars {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 12px;
+  }
+  .review-body {
+    font-size: 0.85rem;
+    text-align: center;
+  }
+  .reviewer-name {
+    font-size: 0.9rem;
+  }
+  .reviews-stats {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 24px 20px;
+    margin: 0 20px;
+  }
+  .review-stat {
+    text-align: center;
+    flex: 0 0 auto;
+  }
+  .review-stat .number {
+    font-size: 1.3rem;
+  }
+  .review-stat .label {
+    font-size: 0.7rem;
+  }
+
+  /* ─── FAQ ─── */
+  .faq-header {
+    margin-bottom: 32px;
+  }
+  .faq-list {
+    padding: 0 20px;
+  }
+  .faq-item {
+    margin-bottom: 10px;
+  }
+  .faq-question {
+    font-size: 0.9rem;
+    padding: 16px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .faq-icon {
+    flex-shrink: 0;
+    margin-left: 8px;
+  }
+  .faq-answer p {
+    font-size: 0.85rem;
+    padding: 0 16px 16px;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+  /* ─── FOOTER ─── */
+  #footer {
+    padding: 36px 0 24px;
+  }
+  .footer-inner {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding: 0 20px;
+    text-align: center;
+  }
+  .footer-logo-text {
+    display: block;
+    text-align: center;
+  }
+  .company-name {
+    text-align: center;
+    display: block;
+  }
+  .footer-brand {
+    text-align: center;
+  }
+  .footer-brand p {
+    max-width: 100%;
+  }
+  .footer-contact {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+  }
+  .footer-col {
+    text-align: center;
+  }
+  .footer-col h4 {
+    text-align: center;
+  }
+  .footer-col ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+  .footer-col ul li a {
+    justify-content: center;
+  }
+  .footer-bottom {
+    padding: 20px 20px 0;
+    margin-top: 20px;
+    align-items: center;
+  }
+  .footer-distributor {
+    text-align: left;
+    font-size: 0.7rem;
+    padding: 12px;
+    width: 100%;
+  }
+  .footer-disclaimer {
+    text-align: center;
+    font-size: 0.65rem;
+  }
+  .footer-copyright {
+    text-align: center;
+    font-size: 0.65rem;
+  }
+
+  /* ─── BUTTONS ─── */
+  .btn-primary {
+    padding: 14px 24px;
+    font-size: 0.85rem;
+    min-height: 48px;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+
+  /* ─── MODAL ─── */
+  .modal-overlay {
+    align-items: flex-end;
+  }
+  .modal-drawer {
+    width: 100%;
+    max-width: 100%;
+    max-height: 90vh;
+    border-radius: 16px 16px 0 0;
+    padding: 24px 20px;
+    overflow-y: auto;
+  }
+  .modal-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 32px;
+    height: 32px;
+  }
+  .modal-drawer h2 {
+    font-size: 1.1rem;
+    padding-right: 32px;
+    margin-bottom: 16px;
+  }
+  .modal-drawer h3 {
+    font-size: 0.95rem;
+    margin: 16px 0 8px;
+  }
+  .modal-drawer p {
+    font-size: 0.85rem;
+    line-height: 1.6;
+  }
+
+  /* ─── UTILITIES ─── */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .trust-icon img,
+  .review-card img {
+    max-width: 100%;
+  }
+  
+  html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+
+  /* ─── TOUCH DEVICE OPTIMIZATIONS ─── */
+  a, button {
+    touch-action: manipulation;
+  }
+  
+  .btn-primary:active {
+    transform: scale(0.98);
+    opacity: 0.95;
+  }
+  
+  .feature-card:active {
+    transform: scale(0.99);
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 380px) {
+  .container {
+    padding: 0 16px;
+  }
+  
+  .hero-text h1 {
+    font-size: 1.1rem;
+  }
+  
+  .section-h2 {
+    font-size: 1.15rem;
+  }
+  
+  .hero-product-img {
+    max-width: 280px !important;
+  }
+  
+  .benefits-img img {
+    max-width: 240px !important;
+  }
+  
+  .hero-cta-group .btn-primary {
+    max-width: 220px;
+    padding: 12px 20px;
+    font-size: 0.8rem;
+  }
+  
+  .feature-card {
+    padding: 16px;
+  }
+  
+  .review-card {
+    padding: 16px;
+  }
+}
+
+/* Touch devices */
+@media (hover: none) and (pointer: coarse) {
+  .btn-primary:hover {
+    transform: none;
+  }
+  .btn-primary:active {
+    transform: scale(0.97);
+  }
+  .feature-card:hover {
+    transform: none;
+  }
+  .feature-card:active {
+    transform: scale(0.98);
+  }
+}
